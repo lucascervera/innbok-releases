@@ -1,0 +1,2 @@
+- {{embed [[innBoK/class/feature]]}}
+-

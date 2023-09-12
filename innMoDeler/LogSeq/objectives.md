@@ -1,0 +1,3 @@
+- [[Ganar dinero]]
+- [[Maximizar el valor para los accionistas]]
+- [[Mejorar el Bienestar Social]]

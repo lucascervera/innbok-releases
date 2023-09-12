@@ -1,0 +1,27 @@
+
+## Definition
+the use of narrative techniques to communicate the brand's purpose, values, and mission to customers.
+## Description
+## Examples
+- ### innBoK/storytelling/examples/Space X
+	{{embed [[innBoK/storytelling/examples/Space X]]}}
+- ### innBoK/storytelling/examples/vein visualizer
+	{{embed [[innBoK/storytelling/examples/vein visualizer]]}}
+- ### innBoK/storytelling/examples/extinguished animals meat
+	{{embed [[innBoK/storytelling/examples/extinguished animals meat]]}}
+- ### innBoK/storytelling/examples/Exotic Pet Rental
+	{{embed [[innBoK/storytelling/examples/Exotic Pet Rental]]}}
+- ### innBoK/storytelling/examples/Underwater restaurant
+	{{embed [[innBoK/storytelling/examples/Underwater restaurant]]}}
+
+
+
+
+
+
+
+
+
+
+
+

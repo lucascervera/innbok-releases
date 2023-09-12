@@ -1,0 +1,30 @@
+/* replace the word "seed/question/project" in the lines below with whatever keyword you want to target */
+/* You will also need to replace the hex-code for the color to whatever color you want */
+.ls-block[data-refs-self*='"prompt"'] {
+  font-family: courier, courier new, serif;
+  transform: translateY(5px);
+  box-shadow: inset 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+  margin-top: 20px;
+  margin-left: 20px;
+  cursor: text;
+  border: 1px solid #999; 
+  background: white;
+  box-shadow: inset 0px 1px 4px #666;
+  padding: 10px;
+  max-height:200px;
+  overflow:scroll;
+}
+.ls-block[data-refs-self*='"innbok-edit"'] {
+  font-family: courier, courier new, serif; 
+  transform: translateY(5px);
+  box-shadow: inset 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+  margin-top: 20px;
+  margin-left: 20px;
+  cursor: text;
+  border: 1px solid #999; 
+  background: white;
+  box-shadow: inset 0px 1px 4px #666;
+  padding: 10px;
+  max-height:200px;
+  overflow:scroll;
+}

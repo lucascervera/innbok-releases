@@ -1,0 +1,11 @@
+- #questions
+	- #question Does the entrepreneur possess strong leadership qualities?
+	- #question Is the entrepreneur able to inspire and motivate others?
+	- #question Is the entrepreneur capable of making strategic decisions and guiding the team?
+- #relations
+	- [[founders]]: Founders are the individuals who establish and initiate a business model, often taking on leadership roles in its development and growth.
+	- [[founder agreement]]: A founder agreement is a legal document that outlines the roles, responsibilities, and ownership of a company's founders.
+	- [[person (id)/skills]]: the unique identification and competencies of individuals within a business model.
+- #TODOs
+	- TODO Evaluate the leadership skills of the founder
+	- TODO  Determine if they possess strong leadership qualities and the ability to inspire and motivate others.

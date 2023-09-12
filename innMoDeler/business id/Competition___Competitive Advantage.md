@@ -1,0 +1,11 @@
+- #questions
+	- #question Does the startup have a competitive advantage over rivals?
+	- #question Is the advantage truly unique and differentiated?
+	- #question Is it sustainable in the long term?
+- #relations
+	- [[solution (id)/features]]: the unique characteristics and functionalities of a product or service that addresses the needs of a specific customer segment within a business model.
+	- [[person (id)/skills]]: the unique identification and competencies of individuals within a business model.
+	- [[risks]]: potential negative outcomes or uncertainties that may affect the success and sustainability of a business model.
+- #TODOs
+	- TODO Assess if the startup has a competitive advantage over rivals
+	- TODO  Determine if the advantage is unique and sustainable.
