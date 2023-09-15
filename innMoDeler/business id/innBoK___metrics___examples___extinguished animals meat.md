@@ -10,13 +10,3 @@
 			 Evaluar el impacto ambiental de la empresa, como el uso de tierras y recursos, puede demostrar su compromiso con prácticas sostenibles en biotecnología e ingeniería genética.
 
 
-
-
-
-
-
-
-
-
-
-

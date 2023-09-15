@@ -10,13 +10,3 @@
 				 Obtaining certifications and endorsements from reputable organizations that verify the company's ethical and sustainable practices in genetic engineering and biotechnology.
 
 
-
-
-
-
-
-
-
-
-
-

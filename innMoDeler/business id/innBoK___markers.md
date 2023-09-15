@@ -5,20 +5,14 @@
 	- {{embed [[innBoK/marker/uncertainty]]}}
 - [[innBoK/marker/attention]]
 	- {{embed [[innBoK/marker/attention]]}}
+- [[innBoK/marker/phase]]
+	- {{embed [[innBoK/marker/phase]]}}
+- [[innBoK/marker/priority]]
+	- {{embed [[innBoK/marker/priority]]}}
 - [[innBoK/marker/positive]]
 	- {{embed [[innBoK/marker/positive]]}}
 - [[innBoK/marker/negative]]
 	- {{embed [[innBoK/marker/negative]]}}
 - [[innBoK/marker/validation]]
 	- {{embed [[innBoK/marker/validation]]}}
-
-
-
-
-
-
-
-
-
-
 

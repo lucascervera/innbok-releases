@@ -6,13 +6,3 @@
 			 [[Memorability]]: Use visually striking images and storytelling techniques to leave a lasting impression. Emphasize the company's role in scientific advancement, luxury food innovation, and environmental sustainability.
 
 
-
-
-
-
-
-
-
-
-
-

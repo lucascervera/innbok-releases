@@ -15,13 +15,3 @@ Sustainability and regulation: The company is committed to operating sustainably
 It's important to note that the viability and acceptance of this business model may be subject to ethical, environmental, and regulatory considerations. Furthermore, the commercialization of meat from extinct species raises challenges and ethical issues related to biodiversity conservation and respect for animal life.
 
 
-
-
-
-
-
-
-
-
-
-

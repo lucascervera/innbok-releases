@@ -7,13 +7,3 @@ a hypothesis refers to a proposed explanation or assumption about a specific asp
 - ## #list 
 {{embed [[innBoK/class/hypothesis/list]]}}
 
-
-
-
-
-
-
-
-
-
-

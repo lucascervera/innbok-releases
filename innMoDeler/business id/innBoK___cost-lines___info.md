@@ -1,4 +1,10 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/cost-lines]]
+item-classes:: #[[cost]]
+relations:: [[activities]]
+weight:: 4
+
 ## Definition
 the expenses incurred in the production and delivery of a product or service within a business model.
 ## Description
@@ -9,19 +15,9 @@ the expenses incurred in the production and delivery of a product or service wit
 	{{embed [[innBoK/cost-lines/examples/vein visualizer]]}}
 - ### innBoK/cost-lines/examples/extinguished animals meat
 	{{embed [[innBoK/cost-lines/examples/extinguished animals meat]]}}
-- ### innBoK/cost-lines/examples/Exotic Pet Rental
-	{{embed [[innBoK/cost-lines/examples/Exotic Pet Rental]]}}
-- ### innBoK/cost-lines/examples/Underwater restaurant
-	{{embed [[innBoK/cost-lines/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

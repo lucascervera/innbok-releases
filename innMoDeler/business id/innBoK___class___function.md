@@ -7,13 +7,3 @@ alias:: function
 - ## #list 
 {{embed [[innBoK/class/function/list]]}}
 
-
-
-
-
-
-
-
-
-
-

@@ -1,5 +1,4 @@
-				- Technologies and components used in the vein visualization device solution include:
-				 Infrared imaging technology
+				        - Infrared imaging technology
 				 Vein detection algorithms
 				 High-resolution cameras
 				 LED light sources

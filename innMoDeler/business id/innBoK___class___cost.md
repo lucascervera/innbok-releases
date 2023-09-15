@@ -7,13 +7,3 @@ alias:: cost
 - ## #list 
 {{embed [[innBoK/class/cost/list]]}}
 
-
-
-
-
-
-
-
-
-
-

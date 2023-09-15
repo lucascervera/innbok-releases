@@ -8,13 +8,3 @@
 				 The company can offer different pricing options based on the specific cuts or types of meat, allowing for customization and catering to different customer preferences.
 
 
-
-
-
-
-
-
-
-
-
-

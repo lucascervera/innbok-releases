@@ -1,4 +1,10 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/activities]]
+item-classes:: #[[work]]
+relations:: [[business]] [[operations]]
+weight:: 3
+
 ## Definition
 the tasks or processes that a business engages in to create, deliver, and capture value for its customers.
 ## Description
@@ -9,19 +15,9 @@ the tasks or processes that a business engages in to create, deliver, and captur
 	{{embed [[innBoK/activities/examples/vein visualizer]]}}
 - ### innBoK/activities/examples/extinguished animals meat
 	{{embed [[innBoK/activities/examples/extinguished animals meat]]}}
-- ### innBoK/activities/examples/Exotic Pet Rental
-	{{embed [[innBoK/activities/examples/Exotic Pet Rental]]}}
-- ### innBoK/activities/examples/Underwater restaurant
-	{{embed [[innBoK/activities/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

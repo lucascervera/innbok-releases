@@ -14,13 +14,3 @@
 				 Compliance with legal and ethical regulations in biotechnology and genetic engineering.
 
 
-
-
-
-
-
-
-
-
-
-

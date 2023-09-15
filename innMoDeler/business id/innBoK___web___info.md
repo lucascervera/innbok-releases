@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/web]]
+relations:: [[]]
+weight:: 2
+
 ## Definition
 the online platform or digital presence of a business model, which includes websites, social media, and other online channels.
 ## Description
@@ -9,19 +14,9 @@ the online platform or digital presence of a business model, which includes webs
 	{{embed [[innBoK/web/examples/vein visualizer]]}}
 - ### innBoK/web/examples/extinguished animals meat
 	{{embed [[innBoK/web/examples/extinguished animals meat]]}}
-- ### innBoK/web/examples/Exotic Pet Rental
-	{{embed [[innBoK/web/examples/Exotic Pet Rental]]}}
-- ### innBoK/web/examples/Underwater restaurant
-	{{embed [[innBoK/web/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

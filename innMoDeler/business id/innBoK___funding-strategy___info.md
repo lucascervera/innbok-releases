@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/funding-strategy]]
+relations:: [[]]
+weight:: 4
+
 ## Definition
 A funding strategy is a plan outlining how a business will secure financial resources to support its operations and growth.
 ## Description
@@ -9,19 +14,9 @@ A funding strategy is a plan outlining how a business will secure financial reso
 	{{embed [[innBoK/funding-strategy/examples/vein visualizer]]}}
 - ### innBoK/funding-strategy/examples/extinguished animals meat
 	{{embed [[innBoK/funding-strategy/examples/extinguished animals meat]]}}
-- ### innBoK/funding-strategy/examples/Exotic Pet Rental
-	{{embed [[innBoK/funding-strategy/examples/Exotic Pet Rental]]}}
-- ### innBoK/funding-strategy/examples/Underwater restaurant
-	{{embed [[innBoK/funding-strategy/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

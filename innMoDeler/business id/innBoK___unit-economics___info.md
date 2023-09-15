@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/unit-economics]]
+relations:: [[]]
+weight:: 4
+
 ## Definition
 the financial analysis of the revenue and costs associated with a single unit of a product or service.
 ## Description
@@ -9,19 +14,9 @@ the financial analysis of the revenue and costs associated with a single unit of
 	{{embed [[innBoK/unit-economics/examples/vein visualizer]]}}
 - ### innBoK/unit-economics/examples/extinguished animals meat
 	{{embed [[innBoK/unit-economics/examples/extinguished animals meat]]}}
-- ### innBoK/unit-economics/examples/Exotic Pet Rental
-	{{embed [[innBoK/unit-economics/examples/Exotic Pet Rental]]}}
-- ### innBoK/unit-economics/examples/Underwater restaurant
-	{{embed [[innBoK/unit-economics/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/naming]]
+relations:: [[]]
+weight:: 3
+
 ## Definition
 the process of choosing and defining the name of a business, product, or service within a business model.
 ## Description
@@ -9,19 +14,9 @@ the process of choosing and defining the name of a business, product, or service
 	{{embed [[innBoK/naming/examples/vein visualizer]]}}
 - ### innBoK/naming/examples/extinguished animals meat
 	{{embed [[innBoK/naming/examples/extinguished animals meat]]}}
-- ### innBoK/naming/examples/Exotic Pet Rental
-	{{embed [[innBoK/naming/examples/Exotic Pet Rental]]}}
-- ### innBoK/naming/examples/Underwater restaurant
-	{{embed [[innBoK/naming/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

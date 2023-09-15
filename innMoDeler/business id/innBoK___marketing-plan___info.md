@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/marketing-plan]]
+relations:: [[]]
+weight:: 1
+
 ## Definition
 A marketing plan outlines the strategies and tactics a business will use to promote and sell its products or services.
 ## Description
@@ -9,19 +14,9 @@ A marketing plan outlines the strategies and tactics a business will use to prom
 	{{embed [[innBoK/marketing-plan/examples/vein visualizer]]}}
 - ### innBoK/marketing-plan/examples/extinguished animals meat
 	{{embed [[innBoK/marketing-plan/examples/extinguished animals meat]]}}
-- ### innBoK/marketing-plan/examples/Exotic Pet Rental
-	{{embed [[innBoK/marketing-plan/examples/Exotic Pet Rental]]}}
-- ### innBoK/marketing-plan/examples/Underwater restaurant
-	{{embed [[innBoK/marketing-plan/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

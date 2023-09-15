@@ -7,13 +7,3 @@ alias:: emotion
 - ## #list 
 {{embed [[innBoK/class/emotion/list]]}}
 
-
-
-
-
-
-
-
-
-
-

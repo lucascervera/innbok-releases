@@ -6,13 +6,3 @@
 				 Collaborations with conservation organizations: To address ethical and environmental concerns, the company can collaborate with conservation organizations and promote their efforts in biodiversity conservation. This partnership can help build trust with consumers and demonstrate a commitment to responsible business practices.
 
 
-
-
-
-
-
-
-
-
-
-

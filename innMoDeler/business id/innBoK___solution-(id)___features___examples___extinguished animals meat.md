@@ -10,13 +10,3 @@
 				 The company implements innovative marketing strategies to promote the story and value of its products, attracting consumers in the luxury food market.
 
 
-
-
-
-
-
-
-
-
-
-

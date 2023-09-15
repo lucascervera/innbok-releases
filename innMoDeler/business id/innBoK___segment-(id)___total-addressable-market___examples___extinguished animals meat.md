@@ -4,13 +4,3 @@
 					 This segment may include affluent individuals, food connoisseurs, and fine dining establishments that prioritize offering rare and extraordinary dining options to their clientele.
 
 
-
-
-
-
-
-
-
-
-
-

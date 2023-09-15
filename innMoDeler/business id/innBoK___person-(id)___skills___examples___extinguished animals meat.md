@@ -10,13 +10,3 @@
 					 Proficiency in developing marketing strategies and sales channels for luxury food products, with a focus on exclusivity and unique gastronomic experiences.
 
 
-
-
-
-
-
-
-
-
-
-

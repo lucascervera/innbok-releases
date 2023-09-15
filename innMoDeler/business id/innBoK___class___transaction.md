@@ -7,13 +7,3 @@ a transaction refers to the exchange of goods, services, or money between two or
 - ## #list 
 {{embed [[innBoK/class/transaction/list]]}}
 
-
-
-
-
-
-
-
-
-
-

@@ -7,13 +7,3 @@ alias:: offering
 - ## #list 
 {{embed [[innBoK/class/offering/list]]}}
 
-
-
-
-
-
-
-
-
-
-

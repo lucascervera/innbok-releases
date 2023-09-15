@@ -1,4 +1,10 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/assumptions]]
+item-classes:: #[[assumption]]
+relations:: [[]]
+weight:: 7
+
 ## Definition
 Aspects that the entrepreneurial team knew are true and relevant to their business.
 ## Description
@@ -9,19 +15,9 @@ Aspects that the entrepreneurial team knew are true and relevant to their busine
 	{{embed [[innBoK/assumptions/examples/vein visualizer]]}}
 - ### innBoK/assumptions/examples/extinguished animals meat
 	{{embed [[innBoK/assumptions/examples/extinguished animals meat]]}}
-- ### innBoK/assumptions/examples/Exotic Pet Rental
-	{{embed [[innBoK/assumptions/examples/Exotic Pet Rental]]}}
-- ### innBoK/assumptions/examples/Underwater restaurant
-	{{embed [[innBoK/assumptions/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

@@ -5,13 +5,3 @@
 				 To calculate the lifetime value, the revenue generated from the customer would be discounted to its present value using an appropriate discount rate, considering the time value of money and the uncertainty of future cash flows. The resulting net present value would represent the lifetime value of the customer to the company.
 
 
-
-
-
-
-
-
-
-
-
-

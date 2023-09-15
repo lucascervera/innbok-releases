@@ -7,13 +7,3 @@ an asset refers to any resource or property that has value and can generate futu
 - ## #list 
 {{embed [[innBoK/class/asset/list]]}}
 
-
-
-
-
-
-
-
-
-
-

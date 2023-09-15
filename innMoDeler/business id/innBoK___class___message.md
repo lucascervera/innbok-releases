@@ -7,13 +7,3 @@ alias:: message
 - ## #list 
 {{embed [[innBoK/class/message/list]]}}
 
-
-
-
-
-
-
-
-
-
-

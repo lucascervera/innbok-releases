@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/solution-(id)]]
+relations:: [[business]] [[opportunity]]
+weight:: 6
+
 ## Definition
 a specific product, service, or process that a business offers to address the needs or problems of its customers.
 ## Description
@@ -9,11 +14,54 @@ a specific product, service, or process that a business offers to address the ne
 	{{embed [[innBoK/solution-(id)/examples/vein visualizer]]}}
 - ### innBoK/solution-(id)/examples/extinguished animals meat
 	{{embed [[innBoK/solution-(id)/examples/extinguished animals meat]]}}
-- ### innBoK/solution-(id)/examples/Exotic Pet Rental
-	{{embed [[innBoK/solution-(id)/examples/Exotic Pet Rental]]}}
-- ### innBoK/solution-(id)/examples/Underwater restaurant
-	{{embed [[innBoK/solution-(id)/examples/Underwater restaurant]]}}
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
+#N/A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#N/A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#N/A
 
 
 

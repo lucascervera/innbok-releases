@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/operations]]
+relations:: [[business]]
+weight:: 5
+
 ## Definition
 the activities and processes involved in delivering a product or service to customers within a business model.
 ## Description
@@ -9,19 +14,9 @@ the activities and processes involved in delivering a product or service to cust
 	{{embed [[innBoK/operations/examples/vein visualizer]]}}
 - ### innBoK/operations/examples/extinguished animals meat
 	{{embed [[innBoK/operations/examples/extinguished animals meat]]}}
-- ### innBoK/operations/examples/Exotic Pet Rental
-	{{embed [[innBoK/operations/examples/Exotic Pet Rental]]}}
-- ### innBoK/operations/examples/Underwater restaurant
-	{{embed [[innBoK/operations/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

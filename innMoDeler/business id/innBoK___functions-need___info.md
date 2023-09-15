@@ -1,4 +1,10 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/functions-need]]
+item-classes:: #[[function]]
+relations:: [[]]
+weight:: 3
+
 ## Definition
 High-level specification of the set of tasks that are necessary to carry out a business activity towards the achievement of a business goal.
 ## Description
@@ -9,19 +15,9 @@ High-level specification of the set of tasks that are necessary to carry out a b
 	{{embed [[innBoK/functions-need/examples/vein visualizer]]}}
 - ### innBoK/functions-need/examples/extinguished animals meat
 	{{embed [[innBoK/functions-need/examples/extinguished animals meat]]}}
-- ### innBoK/functions-need/examples/Exotic Pet Rental
-	{{embed [[innBoK/functions-need/examples/Exotic Pet Rental]]}}
-- ### innBoK/functions-need/examples/Underwater restaurant
-	{{embed [[innBoK/functions-need/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

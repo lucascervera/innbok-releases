@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/legal-implications]]
+relations:: [[]]
+weight:: 4
+
 ## Definition
 the potential consequences or obligations that arise from the legal framework within which a business model operates.
 ## Description
@@ -9,19 +14,10 @@ the potential consequences or obligations that arise from the legal framework wi
 	{{embed [[innBoK/legal-implications/examples/vein visualizer]]}}
 - ### innBoK/legal-implications/examples/extinguished animals meat
 	{{embed [[innBoK/legal-implications/examples/extinguished animals meat]]}}
-- ### innBoK/legal-implications/examples/Exotic Pet Rental
-	{{embed [[innBoK/legal-implications/examples/Exotic Pet Rental]]}}
-- ### innBoK/legal-implications/examples/Underwater restaurant
-	{{embed [[innBoK/legal-implications/examples/Underwater restaurant]]}}
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
-
-
-
-
-
-
-
-
-
-
+#N/A
 

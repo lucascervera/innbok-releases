@@ -7,13 +7,3 @@ alias:: solution
 - ## #list 
 {{embed [[innBoK/class/solution/list]]}}
 
-
-
-
-
-
-
-
-
-
-

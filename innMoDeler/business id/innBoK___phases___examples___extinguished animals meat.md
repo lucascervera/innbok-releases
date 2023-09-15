@@ -10,13 +10,3 @@
 			 Ethically slaughtering animals and marketing the meat in the luxury food market.
 
 
-
-
-
-
-
-
-
-
-
-

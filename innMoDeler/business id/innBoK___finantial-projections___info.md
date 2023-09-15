@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/finantial-projections]]
+relations:: [[]]
+weight:: 2
+
 ## Definition
 Financial projections are estimates of future financial performance of a business model, based on assumptions and historical data.
 ## Description
@@ -9,19 +14,9 @@ Financial projections are estimates of future financial performance of a busines
 	{{embed [[innBoK/finantial-projections/examples/vein visualizer]]}}
 - ### innBoK/finantial-projections/examples/extinguished animals meat
 	{{embed [[innBoK/finantial-projections/examples/extinguished animals meat]]}}
-- ### innBoK/finantial-projections/examples/Exotic Pet Rental
-	{{embed [[innBoK/finantial-projections/examples/Exotic Pet Rental]]}}
-- ### innBoK/finantial-projections/examples/Underwater restaurant
-	{{embed [[innBoK/finantial-projections/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

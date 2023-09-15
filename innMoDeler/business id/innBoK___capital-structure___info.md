@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/capital-structure]]
+relations:: [[]]
+weight:: 4
+
 ## Definition
 the financial resources, assets, and investments that a business uses to generate income and support its operations.
 ## Description
@@ -9,19 +14,9 @@ the financial resources, assets, and investments that a business uses to generat
 	{{embed [[innBoK/capital-structure/examples/vein visualizer]]}}
 - ### innBoK/capital-structure/examples/extinguished animals meat
 	{{embed [[innBoK/capital-structure/examples/extinguished animals meat]]}}
-- ### innBoK/capital-structure/examples/Exotic Pet Rental
-	{{embed [[innBoK/capital-structure/examples/Exotic Pet Rental]]}}
-- ### innBoK/capital-structure/examples/Underwater restaurant
-	{{embed [[innBoK/capital-structure/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

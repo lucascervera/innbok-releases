@@ -10,13 +10,3 @@
 				 Ensuring that all activities related to the production and sale of revived extinct animal meat comply with ethical and regulatory standards.
 
 
-
-
-
-
-
-
-
-
-
-

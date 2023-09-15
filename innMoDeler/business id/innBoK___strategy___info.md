@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/strategy]]
+relations:: [[goals (organization)]] [[mission]] [[vision]]
+weight:: 5
+
 ## Definition
 the plan of action or approach taken by a business model to achieve its goals and objectives.
 ## Description
@@ -9,19 +14,9 @@ the plan of action or approach taken by a business model to achieve its goals an
 	{{embed [[innBoK/strategy/examples/vein visualizer]]}}
 - ### innBoK/strategy/examples/extinguished animals meat
 	{{embed [[innBoK/strategy/examples/extinguished animals meat]]}}
-- ### innBoK/strategy/examples/Exotic Pet Rental
-	{{embed [[innBoK/strategy/examples/Exotic Pet Rental]]}}
-- ### innBoK/strategy/examples/Underwater restaurant
-	{{embed [[innBoK/strategy/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

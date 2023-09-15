@@ -21,13 +21,3 @@ Threats:
 			 Competition from alternative luxury food options and traditional meat producers
 
 
-
-
-
-
-
-
-
-
-
-

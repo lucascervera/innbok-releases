@@ -7,13 +7,3 @@ alias:: journey
 - ## #list 
 {{embed [[innBoK/class/journey/list]]}}
 
-
-
-
-
-
-
-
-
-
-

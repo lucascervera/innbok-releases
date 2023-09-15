@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/business]]
+relations:: [[]]
+weight:: 9
+
 ## Definition
 A business is an organization or entity that provides goods or services in exchange for profit or revenue.
 ## Description
@@ -9,19 +14,9 @@ A business is an organization or entity that provides goods or services in excha
 	{{embed [[innBoK/business/examples/vein visualizer]]}}
 - ### innBoK/business/examples/extinguished animals meat
 	{{embed [[innBoK/business/examples/extinguished animals meat]]}}
-- ### innBoK/business/examples/Exotic Pet Rental
-	{{embed [[innBoK/business/examples/Exotic Pet Rental]]}}
-- ### innBoK/business/examples/Underwater restaurant
-	{{embed [[innBoK/business/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

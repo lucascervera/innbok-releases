@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/mission]]
+relations:: [[business objectives]]
+weight:: 7
+
 ## Definition
 the purpose or reason for the existence of a business, including its goals and values.
 ## Description
@@ -9,19 +14,9 @@ the purpose or reason for the existence of a business, including its goals and v
 	{{embed [[innBoK/mission/examples/vein visualizer]]}}
 - ### innBoK/mission/examples/extinguished animals meat
 	{{embed [[innBoK/mission/examples/extinguished animals meat]]}}
-- ### innBoK/mission/examples/Exotic Pet Rental
-	{{embed [[innBoK/mission/examples/Exotic Pet Rental]]}}
-- ### innBoK/mission/examples/Underwater restaurant
-	{{embed [[innBoK/mission/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

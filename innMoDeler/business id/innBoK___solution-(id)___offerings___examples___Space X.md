@@ -9,7 +9,7 @@
 				 #offering [[Tecnologías avanzadas de cohetes y naves espaciales]]
 				 Desarrollo de tecnologías avanzadas en cohetes y naves espaciales.
 				 #offering [[Colonización futura de Marte]]
-				 Objetivo a largo plazo de SpaceX de habilitar la colonización de Marte.
+				 Objetivo a largo plazo de Space X de habilitar la colonización de Marte.
 
 
 

@@ -9,16 +9,6 @@
 				 Customer feedback and surveys: The cost of gathering customer feedback and conducting surveys to improve customer acquisition strategies.
 				 Analytics and tracking tools: The cost of using analytics and tracking tools to measure the effectiveness of customer acquisition efforts and optimize campaigns.
 
-
-
-
-
-
-
-
-
-
-
 innBoK___finance___examples___Space X.md	- ## #[[innBoK/finance]]
 
 
@@ -26,15 +16,5 @@ innBoK___finance___examples___vein visualizer.md	- ## #[[innBoK/finance]]
 
 
 innBoK___finance___examples___extinguished animals meat.md	- ## #[[innBoK/finance]]
-
-
-
-
-
-
-
-
-
-
 
 

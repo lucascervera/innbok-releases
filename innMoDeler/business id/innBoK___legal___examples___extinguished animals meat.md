@@ -6,13 +6,3 @@
 		 Intellectual property licensing: Legal can assist in obtaining necessary licenses and permissions for the use of intellectual property related to the revived extinct animals, ensuring compliance with intellectual property laws and regulations.
 
 
-
-
-
-
-
-
-
-
-
-

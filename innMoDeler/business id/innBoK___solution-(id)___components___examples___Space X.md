@@ -1,5 +1,4 @@
-				- Technologies and components used in SpaceX's solutions include:
-				 Rocket engines
+				        - Rocket engines
 				 Propellant tanks
 				 Avionics systems
 				 Guidance and navigation systems

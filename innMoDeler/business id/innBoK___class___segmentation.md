@@ -9,13 +9,3 @@ Segmentation is important in business because it allows companies to better unde
 - ## #list 
 {{embed [[innBoK/class/segmentation/list]]}}
 
-
-
-
-
-
-
-
-
-
-

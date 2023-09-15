@@ -10,13 +10,3 @@
 			 The company needs to implement marketing strategies and use selective sales channels to reach their target audience.
 
 
-
-
-
-
-
-
-
-
-
-

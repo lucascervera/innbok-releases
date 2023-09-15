@@ -16,16 +16,6 @@
 			 Lease financing
 			 Joint ventures
 
-
-
-
-
-
-
-
-
-
-
 innBoK___business-project___examples___Space X.md	- ## #[[innBoK/business-project]]
 
 
@@ -33,15 +23,5 @@ innBoK___business-project___examples___vein visualizer.md	- ## #[[innBoK/busines
 
 
 innBoK___business-project___examples___extinguished animals meat.md	- ## #[[innBoK/business-project]]
-
-
-
-
-
-
-
-
-
-
 
 

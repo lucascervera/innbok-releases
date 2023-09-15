@@ -6,13 +6,3 @@
 				 His expertise and guidance are essential in maintaining the company's scientific integrity and compliance with regulatory standards.
 
 
-
-
-
-
-
-
-
-
-
-

@@ -30,13 +30,3 @@
 		 A través de estrategias de marketing y alianzas estratégicas, atraemos a consumidores
 
 
-
-
-
-
-
-
-
-
-
-

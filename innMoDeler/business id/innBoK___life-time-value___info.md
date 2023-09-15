@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/life-time-value]]
+relations:: [[]]
+weight:: 5
+
 ## Definition
 Lifetime value is the net present value of the total revenue a customer will generate over their relationship with a business.
 ## Description
@@ -9,19 +14,9 @@ Lifetime value is the net present value of the total revenue a customer will gen
 	{{embed [[innBoK/life-time-value/examples/vein visualizer]]}}
 - ### innBoK/life-time-value/examples/extinguished animals meat
 	{{embed [[innBoK/life-time-value/examples/extinguished animals meat]]}}
-- ### innBoK/life-time-value/examples/Exotic Pet Rental
-	{{embed [[innBoK/life-time-value/examples/Exotic Pet Rental]]}}
-- ### innBoK/life-time-value/examples/Underwater restaurant
-	{{embed [[innBoK/life-time-value/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

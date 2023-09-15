@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/customer-aquisition-cost]]
+relations:: [[]]
+weight:: 6
+
 ## Definition
 the cost incurred by a business to attract and convert a new customer.
 ## Description
@@ -9,19 +14,9 @@ the cost incurred by a business to attract and convert a new customer.
 	{{embed [[innBoK/customer-aquisition-cost/examples/vein visualizer]]}}
 - ### innBoK/customer-aquisition-cost/examples/extinguished animals meat
 	{{embed [[innBoK/customer-aquisition-cost/examples/extinguished animals meat]]}}
-- ### innBoK/customer-aquisition-cost/examples/Exotic Pet Rental
-	{{embed [[innBoK/customer-aquisition-cost/examples/Exotic Pet Rental]]}}
-- ### innBoK/customer-aquisition-cost/examples/Underwater restaurant
-	{{embed [[innBoK/customer-aquisition-cost/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

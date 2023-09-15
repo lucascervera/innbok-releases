@@ -7,13 +7,3 @@ alias:: channel
 - ## #list 
 {{embed [[innBoK/class/channel/list]]}}
 
-
-
-
-
-
-
-
-
-
-

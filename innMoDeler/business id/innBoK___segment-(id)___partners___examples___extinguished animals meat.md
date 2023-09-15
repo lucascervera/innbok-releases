@@ -10,13 +10,3 @@
 				 The company collaborates with ethical food advocacy groups to address concerns and promote transparency in their processes, ensuring consumer trust.
 
 
-
-
-
-
-
-
-
-
-
-

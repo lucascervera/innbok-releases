@@ -7,13 +7,3 @@ alias:: insight
 - ## #list 
 {{embed [[innBoK/class/insight/list]]}}
 
-
-
-
-
-
-
-
-
-
-

@@ -7,13 +7,3 @@ alias:: value
 - ## #list 
 {{embed [[innBoK/class/value/list]]}}
 
-
-
-
-
-
-
-
-
-
-

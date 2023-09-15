@@ -1,4 +1,10 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/milestones]]
+item-classes:: #[[milestone]]
+relations:: [[]]
+weight:: 4
+
 ## Definition
 Milestones are specific achievements or events that mark significant progress or success in a business model.
 ## Description
@@ -9,19 +15,9 @@ Milestones are specific achievements or events that mark significant progress or
 	{{embed [[innBoK/milestones/examples/vein visualizer]]}}
 - ### innBoK/milestones/examples/extinguished animals meat
 	{{embed [[innBoK/milestones/examples/extinguished animals meat]]}}
-- ### innBoK/milestones/examples/Exotic Pet Rental
-	{{embed [[innBoK/milestones/examples/Exotic Pet Rental]]}}
-- ### innBoK/milestones/examples/Underwater restaurant
-	{{embed [[innBoK/milestones/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

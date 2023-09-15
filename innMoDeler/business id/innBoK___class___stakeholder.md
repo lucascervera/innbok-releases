@@ -7,13 +7,3 @@ a stakeholder refers to any individual or group who has an interest or concern i
 - ## #list 
 {{embed [[innBoK/class/stakeholder/list]]}}
 
-
-
-
-
-
-
-
-
-
-

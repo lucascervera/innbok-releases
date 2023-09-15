@@ -10,13 +10,3 @@
 			 Renowned biologist and entrepreneur, specializing in genomics and synthetic life, bringing scientific and business acumen.
 
 
-
-
-
-
-
-
-
-
-
-

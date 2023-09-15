@@ -16,13 +16,3 @@
 			 Determining the legal responsibilities and potential liabilities of the company in case of any adverse health effects or other negative consequences resulting from the consumption of the revived extinct animal meat.
 
 
-
-
-
-
-
-
-
-
-
-

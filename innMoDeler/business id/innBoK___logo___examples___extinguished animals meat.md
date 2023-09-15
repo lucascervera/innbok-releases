@@ -4,13 +4,3 @@
 			 Earthy tones used to reflect the natural world and emphasize the company's commitment to sustainability.
 
 
-
-
-
-
-
-
-
-
-
-

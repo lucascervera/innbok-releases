@@ -16,13 +16,3 @@
 		 This segment consists of scientists, researchers, and experts in the field of biotechnology and genetic engineering. They may be interested in the company's advancements and collaborate on research and development projects, contributing to the scientific knowledge in the field.
 
 
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/AI-business-description]]
+relations:: [[]]
+weight:: 
+
 ## Definition
 
 ## Description
@@ -9,19 +14,9 @@
 	{{embed [[innBoK/AI-business-description/examples/vein visualizer]]}}
 - ### innBoK/AI-business-description/examples/extinguished animals meat
 	{{embed [[innBoK/AI-business-description/examples/extinguished animals meat]]}}
-- ### innBoK/AI-business-description/examples/Exotic Pet Rental
-	{{embed [[innBoK/AI-business-description/examples/Exotic Pet Rental]]}}
-- ### innBoK/AI-business-description/examples/Underwater restaurant
-	{{embed [[innBoK/AI-business-description/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

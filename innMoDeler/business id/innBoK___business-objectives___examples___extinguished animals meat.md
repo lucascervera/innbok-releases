@@ -7,13 +7,3 @@
 		 Achieve profitability by optimizing operational efficiency and cost management strategies in all aspects of the business
 
 
-
-
-
-
-
-
-
-
-
-

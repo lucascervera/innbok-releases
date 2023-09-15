@@ -4,13 +4,3 @@
 			 We are committed to operating in compliance with all legal and ethical regulations, collaborating with experts and regulatory authorities to ensure the preservation of biodiversity and respect for animal life.
 
 
-
-
-
-
-
-
-
-
-
-

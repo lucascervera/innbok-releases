@@ -10,13 +10,3 @@
 			 The company must implement marketing strategies to promote and sell its luxury meat products.
 
 
-
-
-
-
-
-
-
-
-
-

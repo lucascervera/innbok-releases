@@ -8,13 +8,3 @@
 			 By projecting cash inflows and outflows, the company can assess its cash position, plan for expenses, identify potential cash shortfalls, and make informed financial decisions to ensure the business's financial health and sustainability.
 
 
-
-
-
-
-
-
-
-
-
-

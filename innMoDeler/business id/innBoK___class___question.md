@@ -7,13 +7,3 @@ alias:: question
 - ## #list 
 {{embed [[innBoK/class/question/list]]}}
 
-
-
-
-
-
-
-
-
-
-

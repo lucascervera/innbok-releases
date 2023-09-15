@@ -20,13 +20,3 @@
 				 Competitors in the high-end dining and specialty food retail sector, offering unique and premium products to affluent consumers.
 
 
-
-
-
-
-
-
-
-
-
-

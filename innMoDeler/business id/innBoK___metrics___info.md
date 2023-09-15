@@ -1,4 +1,10 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/metrics]]
+item-classes:: #[[metric]]
+relations:: [[business]] [[activities]]
+weight:: 5
+
 ## Definition
 Metrics are quantifiable measures used to evaluate the performance and effectiveness of a business model.
 ## Description
@@ -9,19 +15,9 @@ Metrics are quantifiable measures used to evaluate the performance and effective
 	{{embed [[innBoK/metrics/examples/vein visualizer]]}}
 - ### innBoK/metrics/examples/extinguished animals meat
 	{{embed [[innBoK/metrics/examples/extinguished animals meat]]}}
-- ### innBoK/metrics/examples/Exotic Pet Rental
-	{{embed [[innBoK/metrics/examples/Exotic Pet Rental]]}}
-- ### innBoK/metrics/examples/Underwater restaurant
-	{{embed [[innBoK/metrics/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

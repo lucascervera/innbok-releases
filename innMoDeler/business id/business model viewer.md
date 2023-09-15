@@ -119,9 +119,11 @@ icon:: 🚢
 			- {{embed [[finantial projections/content]]}}
 		- #### 40 [[funding strategy]]
 		  background-color:: blue
+		  collapsed:: true
 			- {{embed [[funding strategy/content]]}}
 		- #### 41 [[funding sources]]
 		  background-color:: blue
+		  collapsed:: true
 			- {{embed [[funding sources/content]]}}
 		- #### 42 [[capital structure]]
 		  background-color:: blue

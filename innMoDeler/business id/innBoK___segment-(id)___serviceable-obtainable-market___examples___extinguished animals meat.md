@@ -5,13 +5,3 @@
 					 Fine dining establishments: Targeting high-end restaurants that prioritize unique and premium ingredients, the company can supply its luxury meat to establishments known for their culinary excellence, creating a niche market within the fine dining industry.
 
 
-
-
-
-
-
-
-
-
-
-

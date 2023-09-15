@@ -6,13 +6,3 @@
 			 Initial private offering (IPO): The company could consider going public through a private offering to raise capital from private investors. This would involve offering shares of the company to private investors who are interested in supporting the company's unique business model.
 
 
-
-
-
-
-
-
-
-
-
-

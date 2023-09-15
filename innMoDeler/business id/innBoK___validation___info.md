@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/validation]]
+relations:: [[]]
+weight:: 
+
 ## Definition
 the process of testing and verifying the assumptions and hypotheses underlying a business model.
 ## Description
@@ -9,19 +14,9 @@ the process of testing and verifying the assumptions and hypotheses underlying a
 	{{embed [[innBoK/validation/examples/vein visualizer]]}}
 - ### innBoK/validation/examples/extinguished animals meat
 	{{embed [[innBoK/validation/examples/extinguished animals meat]]}}
-- ### innBoK/validation/examples/Exotic Pet Rental
-	{{embed [[innBoK/validation/examples/Exotic Pet Rental]]}}
-- ### innBoK/validation/examples/Underwater restaurant
-	{{embed [[innBoK/validation/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

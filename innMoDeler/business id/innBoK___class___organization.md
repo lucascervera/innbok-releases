@@ -7,13 +7,3 @@ alias:: organization
 - ## #list 
 {{embed [[innBoK/class/organization/list]]}}
 
-
-
-
-
-
-
-
-
-
-

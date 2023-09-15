@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/unfair-advantage]]
+relations:: [[]]
+weight:: 4
+
 ## Definition
 
 ## Description
@@ -9,19 +14,9 @@
 	{{embed [[innBoK/unfair-advantage/examples/vein visualizer]]}}
 - ### innBoK/unfair-advantage/examples/extinguished animals meat
 	{{embed [[innBoK/unfair-advantage/examples/extinguished animals meat]]}}
-- ### innBoK/unfair-advantage/examples/Exotic Pet Rental
-	{{embed [[innBoK/unfair-advantage/examples/Exotic Pet Rental]]}}
-- ### innBoK/unfair-advantage/examples/Underwater restaurant
-	{{embed [[innBoK/unfair-advantage/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

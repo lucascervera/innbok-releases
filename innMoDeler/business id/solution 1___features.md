@@ -11,7 +11,6 @@ status:: #inactive
 	- {{embed [[innBoK/solution-(id)/features/data]]}}
 	- {{embed [[solution 1/features/status]]}}
 - #class #feature
-  collapsed:: true
 	- {{embed [[innBoK/class/feature]]}}
 - #innCoPilot
   collapsed:: true

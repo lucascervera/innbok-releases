@@ -1,4 +1,10 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/experiments]]
+item-classes:: #[[experiment]]
+relations:: [[risks]] [[assumptions]]
+weight:: 5
+
 ## Definition
 Experiments are tests or trials designed to validate assumptions and hypotheses about a business model's value proposition, customer segments, and revenue streams.
 ## Description
@@ -9,19 +15,9 @@ Experiments are tests or trials designed to validate assumptions and hypotheses 
 	{{embed [[innBoK/experiments/examples/vein visualizer]]}}
 - ### innBoK/experiments/examples/extinguished animals meat
 	{{embed [[innBoK/experiments/examples/extinguished animals meat]]}}
-- ### innBoK/experiments/examples/Exotic Pet Rental
-	{{embed [[innBoK/experiments/examples/Exotic Pet Rental]]}}
-- ### innBoK/experiments/examples/Underwater restaurant
-	{{embed [[innBoK/experiments/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

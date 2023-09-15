@@ -10,13 +10,3 @@
 			 Individuals who prioritize environmentally friendly and ethically sourced food products.
 
 
-
-
-
-
-
-
-
-
-
-

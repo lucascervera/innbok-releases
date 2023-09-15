@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/branding]]
+relations:: [[]]
+weight:: 3
+
 ## Definition
 Branding is the process of creating a unique image and identity for a business, product, or service.
 ## Description
@@ -9,19 +14,9 @@ Branding is the process of creating a unique image and identity for a business, 
 	{{embed [[innBoK/branding/examples/vein visualizer]]}}
 - ### innBoK/branding/examples/extinguished animals meat
 	{{embed [[innBoK/branding/examples/extinguished animals meat]]}}
-- ### innBoK/branding/examples/Exotic Pet Rental
-	{{embed [[innBoK/branding/examples/Exotic Pet Rental]]}}
-- ### innBoK/branding/examples/Underwater restaurant
-	{{embed [[innBoK/branding/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

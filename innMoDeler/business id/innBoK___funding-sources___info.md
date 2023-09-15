@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/funding-sources]]
+relations:: [[]]
+weight:: 2
+
 ## Definition
 the various ways a business model generates revenue or acquires capital to support its operations.
 ## Description
@@ -9,19 +14,9 @@ the various ways a business model generates revenue or acquires capital to suppo
 	{{embed [[innBoK/funding-sources/examples/vein visualizer]]}}
 - ### innBoK/funding-sources/examples/extinguished animals meat
 	{{embed [[innBoK/funding-sources/examples/extinguished animals meat]]}}
-- ### innBoK/funding-sources/examples/Exotic Pet Rental
-	{{embed [[innBoK/funding-sources/examples/Exotic Pet Rental]]}}
-- ### innBoK/funding-sources/examples/Underwater restaurant
-	{{embed [[innBoK/funding-sources/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

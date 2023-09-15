@@ -13,7 +13,7 @@
 		 [[Advanced Space Technology Developers]]
 		 This segment includes researchers and developers who are focused on advancing space technology. They are looking for partnerships and collaborations to improve efficiency and safety in space missions, particularly in propulsion systems, lightweight materials, and precise landing technologies.
 		 [[Third-Party Launch and Cargo Customers]]
-		 This segment comprises companies and organizations in the space industry that require launch and cargo services for their own satellite deployments or space missions. They are seeking a reliable and efficient partner to handle their launch and cargo needs, providing Space N with additional revenue streams and increased utilization of their rockets and resources.
+		 This segment comprises companies and organizations in the space industry that require launch and cargo services for their own satellite deployments or space missions. They are seeking a reliable and efficient partner to handle their launch and cargo needs, providing Space X with additional revenue streams and increased utilization of their rockets and resources.
 
 
 

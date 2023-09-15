@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/segment-(id)]]
+relations:: [[]]
+weight:: 
+
 ## Definition
 Group of customers with similar needs, behaviors, or characteristics that a business targets with its products or services. They are defined based on specific values of segmentation criteria.
 ## Description
@@ -9,19 +14,19 @@ Group of customers with similar needs, behaviors, or characteristics that a busi
 	{{embed [[innBoK/segment-(id)/examples/vein visualizer]]}}
 - ### innBoK/segment-(id)/examples/extinguished animals meat
 	{{embed [[innBoK/segment-(id)/examples/extinguished animals meat]]}}
-- ### innBoK/segment-(id)/examples/Exotic Pet Rental
-	{{embed [[innBoK/segment-(id)/examples/Exotic Pet Rental]]}}
-- ### innBoK/segment-(id)/examples/Underwater restaurant
-	{{embed [[innBoK/segment-(id)/examples/Underwater restaurant]]}}
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
-
-
-
-
-
-
-
-
-
-
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
 

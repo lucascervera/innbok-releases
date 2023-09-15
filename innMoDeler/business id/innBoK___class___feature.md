@@ -7,13 +7,3 @@ a feature refers to a distinctive characteristic or functionality of a product o
 - ## #list 
 {{embed [[innBoK/class/feature/list]]}}
 
-
-
-
-
-
-
-
-
-
-

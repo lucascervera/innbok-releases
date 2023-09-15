@@ -5,13 +5,3 @@
 					 Biotechnology and genetic engineering researchers: This segment comprises scientists and researchers in the field of biotechnology and genetic engineering. They are interested in collaborating with the company to further their knowledge and understanding of extinct species and contribute to the advancement of scientific research in this area.
 
 
-
-
-
-
-
-
-
-
-
-

@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/keys]]
+relations:: [[]]
+weight:: 
+
 ## Definition
 
 ## Description
@@ -9,19 +14,9 @@
 	{{embed [[innBoK/keys/examples/vein visualizer]]}}
 - ### innBoK/keys/examples/extinguished animals meat
 	{{embed [[innBoK/keys/examples/extinguished animals meat]]}}
-- ### innBoK/keys/examples/Exotic Pet Rental
-	{{embed [[innBoK/keys/examples/Exotic Pet Rental]]}}
-- ### innBoK/keys/examples/Underwater restaurant
-	{{embed [[innBoK/keys/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

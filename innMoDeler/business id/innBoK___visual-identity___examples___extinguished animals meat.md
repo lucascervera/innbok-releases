@@ -5,13 +5,3 @@
 			 Visual elements: Delicate and intricate visual elements, such as ornate patterns or motifs inspired by the extinct animals' natural habitats, could be used to create a visually captivating brand experience. These elements can be incorporated into marketing materials, packaging design, and other brand touchpoints.
 
 
-
-
-
-
-
-
-
-
-
-

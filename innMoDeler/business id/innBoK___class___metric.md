@@ -7,13 +7,3 @@ alias:: metric
 - ## #list 
 {{embed [[innBoK/class/metric/list]]}}
 
-
-
-
-
-
-
-
-
-
-

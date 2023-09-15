@@ -7,13 +7,3 @@ an assumption refers to a belief or statement about a certain aspect of the busi
 - ## #list 
 {{embed [[innBoK/class/assumption/list]]}}
 
-
-
-
-
-
-
-
-
-
-

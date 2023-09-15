@@ -2,13 +2,3 @@
 			 They strive to redefine the luxury food market by offering exclusive and exceptional gastronomic experiences, while contributing to the conservation of biodiversity and respecting animal life.
 
 
-
-
-
-
-
-
-
-
-
-

@@ -9,16 +9,6 @@
 			 #risk [[Legal and Regulatory Constraints]]
 			 The company's activities involving biotechnology and genetic engineering may be subject to stringent regulations and oversight. Non-compliance or changes in regulations can hinder operations and increase costs.
 
-
-
-
-
-
-
-
-
-
-
 innBoK___validation___examples___Space X.md	- ## #[[innBoK/validation]]
 
 
@@ -26,15 +16,5 @@ innBoK___validation___examples___vein visualizer.md	- ## #[[innBoK/validation]]
 
 
 innBoK___validation___examples___extinguished animals meat.md	- ## #[[innBoK/validation]]
-
-
-
-
-
-
-
-
-
-
 
 

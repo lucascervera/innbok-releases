@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/storytelling]]
+relations:: [[]]
+weight:: 1
+
 ## Definition
 the use of narrative techniques to communicate the brand's purpose, values, and mission to customers.
 ## Description
@@ -9,19 +14,9 @@ the use of narrative techniques to communicate the brand's purpose, values, and 
 	{{embed [[innBoK/storytelling/examples/vein visualizer]]}}
 - ### innBoK/storytelling/examples/extinguished animals meat
 	{{embed [[innBoK/storytelling/examples/extinguished animals meat]]}}
-- ### innBoK/storytelling/examples/Exotic Pet Rental
-	{{embed [[innBoK/storytelling/examples/Exotic Pet Rental]]}}
-- ### innBoK/storytelling/examples/Underwater restaurant
-	{{embed [[innBoK/storytelling/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

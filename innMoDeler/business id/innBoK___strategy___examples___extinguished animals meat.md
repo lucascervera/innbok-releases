@@ -7,13 +7,3 @@
 			 Constantly innovating and adapting to changes in consumer preferences and market trends to maintain a competitive edge in the luxury food market.
 
 
-
-
-
-
-
-
-
-
-
-

@@ -10,13 +10,3 @@
 			 A team of marketing and sales experts who can effectively promote and sell the luxury meat to the target audience.
 
 
-
-
-
-
-
-
-
-
-
-

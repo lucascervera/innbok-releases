@@ -9,13 +9,3 @@
 			 Strategic alliances: The company can form alliances with organizations or institutions that share a similar mission or vision. These alliances can provide funding, resources, and collaborative opportunities.
 
 
-
-
-
-
-
-
-
-
-
-

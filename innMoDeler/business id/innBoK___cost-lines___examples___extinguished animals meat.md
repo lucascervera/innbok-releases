@@ -10,13 +10,3 @@
 			 Expenses related to marketing and selling the meat products made from revived extinct animals, such as advertising, promotion, and distribution costs.
 
 
-
-
-
-
-
-
-
-
-
-

@@ -10,13 +10,3 @@
 			 A collection of gourmet meat products made from the DNA of extinct animals, providing a one-of-a-kind indulgence for food connoisseurs.
 
 
-
-
-
-
-
-
-
-
-
-

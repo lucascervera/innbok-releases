@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/person-(id)]]
+relations:: [[]]
+weight:: 7
+
 ## Definition
 Physical person who assumes a role and is part of the stakeholders of the business.
 ## Description
@@ -9,11 +14,12 @@ Physical person who assumes a role and is part of the stakeholders of the busine
 	{{embed [[innBoK/person-(id)/examples/vein visualizer]]}}
 - ### innBoK/person-(id)/examples/extinguished animals meat
 	{{embed [[innBoK/person-(id)/examples/extinguished animals meat]]}}
-- ### innBoK/person-(id)/examples/Exotic Pet Rental
-	{{embed [[innBoK/person-(id)/examples/Exotic Pet Rental]]}}
-- ### innBoK/person-(id)/examples/Underwater restaurant
-	{{embed [[innBoK/person-(id)/examples/Underwater restaurant]]}}
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
+#N/A
 
 
 

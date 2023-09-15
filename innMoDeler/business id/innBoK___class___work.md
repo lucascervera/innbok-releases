@@ -7,13 +7,3 @@ alias:: work
 - ## #list 
 {{embed [[innBoK/class/work/list]]}}
 
-
-
-
-
-
-
-
-
-
-

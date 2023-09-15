@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/pitch]]
+relations:: [[]]
+weight:: 2
+
 ## Definition
 A pitch is a concise and compelling presentation of a business idea or model to potential investors or customers.
 ## Description
@@ -9,19 +14,9 @@ A pitch is a concise and compelling presentation of a business idea or model to 
 	{{embed [[innBoK/pitch/examples/vein visualizer]]}}
 - ### innBoK/pitch/examples/extinguished animals meat
 	{{embed [[innBoK/pitch/examples/extinguished animals meat]]}}
-- ### innBoK/pitch/examples/Exotic Pet Rental
-	{{embed [[innBoK/pitch/examples/Exotic Pet Rental]]}}
-- ### innBoK/pitch/examples/Underwater restaurant
-	{{embed [[innBoK/pitch/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

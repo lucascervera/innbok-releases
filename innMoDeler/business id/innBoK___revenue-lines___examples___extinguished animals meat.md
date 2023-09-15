@@ -10,13 +10,3 @@
 			 The company may generate revenue by entering into research and development contracts with government agencies, universities, or private organizations, providing genetic engineering services or expertise.
 
 
-
-
-
-
-
-
-
-
-
-

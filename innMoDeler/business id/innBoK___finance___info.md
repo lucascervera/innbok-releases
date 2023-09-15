@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/finance]]
+relations:: [[business]] [[activities]]
+weight:: 5
+
 ## Definition
 the management of financial resources and the allocation of funds within a business model.
 ## Description
@@ -9,10 +14,10 @@ the management of financial resources and the allocation of funds within a busin
 	{{embed [[innBoK/finance/examples/vein visualizer]]}}
 - ### innBoK/finance/examples/extinguished animals meat
 	{{embed [[innBoK/finance/examples/extinguished animals meat]]}}
-- ### innBoK/finance/examples/Exotic Pet Rental
-	{{embed [[innBoK/finance/examples/Exotic Pet Rental]]}}
-- ### innBoK/finance/examples/Underwater restaurant
-	{{embed [[innBoK/finance/examples/Underwater restaurant]]}}
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 
 

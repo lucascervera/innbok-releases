@@ -7,13 +7,3 @@ alias:: goal
 - ## #list 
 {{embed [[innBoK/class/goal/list]]}}
 
-
-
-
-
-
-
-
-
-
-

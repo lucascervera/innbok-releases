@@ -1,4 +1,9 @@
 
+innbok-type:: internal
+metamodel-id:: [[innBoK/team]]
+relations:: [[]]
+weight:: 7
+
 ## Definition
 A group of individuals working together towards a common goal within a business model.
 ## Description
@@ -9,19 +14,9 @@ A group of individuals working together towards a common goal within a business 
 	{{embed [[innBoK/team/examples/vein visualizer]]}}
 - ### innBoK/team/examples/extinguished animals meat
 	{{embed [[innBoK/team/examples/extinguished animals meat]]}}
-- ### innBoK/team/examples/Exotic Pet Rental
-	{{embed [[innBoK/team/examples/Exotic Pet Rental]]}}
-- ### innBoK/team/examples/Underwater restaurant
-	{{embed [[innBoK/team/examples/Underwater restaurant]]}}
-
-
-
-
-
-
-
-
-
-
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
 
 

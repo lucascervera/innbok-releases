@@ -13,13 +13,3 @@
 			 Ethical considerations
 
 
-
-
-
-
-
-
-
-
-
-

@@ -7,13 +7,3 @@ alias:: person
 - ## #list 
 {{embed [[innBoK/class/person/list]]}}
 
-
-
-
-
-
-
-
-
-
-

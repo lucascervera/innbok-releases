@@ -9,16 +9,6 @@
 			 #experiment [[Expansion into New Markets]]
 			 Explore opportunities to expand the distribution of the vein visualization device into new geographic markets or other healthcare specialties through pilot programs and partnerships with local distributors or healthcare providers.
 
-
-
-
-
-
-
-
-
-
-
 innBoK___config___examples___Space X.md	- ## #[[innBoK/config]]
 
 
@@ -26,15 +16,5 @@ innBoK___config___examples___vein visualizer.md	- ## #[[innBoK/config]]
 
 
 innBoK___config___examples___extinguished animals meat.md	- ## #[[innBoK/config]]
-
-
-
-
-
-
-
-
-
-
 
 

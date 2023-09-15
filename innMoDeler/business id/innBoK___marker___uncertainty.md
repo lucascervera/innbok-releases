@@ -1,6 +1,9 @@
 icon:: ☁️
 alias:: uncertainty
 
+How sure am I that this is true?
+Do I have enough experience to assert this confidently?
+Have I verified this in the real world or are these just assumptions?
 - ## ☁️
 ☁️
 ☁️
@@ -55,14 +58,4 @@ alias:: uncertainty
          [?p :block/name "?"]
          [?b :block/refs ?p]]}
 #+END_QUERY
-
-
-
-
-
-
-
-
-
-
 
