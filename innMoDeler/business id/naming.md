@@ -1,22 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[naming]]
 priority:: 75
 status:: #pending
 
 - #content #text
+  collapsed:: true
 	- {{embed [[naming/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[naming/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[naming/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/naming/info]]}}
-	- {{embed [[innBoK/naming/data]]}}
-	- {{embed [[naming/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[naming/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[naming/keys]]}}
+	- {{embed [[naming/workflow]]}}
+

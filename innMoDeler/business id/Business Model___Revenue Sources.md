@@ -11,13 +11,3 @@
 	- TODO  Regularly review and assess the sustainability of revenue sources
 	- TODO  Align revenue model with industry standards.
 
-
-
-
-
-
-
-
-
-
-

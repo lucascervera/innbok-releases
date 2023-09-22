@@ -8,13 +8,3 @@
 	- TODO Evaluate the capital structure of the business
 	- TODO  Determine how it is funded and what the financial leverage is.
 
-
-
-
-
-
-
-
-
-
-

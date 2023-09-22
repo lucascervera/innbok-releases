@@ -11,13 +11,3 @@
 	- TODO  Implement processes for networking and relationship-building
 	- TODO  Seek strategic partnerships or collaborations.
 
-
-
-
-
-
-
-
-
-
-

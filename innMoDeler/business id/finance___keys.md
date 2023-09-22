@@ -1,20 +1,11 @@
 innbok-type:: internal
 - #[[related keys]]
 collapsed:: true
-- #key [[Finance/Financial Management]]
-- #key [[Finance/Positive Cash Flow]]
-- #key [[Risk Management/Crisis Management]]
-- #key [[Business Model/Finantial needs]]
-
-
-
-
-
-
-
-
-
-
+- #key [[Finance/Financial Management]] > [[finance]]
+- #key [[Finance/Positive Cash Flow]] > [[finance]]
+- #key [[Finance/Profitability]] > [[finance]]
+- #key [[Business Model/Finantial needs]] > [[finance]]
+- #key [[Business Model/Gross margins]] > [[finance]]
 
 
 

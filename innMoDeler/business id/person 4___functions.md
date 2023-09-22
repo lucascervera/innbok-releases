@@ -1,25 +1,23 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[person 4/functions]]
 priority:: 300
 status:: #inactive
+parent:: [[person 4]]
 
 - #content #list
   collapsed:: true
 	- {{embed [[person 4/functions/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/person-(id)/functions/info]]}}
-	- {{embed [[innBoK/person-(id)/functions/data]]}}
-	- {{embed [[person 4/functions/status]]}}
-- #class #function
-  collapsed:: true
-	- {{embed [[innBoK/class/function]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[person 4/functions/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[person 4/functions/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[person 4/functions/keys]]}}
+	  - #class: [function](https://go.innbok.com/#/page/innBoK%2Fclass%2Ffunction)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[person 4/functions/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[person 4/functions/workflow]]}}
 

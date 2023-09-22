@@ -1,27 +1,24 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[segment 5/serviceable available market]]
 priority:: 100
 status:: #inactive
+parent:: [[segment 5]]
 
 - #content #text
   collapsed:: true
 	- {{embed [[segment 5/serviceable available market/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/segment-(id)/serviceable-available-market/info]]}}
-	- {{embed [[innBoK/segment-(id)/serviceable-available-market/data]]}}
-	- {{embed [[segment 5/serviceable available market/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[segment 5/serviceable available market/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[segment 5/serviceable available market/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[segment 5/serviceable available market/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[segment 5/serviceable available market/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[segment 5/serviceable available market/workflow]]}}
 
 
 

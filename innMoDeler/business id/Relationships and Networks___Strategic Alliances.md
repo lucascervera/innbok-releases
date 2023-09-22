@@ -11,13 +11,3 @@
 	- TODO  Assess the benefits and alignment of potential alliances
 	- TODO  Develop a strategy for building and nurturing alliances.
 
-
-
-
-
-
-
-
-
-
-

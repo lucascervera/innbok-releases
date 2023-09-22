@@ -35,13 +35,3 @@ page-type:: [[concept]]
       -   - Dealing with uncertainty and ambiguity in the early stages of the startup
       -   - Maintaining focus and avoiding the temptation to chase multiple ideas or opportunities simultaneously
 
-
-
-
-
-
-
-
-
-
-

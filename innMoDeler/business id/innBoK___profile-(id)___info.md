@@ -19,7 +19,6 @@ A definition. Of who our client is. Narrowing down the segmentation criteria to 
 - ### 
 	{{embed [[]]}}
 
-#N/A
 
 
 
@@ -110,8 +109,36 @@ A definition. Of who our client is. Narrowing down the segmentation criteria to 
 
 
 
-#N/A
-#N/A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

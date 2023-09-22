@@ -1,2 +1,2 @@
 icon:: 🔑
-color:: orange
+color:: red

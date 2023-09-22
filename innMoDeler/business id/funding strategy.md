@@ -1,35 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[funding strategy]]
 priority:: 100
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[funding strategy/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[funding strategy/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[funding strategy/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/funding-strategy/info]]}}
-	- {{embed [[innBoK/funding-strategy/data]]}}
-	- {{embed [[funding strategy/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[funding strategy/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[funding strategy/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[funding strategy/workflow]]}}
 

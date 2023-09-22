@@ -1,22 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[branding]]
 priority:: 50
 status:: #pending
 
 - #content #text
+  collapsed:: true
 	- {{embed [[branding/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[branding/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[branding/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/branding/info]]}}
-	- {{embed [[innBoK/branding/data]]}}
-	- {{embed [[branding/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[branding/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[branding/keys]]}}
+	- {{embed [[branding/workflow]]}}
+

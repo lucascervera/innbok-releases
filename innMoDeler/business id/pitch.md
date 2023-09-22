@@ -1,22 +1,21 @@
-page-type:: #template
 color:: blue
+page-type:: #artifact
 innbok-type:: item
+innbok-bm-id:: [[pitch]]
 priority:: 200
 status:: #pending
 
-- #content #template
+- #content #artifact
+  collapsed:: true
 	- {{embed [[pitch/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[pitch/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[pitch/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/pitch/info]]}}
-	- {{embed [[innBoK/pitch/data]]}}
-	- {{embed [[pitch/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[pitch/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[pitch/keys]]}}
+	- {{embed [[pitch/workflow]]}}
+

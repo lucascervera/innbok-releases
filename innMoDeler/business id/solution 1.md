@@ -1,28 +1,25 @@
-page-type:: #{"{"}
 color:: blue
+page-type:: #text
 innbok-type:: item
-alias:: Space N services
+innbok-bm-id:: [[solution 1]]
 priority:: 600
 status:: #inactive
 
 - #content #text
   collapsed:: true
-	- {{embed [[solution 1/content]]}}
-- #info
+	- {{embed [[solution 1/content]]}}- info
+  - #children
+    collapsed:: true
+	  - {{embed [[{{query (and (namespace [[solution 1]]) (page-property :innbok-type "item") (sort-by priority))}}/children]]}})
+
+  - #keys
+    collapsed:: true
+	  - {{embed [[solution 1/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[solution 1/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/solution-(id)/info]]}}
-	- {{embed [[innBoK/solution-(id)/data]]}}
-	- {{embed [[solution 1/status]]}}
-- #class #instance
-  collapsed:: true
-	- {{embed [[innBoK/class/instance]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[solution 1/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[solution 1/keys]]}}
-- #children
-  collapsed:: true
-	- {{embed [[solution 1/children]]}})
--
+	- {{embed [[solution 1/workflow]]}}
+

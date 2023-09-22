@@ -11,13 +11,3 @@
 	- TODO  Regularly review processes for optimization
 	- TODO  Encourage employee participation in improvement initiatives.
 
-
-
-
-
-
-
-
-
-
-

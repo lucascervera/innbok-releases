@@ -1,25 +1,23 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[segment 4/segmentation criteria]]
 priority:: 600
 status:: #inactive
+parent:: [[segment 4]]
 
 - #content #list
   collapsed:: true
 	- {{embed [[segment 4/segmentation criteria/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/segment-(id)/segmentation-criteria/info]]}}
-	- {{embed [[innBoK/segment-(id)/segmentation-criteria/data]]}}
-	- {{embed [[segment 4/segmentation criteria/status]]}}
-- #class #segmentation
-  collapsed:: true
-	- {{embed [[innBoK/class/segmentation]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[segment 4/segmentation criteria/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[segment 4/segmentation criteria/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[segment 4/segmentation criteria/keys]]}}
+	  - #class: [segmentation](https://go.innbok.com/#/page/innBoK%2Fclass%2Fsegmentation)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[segment 4/segmentation criteria/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[segment 4/segmentation criteria/workflow]]}}
 

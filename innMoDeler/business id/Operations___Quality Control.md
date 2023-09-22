@@ -11,13 +11,3 @@
 	- TODO  Continuously monitor and improve product quality based on customer feedback
 	- TODO  Use quality control as a competitive advantage.
 
-
-
-
-
-
-
-
-
-
-

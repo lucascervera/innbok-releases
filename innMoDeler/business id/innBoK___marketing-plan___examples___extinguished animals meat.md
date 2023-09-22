@@ -10,12 +10,4 @@
 			 [[Customer loyalty program]]: Implement a loyalty program to reward and retain customers, offering exclusive benefits and personalized experiences.
 			 [[Sustainability initiatives]]: Highlight the company's commitment to sustainability and ethical practices in all marketing efforts, appealing to environmentally conscious consumers.
 
-innBoK___communication___examples___Space X.md	- ## #[[innBoK/communication]]
-
-
-innBoK___communication___examples___vein visualizer.md	- ## #[[innBoK/communication]]
-
-
-innBoK___communication___examples___extinguished animals meat.md	- ## #[[innBoK/communication]]
-
 

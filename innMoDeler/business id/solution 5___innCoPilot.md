@@ -1,11 +1,12 @@
 innbok-type:: internal
 #innCoPilot
 collapsed:: true
-
-	- #prompt {{embed [[innBoK/solution-(id)/innCoPilot/few shots]]}}
+	- #prompt {{embed [[innBoK/solution-(id)/few shots]]}}
 		- My business description:
 		- {{embed [[AI business description/content]]}} {{embed [[solution 5/content]]}} {{embed [[solution id/distribution/content]]}} {{embed [[solution id/pricing/content]]}}
 		- Action:
 		- Propose solution 5: a specific product, service, or process that a business offers to address the needs or problems of its customers.
 		- Answer:
 		- Please write your respons in a MarkDown code box.
+
+

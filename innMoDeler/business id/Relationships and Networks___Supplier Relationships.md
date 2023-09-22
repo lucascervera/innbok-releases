@@ -11,13 +11,3 @@
 	- TODO  Identify alternative suppliers in case of disruptions
 	- TODO  Implement processes to evaluate and select suppliers.
 
-
-
-
-
-
-
-
-
-
-

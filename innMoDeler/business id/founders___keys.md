@@ -1,27 +1,15 @@
 innbok-type:: internal
 - #[[related keys]]
 collapsed:: true
-- #key [[Competition/Barriers to Entry]]
-- #key [[Legal and Compliance/Contracts and Agreements]]
-- #key [[Team and Talent/Team Skills]]
-- #key [[Founders/Founder's commitment]]
-- #key [[Founders/Founder's capacity]]
-- #key [[Founders/Founder's circumstances]]
-- #key [[Founders/Start-up experience]]
-- #key [[Founders/Management experience]]
-- #key [[Founders/Vertical experience]]
-- #key [[Founders/Coachability]]
-- #key [[Founders/Leadership]]
-
-
-
-
-
-
-
-
-
-
+- #key [[Team and Talent/Leadership Skills]] > [[founders]]
+- #key [[Founders/Founder's commitment]] > [[founders]]
+- #key [[Founders/Founder's capacity]] > [[founders]]
+- #key [[Founders/Founder's circumstances]] > [[founders]]
+- #key [[Founders/Start-up experience]] > [[founders]]
+- #key [[Founders/Management experience]] > [[founders]]
+- #key [[Founders/Vertical experience]] > [[founders]]
+- #key [[Founders/Coachability]] > [[founders]]
+- #key [[Founders/Leadership]] > [[founders]]
 
 
 

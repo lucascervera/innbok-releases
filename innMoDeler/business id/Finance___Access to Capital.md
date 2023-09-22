@@ -11,13 +11,3 @@
 	- TODO  Build relationships with potential investors
 	- TODO  Regularly review and update financial projections.
 
-
-
-
-
-
-
-
-
-
-

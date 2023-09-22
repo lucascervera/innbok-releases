@@ -1,35 +1,21 @@
-page-type:: #template
 color:: blue
+page-type:: #artifact
 innbok-type:: item
+innbok-bm-id:: [[finantial projections]]
 priority:: 125
 status:: #pending
 
-- #content #template
+- #content #artifact
   collapsed:: true
 	- {{embed [[finantial projections/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[finantial projections/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[finantial projections/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/finantial-projections/info]]}}
-	- {{embed [[innBoK/finantial-projections/data]]}}
-	- {{embed [[finantial projections/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[finantial projections/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[finantial projections/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[finantial projections/workflow]]}}
 

@@ -1,25 +1,23 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[person 2/skills]]
 priority:: 300
 status:: #inactive
+parent:: [[person 2]]
 
 - #content #list
   collapsed:: true
 	- {{embed [[person 2/skills/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/person-(id)/skills/info]]}}
-	- {{embed [[innBoK/person-(id)/skills/data]]}}
-	- {{embed [[person 2/skills/status]]}}
-- #class #skill
-  collapsed:: true
-	- {{embed [[innBoK/class/skill]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[person 2/skills/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[person 2/skills/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[person 2/skills/keys]]}}
+	  - #class: [skill](https://go.innbok.com/#/page/innBoK%2Fclass%2Fskill)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[person 2/skills/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[person 2/skills/workflow]]}}
 

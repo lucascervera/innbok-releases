@@ -1,23 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[mission]]
 priority:: 500
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[mission/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[mission/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[mission/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/mission/info]]}}
-	- {{embed [[innBoK/mission/data]]}}
-	- {{embed [[mission/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[mission/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[mission/keys]]}}
+	- {{embed [[mission/workflow]]}}
+

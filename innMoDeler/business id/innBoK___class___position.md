@@ -1,6 +1,7 @@
+color:: blue
 innbok-type:: [[class]]
 icon:: 🪪
-alias:: position
+alias:: position, positions
 
 - ## #info 
 

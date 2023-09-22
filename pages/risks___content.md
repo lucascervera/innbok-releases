@@ -1,0 +1,17 @@
+- **Riesgos Potenciales:**
+	- **Cambios en las Preferencias del Consumidor:** [[.....]]
+		- Los gustos y preferencias de los consumidores pueden cambiar con el tiempo, lo que podría afectar la demanda de productos específicos.
+	- **Fluctuaciones en el Precio del Café:** [[.....]] [[!!!]] [[rrrr]]
+		- Como materia prima, el precio del café puede variar debido a factores como el clima, enfermedades de los cultivos y tensiones geopolíticas. Estas fluctuaciones pueden afectar los costos y la rentabilidad.
+	- **Competencia Intensa:**
+		- Hay muchas cadenas de café y tiendas independientes que compiten por la misma clientela. Una competencia más fuerte podría reducir la cuota de mercado y los márgenes de beneficio.
+	- **Desafíos Operativos Globales:**
+		- Operar en diferentes países presenta desafíos en términos de regulaciones, culturas y preferencias del consumidor.
+	- **Problemas de Reputación:**
+		- Incidentes negativos, ya sean reales o percibidos, pueden dañar la reputación de la marca y afectar las ventas.
+	- **Tecnología y Digitalización:**
+		- La necesidad de adaptarse rápidamente a las nuevas tecnologías y tendencias digitales, como las aplicaciones de pedidos y pagos.
+	- **Riesgos de Salud y Seguridad:**
+		- Incidentes relacionados con la seguridad alimentaria o lesiones en las tiendas pueden resultar en responsabilidad legal y daño a la reputación.
+	- **Impacto Ambiental y Sostenibilidad:**
+		- La creciente demanda de prácticas empresariales sostenibles puede requerir inversiones adicionales y cambios en las operaciones.

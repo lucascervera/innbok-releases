@@ -1,25 +1,22 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[solution 1/components]]
 priority:: 200
 status:: #inactive
+parent:: [[solution 1]]
 
 - #content #text
   collapsed:: true
 	- {{embed [[solution 1/components/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/solution-(id)/components/info]]}}
-	- {{embed [[innBoK/solution-(id)/components/data]]}}
-	- {{embed [[solution 1/components/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[solution 1/components/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[solution 1/components/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[solution 1/components/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[solution 1/components/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[solution 1/components/workflow]]}}
 

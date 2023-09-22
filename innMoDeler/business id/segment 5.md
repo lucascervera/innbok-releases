@@ -1,30 +1,23 @@
-page-type:: #instance
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[segment 5]]
 priority:: 800
 status:: #inactive
 
-- #content #instance
+- #content #text
   collapsed:: true
 	- {{embed [[segment 5/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/segment-(id)/info]]}}
-	- {{embed [[innBoK/segment-(id)/data]]}}
-	- {{embed [[segment 5/status]]}}
-- #class #segment
-  collapsed:: true
-	- {{embed [[innBoK/class/segment]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[segment 5/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[segment 5/keys]]}}
-- #children
-  collapsed:: true
-	- {{embed [[segment 5/children]]}})
+  - #keys
+    collapsed:: true
+	  - {{embed [[segment 5/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[segment 5/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[segment 5/workflow]]}}
 
 
 

@@ -1,289 +1,656 @@
 icon:: 🚢
 
 [[business model status]]
-
 - #### 1 [[business]]
-  background-color:: blue
+background-color:: blue
+bm-id:: BMV-1
 	- {{embed [[business/content]]}}
 	- #### 2 [[opportunity]]
-	  background-color:: blue
+	background-color:: blue
+	bm-id:: BMV-2
 		- {{embed [[opportunity/content]]}}
 	- #### 3 [[business objectives]]
-	  background-color:: blue
+	background-color:: blue
+	bm-id:: BMV-3
 		- {{embed [[business objectives/content]]}}
 		- #### 4 [[mission]]
-		  background-color:: blue
+		background-color:: blue
+		bm-id:: BMV-4
 			- {{embed [[mission/content]]}}
 		- #### 5 [[vision]]
-		  background-color:: blue
+		background-color:: blue
+		bm-id:: BMV-5
 			- {{embed [[vision/content]]}}
 		- #### 6 [[values (organization)]]
-		  background-color:: blue
+		background-color:: blue
+		bm-id:: BMV-6
 			- {{embed [[values (organization)/content]]}}
 		- #### 7 [[goals (organization)]]
-		  background-color:: blue
+		background-color:: blue
+		bm-id:: BMV-7
 			- {{embed [[goals (organization)/content]]}}
 		- #### 8 [[strategy]]
-		  background-color:: blue
+		background-color:: blue
+		bm-id:: BMV-8
 			- {{embed [[strategy/content]]}}
-		- #### 10 [[SWOT]]
-		  background-color:: blue
-			- {{embed [[SWOT/content]]}}
-	- #### 11 [[solutions]]
-	  background-color:: blue
-		- {{embed [[solutions/content]]}}
-		- #### 12 [[solution (id)]]
-		  background-color:: blue
-			- {{embed [[solution (id)/content]]}}
-			- #### 12 - (id) 13 [[solution (id)/category]]
-			  background-color:: blue
-				- {{embed [[solution (id)/category/content]]}}
-			- #### 12 - (id) 14 [[solution (id)/features]]
-			  background-color:: blue
-				- {{embed [[solution (id)/features/content]]}}
-			- #### 12 - (id) 15 [[solution (id)/roadmap]]
-			  background-color:: blue
-				- {{embed [[solution (id)/roadmap/content]]}}
-			- #### 12 - (id) 16 [[solution (id)/components]]
-			  background-color:: blue
-				- {{embed [[solution (id)/components/content]]}}
-			- #### 12 - (id) 17 [[solution (id)/offerings]]
-			  background-color:: blue
-				- {{embed [[solution (id)/offerings/content]]}}
-			- #### 12 - (id) 18 [[solution (id)/pricing]]
-			  background-color:: blue
-				- {{embed [[solution (id)/pricing/content]]}}
-			- #### 12 - (id) 19 [[solution (id)/promotion]]
-			  background-color:: blue
-				- {{embed [[solution (id)/promotion/content]]}}
-			- #### 12 - (id) 20 [[solution (id)/brochure]]
-			  background-color:: blue
-				- {{embed [[solution (id)/brochure/content]]}}
+		- #### 9 [[unfair advantage]]
+		background-color:: blue
+		bm-id:: BMV-9
+			- {{embed [[unfair advantage/content]]}}
+		- #### 10 [[swot]]
+		background-color:: blue
+		bm-id:: BMV-10
+			- {{embed [[swot/content]]}}
+	- #### 11 [[solution list]]
+	background-color:: blue
+	bm-id:: BMV-11
+		- {{embed [[solution list/content]]}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	- #### 21 [[team]]
-	  background-color:: blue
+	background-color:: blue
+	bm-id:: BMV-21
 		- {{embed [[team/content]]}}
-		- #### 22 [[founders]]
-		  background-color:: blue
+		- #### 22 [[people]]
+		background-color:: blue
+		bm-id:: BMV-22
+			- {{embed [[people/content]]}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		- #### 28 [[founders]]
+		background-color:: blue
+		bm-id:: BMV-28
 			- {{embed [[founders/content]]}}
-			- #### 23 [[Elon Musk]]
-			  background-color:: blue
-				- {{embed [[person (id)/content]]}}
-				- #### 23 - (id) 24 [[person (id)/skills]]
-				  background-color:: blue
-				  collapsed:: true
-					- {{embed [[person (id)/skills/content]]}}
-				- #### 23 - (id) 25 [[person (id)/functions]]
-				  background-color:: blue
-					- {{embed [[person (id)/functions/content]]}}
-			- #### 26 [[founder agreement]]
-			  background-color:: blue
-				- {{embed [[founder agreement/content]]}}
-	- #### 27 [[operations]]
-	  background-color:: blue
+		- #### 29 [[positions]]
+		background-color:: blue
+		bm-id:: BMV-29
+			- {{embed [[positions/content]]}}
+	- #### 30 [[operations]]
+	background-color:: blue
+	bm-id:: BMV-30
 		- {{embed [[operations/content]]}}
-		- #### 28 [[activities]]
-		  background-color:: blue
+		- #### 31 [[activities]]
+		background-color:: blue
+		bm-id:: BMV-31
 			- {{embed [[activities/content]]}}
-		- #### 29 [[functions need]]
-		  background-color:: blue
+		- #### 32 [[functions need]]
+		background-color:: blue
+		bm-id:: BMV-32
 			- {{embed [[functions need/content]]}}
-		- #### 30 [[resources]]
-		  background-color:: blue
+		- #### 33 [[resources]]
+		background-color:: blue
+		bm-id:: BMV-33
 			- {{embed [[resources/content]]}}
-		- #### 31 [[metrics]]
-		  background-color:: blue
-			- {{embed [[metrics/content]]}}
-			- #### 32 [[life time value]]
-			  background-color:: blue
+		- #### 34 [[metric list]]
+		background-color:: blue
+		bm-id:: BMV-34
+			- {{embed [[metric list/content]]}}
+			- #### 35 [[life time value]]
+			background-color:: blue
+			bm-id:: BMV-35
 				- {{embed [[life time value/content]]}}
-			- #### 33 [[customer aquisition cost]]
-			  background-color:: blue
+			- #### 36 [[customer aquisition cost]]
+			background-color:: blue
+			bm-id:: BMV-36
 				- {{embed [[customer aquisition cost/content]]}}
-	- #### 34 [[finance]]
-	  background-color:: blue
+	- #### 37 [[finance]]
+	background-color:: blue
+	bm-id:: BMV-37
 		- {{embed [[finance/content]]}}
-		- #### 35 [[revenue lines]]
-		  background-color:: blue
+		- #### 38 [[revenue lines]]
+		background-color:: blue
+		bm-id:: BMV-38
 			- {{embed [[revenue lines/content]]}}
-		- #### 36 [[cost lines]]
-		  background-color:: blue
+		- #### 39 [[cost lines]]
+		background-color:: blue
+		bm-id:: BMV-39
 			- {{embed [[cost lines/content]]}}
-		- #### 37 [[unit economics]]
-		  background-color:: blue
+		- #### 40 [[unit economics]]
+		background-color:: blue
+		bm-id:: BMV-40
 			- {{embed [[unit economics/content]]}}
-		- #### 38 [[cashflow projections]]
-		  background-color:: blue
+		- #### 41 [[cashflow projections]]
+		background-color:: blue
+		bm-id:: BMV-41
 			- {{embed [[cashflow projections/content]]}}
-		- #### 39 [[finantial projections]]
-		  background-color:: blue
-			- {{embed [[finantial projections/content]]}}
-		- #### 40 [[funding strategy]]
-		  background-color:: blue
-		  collapsed:: true
+		- #### 42 [[funding strategy]]
+		background-color:: blue
+		bm-id:: BMV-42
 			- {{embed [[funding strategy/content]]}}
-		- #### 41 [[funding sources]]
-		  background-color:: blue
-		  collapsed:: true
+		- #### 43 [[funding sources]]
+		background-color:: blue
+		bm-id:: BMV-43
 			- {{embed [[funding sources/content]]}}
-		- #### 42 [[capital structure]]
-		  background-color:: blue
+		- #### 44 [[capital structure]]
+		background-color:: blue
+		bm-id:: BMV-44
 			- {{embed [[capital structure/content]]}}
-	- #### 43 [[business project]]
-	  background-color:: blue
-		- {{embed [[business project/content]]}}
-		- #### 44 [[phases]]
-		  background-color:: blue
+		- #### 45 [[finantial projections]]
+		background-color:: blue
+		bm-id:: BMV-45
+			- {{embed [[finantial projections/content]]}}
+	- #### 46 [[project plan]]
+	background-color:: blue
+	bm-id:: BMV-46
+		- {{embed [[project plan/content]]}}
+		- #### 47 [[phases]]
+		background-color:: blue
+		bm-id:: BMV-47
 			- {{embed [[phases/content]]}}
-		- #### 45 [[milestones]]
-		  background-color:: blue
+		- #### 48 [[milestones]]
+		background-color:: blue
+		bm-id:: BMV-48
 			- {{embed [[milestones/content]]}}
-	- #### 46 [[marketing]]
-	  background-color:: blue
+	- #### 49 [[marketing]]
+	background-color:: blue
+	bm-id:: BMV-49
 		- {{embed [[marketing/content]]}}
-		- #### 47 [[naming]]
-		  background-color:: blue
+		- #### 50 [[naming]]
+		background-color:: blue
+		bm-id:: BMV-50
 			- {{embed [[naming/content]]}}
-		- #### 48 [[branding]]
-		  background-color:: blue
+		- #### 51 [[branding]]
+		background-color:: blue
+		bm-id:: BMV-51
 			- {{embed [[branding/content]]}}
-		- #### 49 [[visual identity]]
-		  background-color:: blue
+		- #### 52 [[visual identity]]
+		background-color:: blue
+		bm-id:: BMV-52
 			- {{embed [[visual identity/content]]}}
-		- #### 50 [[logo]]
-		  background-color:: blue
+		- #### 53 [[logo]]
+		background-color:: blue
+		bm-id:: BMV-53
 			- {{embed [[logo/content]]}}
-		- #### 51 [[marketing plan]]
-		  background-color:: blue
+		- #### 54 [[marketing plan]]
+		background-color:: blue
+		bm-id:: BMV-54
 			- {{embed [[marketing plan/content]]}}
-	- #### 52 [[communication]]
-	  background-color:: blue
+	- #### 55 [[communication]]
+	background-color:: blue
+	bm-id:: BMV-55
 		- {{embed [[communication/content]]}}
-		- #### 53 [[web]]
-		  background-color:: blue
-			- {{embed [[web/content]]}}
-		- #### 54 [[business brochure]]
-		  background-color:: blue
+		- #### 56 [[business brochure]]
+		background-color:: blue
+		bm-id:: BMV-56
 			- {{embed [[business brochure/content]]}}
-		- #### 55 [[pitch]]
-		  background-color:: blue
+		- #### 57 [[web]]
+		background-color:: blue
+		bm-id:: BMV-57
+			- {{embed [[web/content]]}}
+		- #### 58 [[pitch]]
+		background-color:: blue
+		bm-id:: BMV-58
 			- {{embed [[pitch/content]]}}
-		- #### 56 [[storytelling]]
-		  background-color:: blue
+		- #### 59 [[storytelling]]
+		background-color:: blue
+		bm-id:: BMV-59
 			- {{embed [[storytelling/content]]}}
-		- #### 57 [[presentation]]
-		  background-color:: blue
+		- #### 60 [[presentation]]
+		background-color:: blue
+		bm-id:: BMV-60
 			- {{embed [[presentation/content]]}}
-	- #### 58 [[legal]]
-	  background-color:: blue
+	- #### 61 [[legal]]
+	background-color:: blue
+	bm-id:: BMV-61
 		- {{embed [[legal/content]]}}
-		- #### 59 [[legal implications]]
-		  background-color:: blue
+		- #### 62 [[legal implications]]
+		background-color:: blue
+		bm-id:: BMV-62
 			- {{embed [[legal implications/content]]}}
-	- #### 60 [[stakeholders]]
-	  background-color:: blue
-		- {{embed [[stakeholders/content]]}}
-		- #### 61 [[segment (id)]]
-		  background-color:: blue
-			- {{embed [[segment (id)/content]]}}
-			- #### 61 - (id) 62 [[segment (id)/segmentation criteria]]
-			  background-color:: blue
-				- {{embed [[segment (id)/segmentation criteria/content]]}}
-			- #### 61 - (id) 63 [[segment (id)/market size]]
-			  background-color:: blue
-				- {{embed [[segment (id)/market size/content]]}}
-				- #### 61 - (id) 64 [[segment (id)/total addressable market]]
-				  background-color:: blue
-					- {{embed [[segment (id)/total addressable market/content]]}}
-				- #### 61 - (id) 65 [[segment (id)/serviceable available market]]
-				  background-color:: blue
-					- {{embed [[segment (id)/serviceable available market/content]]}}
-				- #### 61 - (id) 66 [[segment (id)/serviceable obtainable market]]
-				  background-color:: blue
-					- {{embed [[segment (id)/serviceable obtainable market/content]]}}
-			- #### 61 - (id) 67 [[segment (id)/market trends]]
-			  background-color:: blue
-				- {{embed [[segment (id)/market trends/content]]}}
-			- #### 61 - (id) 68 [[segment (id)/partners]]
-			  background-color:: blue
-				- {{embed [[segment (id)/partners/content]]}}
-			- #### 61 - (id) 69 [[segment (id)/competition]]
-			  background-color:: blue
-				- {{embed [[segment (id)/competition/content]]}}
-			- #### 61 - (id) 71 [[segment (id)/profiles]]
-			  background-color:: blue
-				- {{embed [[segment (id)/profiles/content]]}}
-				- #### 61 - (id) 72 [[segment (id)/profile (id)]]
-				  background-color:: blue
-					- {{embed [[segment (id)/profile (id)/content]]}}
-					- #### 61 - (id) 73 [[segment (id)/profile (id)/segmentation]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/segmentation/content]]}}
-					- #### 61 - (id) 74 [[segment (id)/profile (id)/persona]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/persona/content]]}}
-					- #### 61 - (id) 75 [[segment (id)/profile (id)/goals]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/goals/content]]}}
-					- #### 61 - (id) 76 [[segment (id)/profile (id)/perceptions]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/perceptions/content]]}}
-					- #### 61 - (id) 77 [[segment (id)/profile (id)/emotions]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/emotions/content]]}}
-					- #### 61 - (id) 78 [[segment (id)/profile (id)/value]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/value/content]]}}
-					- #### 61 - (id) 79 [[segment (id)/profile (id)/quantified value proposition]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/quantified value proposition/content]]}}
-					- #### 61 - (id) 80 [[segment (id)/profile (id)/relationship]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/relationship/content]]}}
-					- #### 61 - (id) 81 [[segment (id)/profile (id)/messages]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/messages/content]]}}
-					- #### 61 - (id) 82 [[segment (id)/profile (id)/channels]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/channels/content]]}}
-					- #### 61 - (id) 83 [[segment (id)/profile (id)/assets]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/assets/content]]}}
-					- #### 61 - (id) 84 [[segment (id)/profile (id)/transactions]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/transactions/content]]}}
-					- #### 61 - (id) 85 [[segment (id)/profile (id)/journey]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/journey/content]]}}
-					- #### 61 - (id) 86 [[segment (id)/profile (id)/funnel]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/funnel/content]]}}
-					- #### 61 - (id) 87 [[segment (id)/profile (id)/sales strategy]]
-					  background-color:: blue
-						- {{embed [[segment (id)/profile (id)/sales strategy/content]]}}
-	- #### 88 [[analysis]]
-	  background-color:: red
+	- #### 64 [[stakeholder list]]
+	background-color:: blue
+	bm-id:: BMV-64
+		- {{embed [[stakeholder list/content]]}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	- #### 77 [[profile list]]
+	background-color:: blue
+	bm-id:: BMV-77
+		- {{embed [[profile list/content]]}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	- #### 94 [[analysis]]
+	background-color:: red
+	bm-id:: BMV-94
 		- {{embed [[analysis/content]]}}
-		- #### 89 [[keys]]
-		  background-color:: red
-			- {{embed [[keys/content]]}}
-		- #### 90 [[assumptions]]
-		  background-color:: red
-			- {{embed [[assumptions/content]]}}
-		- #### 91 [[risks]]
-		  background-color:: red
-			- {{embed [[risks/content]]}}
-	- #### 92 [[validation]]
-	  background-color:: green
+		- #### 95 [[key list]]
+		background-color:: red
+		bm-id:: BMV-95
+			- {{embed [[key list/content]]}}
+		- #### 96 [[assumption list]]
+		background-color:: red
+		bm-id:: BMV-96
+			- {{embed [[assumption list/content]]}}
+		- #### 97 [[risk list]]
+		background-color:: red
+		bm-id:: BMV-97
+			- {{embed [[risk list/content]]}}
+	- #### 98 [[validation]]
+	background-color:: green
+	bm-id:: BMV-98
 		- {{embed [[validation/content]]}}
-		- #### 93 [[experiments]]
-		  background-color:: green
-			- {{embed [[experiments/content]]}}
-		- #### 94 [[experiment (id)]]
-		  background-color:: green
-			- {{embed [[experiment (id)/content]]}}
-	- #### 95 [[config]]
-	  background-color:: grey
+		- #### 99 [[experiment list]]
+		background-color:: green
+		bm-id:: BMV-99
+			- {{embed [[experiment list/content]]}}
+
+
+
+
+
+
+
+
+
+
+	- #### 101 [[config]]
+	background-color:: grey
+	bm-id:: BMV-101
 		- {{embed [[config/content]]}}
-		- #### 96 [[AI business description]]
-		  background-color:: grey
+		- #### 102 [[AI business description]]
+		background-color:: grey
+		bm-id:: BMV-102
 			- {{embed [[AI business description/content]]}}
+

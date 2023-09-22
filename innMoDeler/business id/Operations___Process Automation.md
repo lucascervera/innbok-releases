@@ -11,13 +11,3 @@
 	- TODO  Implement automation tools
 	- TODO  Train employees in automation technologies.
 
-
-
-
-
-
-
-
-
-
-

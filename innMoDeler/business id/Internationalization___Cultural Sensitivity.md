@@ -11,13 +11,3 @@
 	- TODO  Provide cultural training or awareness programs for employees
 	- TODO  Adapt marketing and operations to consider cultural differences.
 
-
-
-
-
-
-
-
-
-
-

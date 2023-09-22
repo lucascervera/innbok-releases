@@ -1,27 +1,23 @@
-page-type:: #text
 color:: green
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[validation]]
 priority:: 
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[validation/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/validation/info]]}}
-	- {{embed [[innBoK/validation/data]]}}
-	- {{embed [[validation/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[validation/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[validation/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[validation/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[validation/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[validation/workflow]]}}
 
 
 

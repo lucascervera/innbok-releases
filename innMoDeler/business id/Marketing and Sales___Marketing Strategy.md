@@ -11,13 +11,3 @@
 	- TODO  Allocate a budget for marketing activities
 	- TODO  Measure and analyze the effectiveness of marketing campaigns.
 
-
-
-
-
-
-
-
-
-
-

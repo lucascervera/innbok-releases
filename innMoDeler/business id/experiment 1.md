@@ -1,28 +1,21 @@
-page-type:: #list
 color:: green
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[experiment 1]]
 priority:: 700
 status:: #inactive
 
-- #content #list
+- #content #text
   collapsed:: true
 	- {{embed [[experiment 1/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/experiment-(id)/info]]}}
-	- {{embed [[innBoK/experiment-(id)/data]]}}
-	- {{embed [[experiment 1/status]]}}
-- #class #experiment
-  collapsed:: true
-	- {{embed [[innBoK/class/experiment]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[experiment 1/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[experiment 1/keys]]}}
-- #children
-  collapsed:: true
-	- {{embed [[experiment 1/children]]}})
+  - #keys
+    collapsed:: true
+	  - {{embed [[experiment 1/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[experiment 1/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[experiment 1/workflow]]}}
 

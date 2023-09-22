@@ -1,22 +1,22 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[cost lines]]
 priority:: 400
 status:: #pending
 
 - #content #list
+  collapsed:: true
 	- {{embed [[cost lines/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[cost lines/keys]]}}
+	  - #class: [cost](https://go.innbok.com/#/page/innBoK%2Fclass%2Fcost)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[cost lines/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/cost-lines/info]]}}
-	- {{embed [[innBoK/cost-lines/data]]}}
-	- {{embed [[cost lines/status]]}}
-- #class #cost
-  collapsed:: true
-	- {{embed [[innBoK/class/cost]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[cost lines/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[cost lines/keys]]}}
+	- {{embed [[cost lines/workflow]]}}
+

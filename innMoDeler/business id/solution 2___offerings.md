@@ -1,25 +1,23 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[solution 2/offerings]]
 priority:: 400
 status:: #inactive
+parent:: [[solution 2]]
 
 - #content #list
   collapsed:: true
 	- {{embed [[solution 2/offerings/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/solution-(id)/offerings/info]]}}
-	- {{embed [[innBoK/solution-(id)/offerings/data]]}}
-	- {{embed [[solution 2/offerings/status]]}}
-- #class #offering
-  collapsed:: true
-	- {{embed [[innBoK/class/offering]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[solution 2/offerings/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[solution 2/offerings/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[solution 2/offerings/keys]]}}
+	  - #class: [offering](https://go.innbok.com/#/page/innBoK%2Fclass%2Foffering)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[solution 2/offerings/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[solution 2/offerings/workflow]]}}
 

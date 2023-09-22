@@ -1,22 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[life time value]]
 priority:: 200
 status:: #pending
 
 - #content #text
+  collapsed:: true
 	- {{embed [[life time value/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[life time value/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[life time value/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/life-time-value/info]]}}
-	- {{embed [[innBoK/life-time-value/data]]}}
-	- {{embed [[life time value/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[life time value/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[life time value/keys]]}}
+	- {{embed [[life time value/workflow]]}}
+

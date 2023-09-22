@@ -1,35 +1,22 @@
-page-type:: #tree
 color:: blue
+page-type:: #tree
 innbok-type:: item
+innbok-bm-id:: [[goals (organization)]]
 priority:: 700
 status:: #pending
 
 - #content #tree
   collapsed:: true
 	- {{embed [[goals (organization)/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[goals (organization)/keys]]}}
+	  - #class: [goal](https://go.innbok.com/#/page/innBoK%2Fclass%2Fgoal)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[goals (organization)/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/goals-(organization)/info]]}}
-	- {{embed [[innBoK/goals-(organization)/data]]}}
-	- {{embed [[goals (organization)/status]]}}
-- #class #goal
-  collapsed:: true
-	- {{embed [[innBoK/class/goal]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[goals (organization)/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[goals (organization)/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[goals (organization)/workflow]]}}
 

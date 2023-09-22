@@ -9,12 +9,4 @@
 				 Pricing options for the luxury meat products
 				 Contact information for inquiries, orders, and further information on the company's innovative approach.
 
-innBoK___team___examples___Space X.md	- ## #[[innBoK/team]]
-
-
-innBoK___team___examples___vein visualizer.md	- ## #[[innBoK/team]]
-
-
-innBoK___team___examples___extinguished animals meat.md	- ## #[[innBoK/team]]
-
 

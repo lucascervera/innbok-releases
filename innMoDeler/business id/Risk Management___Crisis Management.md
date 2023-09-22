@@ -11,13 +11,3 @@
 	- TODO  Allocate resources for crisis management
 	- TODO  Train the team in crisis management procedures.
 
-
-
-
-
-
-
-
-
-
-

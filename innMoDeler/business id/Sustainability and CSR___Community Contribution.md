@@ -11,13 +11,3 @@
 	- TODO  Engage in philanthropy or volunteerism
 	- TODO  Build a brand image based on community contribution.
 
-
-
-
-
-
-
-
-
-
-

@@ -1,23 +1,21 @@
-page-type:: #
 color:: grey
+page-type:: #
 innbok-type:: item
+innbok-bm-id:: [[AI business description]]
 priority:: 
 status:: #pending
 
 - #content #
   collapsed:: true
 	- {{embed [[AI business description/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[AI business description/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[AI business description/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/AI-business-description/info]]}}
-	- {{embed [[innBoK/AI-business-description/data]]}}
-	- {{embed [[AI business description/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[AI business description/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[AI business description/keys]]}}
+	- {{embed [[AI business description/workflow]]}}
+

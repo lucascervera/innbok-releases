@@ -11,13 +11,3 @@
 	- TODO  Regularly evaluate and adopt new technologies
 	- TODO  Develop a technology roadmap aligned with business goals.
 
-
-
-
-
-
-
-
-
-
-

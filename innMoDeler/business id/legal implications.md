@@ -1,22 +1,31 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[legal implications]]
 priority:: 400
 status:: #pending
 
 - #content #text
+  collapsed:: true
 	- {{embed [[legal implications/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[legal implications/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[legal implications/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/legal-implications/info]]}}
-	- {{embed [[innBoK/legal-implications/data]]}}
-	- {{embed [[legal implications/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[legal implications/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[legal implications/keys]]}}
+	- {{embed [[legal implications/workflow]]}}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,27 +1,24 @@
-page-type:: #template
 color:: blue
+page-type:: #artifact
 innbok-type:: item
+innbok-bm-id:: [[solution 5/roadmap]]
 priority:: 300
 status:: #inactive
+parent:: [[solution 5]]
 
-- #content #template
+- #content #artifact
   collapsed:: true
 	- {{embed [[solution 5/roadmap/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/solution-(id)/roadmap/info]]}}
-	- {{embed [[innBoK/solution-(id)/roadmap/data]]}}
-	- {{embed [[solution 5/roadmap/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[solution 5/roadmap/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[solution 5/roadmap/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[solution 5/roadmap/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[solution 5/roadmap/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[solution 5/roadmap/workflow]]}}
 
 
 

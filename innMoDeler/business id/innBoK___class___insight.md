@@ -1,6 +1,7 @@
+color:: green
 innbok-type:: [[class]]
 icon:: 💡
-alias:: insight
+alias:: insight, insights
 
 - ## #info 
 

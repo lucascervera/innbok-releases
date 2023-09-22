@@ -6,12 +6,4 @@
 				 Provide Ongoing Support: Offer ongoing support and assistance to customers, ensuring their satisfaction with the quality and exclusivity of the luxury meat products. This could include providing detailed information about the revived extinct animals, their unique characteristics, and the sustainable practices employed by the company.
 				 Continuously Adapt and Improve: Stay ahead of the competition by monitoring market trends and seeking customer feedback. Continuously adapt sales strategies to meet changing customer preferences and expectations, and invest in research and development to enhance the quality and appeal of the luxury meat products.
 
-innBoK___analysis___examples___Space X.md	- ## #[[innBoK/analysis]]
-
-
-innBoK___analysis___examples___vein visualizer.md	- ## #[[innBoK/analysis]]
-
-
-innBoK___analysis___examples___extinguished animals meat.md	- ## #[[innBoK/analysis]]
-
 

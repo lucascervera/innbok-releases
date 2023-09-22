@@ -1,22 +1,22 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[phases]]
 priority:: 500
 status:: #pending
 
 - #content #list
+  collapsed:: true
 	- {{embed [[phases/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[phases/keys]]}}
+	  - #class: [phase](https://go.innbok.com/#/page/innBoK%2Fclass%2Fphase)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[phases/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/phases/info]]}}
-	- {{embed [[innBoK/phases/data]]}}
-	- {{embed [[phases/status]]}}
-- #class #phase
-  collapsed:: true
-	- {{embed [[innBoK/class/phase]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[phases/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[phases/keys]]}}
+	- {{embed [[phases/workflow]]}}
+

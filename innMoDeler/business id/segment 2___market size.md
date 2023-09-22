@@ -1,25 +1,22 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[segment 2/market size]]
 priority:: 500
 status:: #inactive
+parent:: [[segment 2]]
 
 - #content #text
   collapsed:: true
 	- {{embed [[segment 2/market size/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/segment-(id)/market-size/info]]}}
-	- {{embed [[innBoK/segment-(id)/market-size/data]]}}
-	- {{embed [[segment 2/market size/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[segment 2/market size/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[segment 2/market size/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[segment 2/market size/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[segment 2/market size/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[segment 2/market size/workflow]]}}
 

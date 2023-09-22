@@ -10,13 +10,3 @@
 	- TODO Determine the financial needs of the startup
 	- TODO  Assess the amount of money that will be needed.
 
-
-
-
-
-
-
-
-
-
-

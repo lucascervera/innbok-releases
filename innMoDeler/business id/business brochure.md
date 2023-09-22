@@ -1,22 +1,21 @@
-page-type:: #template
 color:: blue
+page-type:: #artifact
 innbok-type:: item
+innbok-bm-id:: [[business brochure]]
 priority:: 400
 status:: #pending
 
-- #content #template
+- #content #artifact
+  collapsed:: true
 	- {{embed [[business brochure/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[business brochure/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[business brochure/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/business-brochure/info]]}}
-	- {{embed [[innBoK/business-brochure/data]]}}
-	- {{embed [[business brochure/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[business brochure/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[business brochure/keys]]}}
+	- {{embed [[business brochure/workflow]]}}
+

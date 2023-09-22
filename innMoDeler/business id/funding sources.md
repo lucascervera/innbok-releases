@@ -1,22 +1,21 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[funding sources]]
 priority:: 75
 status:: #pending
 
 - #content #list
+  collapsed:: true
 	- {{embed [[funding sources/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[funding sources/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[funding sources/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/funding-sources/info]]}}
-	- {{embed [[innBoK/funding-sources/data]]}}
-	- {{embed [[funding sources/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[funding sources/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[funding sources/keys]]}}
+	- {{embed [[funding sources/workflow]]}}
+

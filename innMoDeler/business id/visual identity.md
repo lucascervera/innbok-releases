@@ -1,22 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[visual identity]]
 priority:: 40
 status:: #pending
 
 - #content #text
+  collapsed:: true
 	- {{embed [[visual identity/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[visual identity/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[visual identity/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/visual-identity/info]]}}
-	- {{embed [[innBoK/visual-identity/data]]}}
-	- {{embed [[visual identity/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[visual identity/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[visual identity/keys]]}}
+	- {{embed [[visual identity/workflow]]}}
+

@@ -1,22 +1,21 @@
-page-type:: #template
 color:: blue
+page-type:: #artifact
 innbok-type:: item
+innbok-bm-id:: [[presentation]]
 priority:: 100
 status:: #pending
 
-- #content #template
+- #content #artifact
+  collapsed:: true
 	- {{embed [[presentation/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[presentation/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[presentation/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/presentation/info]]}}
-	- {{embed [[innBoK/presentation/data]]}}
-	- {{embed [[presentation/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[presentation/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[presentation/keys]]}}
+	- {{embed [[presentation/workflow]]}}
+

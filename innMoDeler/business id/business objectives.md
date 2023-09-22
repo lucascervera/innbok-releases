@@ -1,35 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[business objectives]]
 priority:: 600
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[business objectives/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[business objectives/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[business objectives/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/business-objectives/info]]}}
-	- {{embed [[innBoK/business-objectives/data]]}}
-	- {{embed [[business objectives/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[business objectives/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[business objectives/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[business objectives/workflow]]}}
 

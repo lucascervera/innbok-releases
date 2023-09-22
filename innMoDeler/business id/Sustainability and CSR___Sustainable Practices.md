@@ -11,13 +11,3 @@
 	- TODO  Communicate and promote sustainability efforts to customers
 	- TODO  Regularly review and update sustainability practices.
 
-
-
-
-
-
-
-
-
-
-

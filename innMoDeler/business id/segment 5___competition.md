@@ -1,27 +1,25 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[segment 5/competition]]
 priority:: 300
 status:: #inactive
+parent:: [[segment 5]]
 
 - #content #list
   collapsed:: true
 	- {{embed [[segment 5/competition/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/segment-(id)/competition/info]]}}
-	- {{embed [[innBoK/segment-(id)/competition/data]]}}
-	- {{embed [[segment 5/competition/status]]}}
-- #class #stakeholder
-  collapsed:: true
-	- {{embed [[innBoK/class/stakeholder]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[segment 5/competition/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[segment 5/competition/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[segment 5/competition/keys]]}}
+	  - #class: [stakeholder](https://go.innbok.com/#/page/innBoK%2Fclass%2Fstakeholder)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[segment 5/competition/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[segment 5/competition/workflow]]}}
 
 
 

@@ -11,13 +11,3 @@
 	- TODO  Regularly review and update contingency plans
 	- TODO  Establish a crisis management team to handle unexpected events.
 
-
-
-
-
-
-
-
-
-
-

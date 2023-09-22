@@ -1,35 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[legal]]
 priority:: 
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[legal/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[legal/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[legal/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/legal/info]]}}
-	- {{embed [[innBoK/legal/data]]}}
-	- {{embed [[legal/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[legal/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[legal/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[legal/workflow]]}}
 

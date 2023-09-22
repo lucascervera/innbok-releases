@@ -1,35 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[marketing]]
 priority:: 
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[marketing/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[marketing/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[marketing/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/marketing/info]]}}
-	- {{embed [[innBoK/marketing/data]]}}
-	- {{embed [[marketing/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[marketing/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[marketing/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[marketing/workflow]]}}
 

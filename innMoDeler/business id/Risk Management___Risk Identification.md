@@ -11,13 +11,3 @@
 	- TODO  Develop a risk management plan
 	- TODO  Implement risk mitigation strategies.
 
-
-
-
-
-
-
-
-
-
-

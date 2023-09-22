@@ -9,12 +9,4 @@
 			 #milestone [[Recognition and awards for ethical practices]]
 			 This milestone includes receiving recognition and awards for the company's ethical practices in biotechnology and genetic engineering, enhancing its reputation and attracting more customers.
 
-innBoK___marketing___examples___Space X.md	- ## #[[innBoK/marketing]]
-
-
-innBoK___marketing___examples___vein visualizer.md	- ## #[[innBoK/marketing]]
-
-
-innBoK___marketing___examples___extinguished animals meat.md	- ## #[[innBoK/marketing]]
-
 

@@ -1,6 +1,7 @@
+color:: red
 innbok-type:: [[class]]
 icon:: 💭
-alias:: question
+alias:: question, questions
 
 - ## #info 
 

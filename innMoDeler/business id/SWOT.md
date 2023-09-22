@@ -1,27 +1,23 @@
-page-type:: #template
 color:: blue
+page-type:: #artifact
 innbok-type:: item
+innbok-bm-id:: [[swot]]
 priority:: 200
 status:: #pending
 
-- #content #template
+- #content #artifact
   collapsed:: true
-	- {{embed [[SWOT/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/SWOT/info]]}}
-	- {{embed [[innBoK/SWOT/data]]}}
-	- {{embed [[SWOT/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[SWOT/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[SWOT/keys]]}}
+	- {{embed [[swot/content]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[swot/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[swot/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[swot/workflow]]}}
 
 
 

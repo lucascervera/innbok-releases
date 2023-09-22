@@ -11,13 +11,3 @@
 	- TODO  Establish partnerships or work with logistics providers to facilitate international expansion
 	- TODO  Acquire expertise in navigating customs and regulations.
 
-
-
-
-
-
-
-
-
-
-

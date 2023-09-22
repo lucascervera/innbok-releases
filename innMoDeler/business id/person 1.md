@@ -1,28 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[person 1]]
 priority:: 400
 status:: #inactive
 
 - #content #text
   collapsed:: true
 	- {{embed [[person 1/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/person-(id)/info]]}}
-	- {{embed [[innBoK/person-(id)/data]]}}
-	- {{embed [[person 1/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[person 1/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[person 1/keys]]}}
-- #children
-  collapsed:: true
-	- {{embed [[person 1/children]]}})
+  - #keys
+    collapsed:: true
+	  - {{embed [[person 1/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[person 1/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[person 1/workflow]]}}
 

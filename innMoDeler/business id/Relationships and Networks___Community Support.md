@@ -11,13 +11,3 @@
 	- TODO  Seek feedback and input from the community
 	- TODO  Support community projects and causes.
 
-
-
-
-
-
-
-
-
-
-

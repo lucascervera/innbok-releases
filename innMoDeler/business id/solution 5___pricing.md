@@ -1,27 +1,24 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[solution 5/pricing]]
 priority:: 400
 status:: #inactive
+parent:: [[solution 5]]
 
 - #content #text
   collapsed:: true
 	- {{embed [[solution 5/pricing/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/solution-(id)/pricing/info]]}}
-	- {{embed [[innBoK/solution-(id)/pricing/data]]}}
-	- {{embed [[solution 5/pricing/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[solution 5/pricing/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[solution 5/pricing/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[solution 5/pricing/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[solution 5/pricing/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[solution 5/pricing/workflow]]}}
 
 
 

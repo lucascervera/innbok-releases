@@ -19,7 +19,16 @@ Physical person who assumes a role and is part of the stakeholders of the busine
 - ### 
 	{{embed [[]]}}
 
-#N/A
+
+
+
+
+
+
+
+
+
+
 
 
 

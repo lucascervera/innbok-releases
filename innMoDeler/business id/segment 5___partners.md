@@ -1,27 +1,25 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[segment 5/partners]]
 priority:: 300
 status:: #inactive
+parent:: [[segment 5]]
 
 - #content #list
   collapsed:: true
 	- {{embed [[segment 5/partners/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/segment-(id)/partners/info]]}}
-	- {{embed [[innBoK/segment-(id)/partners/data]]}}
-	- {{embed [[segment 5/partners/status]]}}
-- #class #stakeholder
-  collapsed:: true
-	- {{embed [[innBoK/class/stakeholder]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[segment 5/partners/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[segment 5/partners/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[segment 5/partners/keys]]}}
+	  - #class: [stakeholder](https://go.innbok.com/#/page/innBoK%2Fclass%2Fstakeholder)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[segment 5/partners/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[segment 5/partners/workflow]]}}
 
 
 

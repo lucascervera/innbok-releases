@@ -1,35 +1,21 @@
-page-type:: #text
 color:: red
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[analysis]]
 priority:: 
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[analysis/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[analysis/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[analysis/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/analysis/info]]}}
-	- {{embed [[innBoK/analysis/data]]}}
-	- {{embed [[analysis/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[analysis/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[analysis/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[analysis/workflow]]}}
 

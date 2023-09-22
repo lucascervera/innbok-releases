@@ -11,13 +11,3 @@
 	- TODO  Regularly evaluate the effectiveness of loyalty programs
 	- TODO  Track and analyze loyalty program metrics.
 
-
-
-
-
-
-
-
-
-
-

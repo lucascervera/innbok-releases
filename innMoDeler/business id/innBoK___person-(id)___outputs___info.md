@@ -2,7 +2,7 @@
 innbok-type:: internal
 metamodel-id:: [[innBoK/person-(id)/outputs]]
 relations:: [[]]
-weight:: 
+weight:: 5
 
 ## Definition
 

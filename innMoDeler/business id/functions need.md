@@ -1,22 +1,22 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[functions need]]
 priority:: 250
 status:: #pending
 
 - #content #list
+  collapsed:: true
 	- {{embed [[functions need/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[functions need/keys]]}}
+	  - #class: [function](https://go.innbok.com/#/page/innBoK%2Fclass%2Ffunction)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[functions need/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/functions-need/info]]}}
-	- {{embed [[innBoK/functions-need/data]]}}
-	- {{embed [[functions need/status]]}}
-- #class #function
-  collapsed:: true
-	- {{embed [[innBoK/class/function]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[functions need/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[functions need/keys]]}}
+	- {{embed [[functions need/workflow]]}}
+

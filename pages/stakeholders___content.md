@@ -1,0 +1,9 @@
+- [[Personas en desempleo]]
+	- En busqueda activa de empleo [[!!!!]]
+	- En mejora de empleo
+- Organizaciones interesadas en el empleo
+- Instituciones europeas
+- Administraciones públicas y políticos
+- Empresas empleadoras
+- Instituciones educativas
+- Formadores

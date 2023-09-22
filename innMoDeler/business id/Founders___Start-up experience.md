@@ -10,13 +10,3 @@
 	- TODO Assess the startup experience of the founder
 	- TODO  Determine if they have previous success in starting and running a business.
 
-
-
-
-
-
-
-
-
-
-

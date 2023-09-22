@@ -1,22 +1,21 @@
-page-type:: [[artifact]]
-
-- ## Customer Segments
+## Customer Segments
+page-type:: #{"artifact"}
 	- Define the target customer segments you want to serve.
-	- {{embed [[segment 1/profile 1/content]]}}
+	- {{embed [[test segment/profile 1/content]]}}
 - ## Problem
   id:: 6441276a-8ab2-4123-90d5-489ff9d6274d
 	- List the top three problems your target customers face.
-	- {{embed [[segment 1/profile 1/goals/content]]}}
+	- {{embed [[test segment/profile 1/goals/content]]}}
 - ## Unique Value Proposition
 	- Describe the unique and compelling value you offer to your customers that sets you apart from the competition.
-	- {{embed [[segment 1/profile 1/value/content]]}}
+	- {{embed [[test segment/profile 1/value/content]]}}
 - ## Solution
   collapsed:: true
 	- Outline the proposed solutions to the top problems you've identified.
 	- {{embed [[solution 1/content]]}}
 - ## Channels
 	- List the channels you'll use to reach your target customers.
-	- {{embed [[segment 1/profile 1/channels/content]]}}
+	- {{embed [[test segment/profile 1/channels/content]]}}
 - ## Revenue Streams
   collapsed:: true
 	- Identify the ways your business will generate revenue.

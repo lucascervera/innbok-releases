@@ -10,13 +10,3 @@
 	- TODO Evaluate if the product involves any legal complexities
 	- TODO  Determine if there are any legal issues or considerations.
 
-
-
-
-
-
-
-
-
-
-

@@ -11,13 +11,3 @@
 	- TODO  Seek legal counsel for contract review and negotiation
 	- TODO  Monitor and fulfill contractual obligations.
 
-
-
-
-
-
-
-
-
-
-

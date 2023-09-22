@@ -1,22 +1,22 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[activities]]
 priority:: 300
 status:: #pending
 
 - #content #list
+  collapsed:: true
 	- {{embed [[activities/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[activities/keys]]}}
+	  - #class: [work](https://go.innbok.com/#/page/innBoK%2Fclass%2Fwork)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[activities/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/activities/info]]}}
-	- {{embed [[innBoK/activities/data]]}}
-	- {{embed [[activities/status]]}}
-- #class #work
-  collapsed:: true
-	- {{embed [[innBoK/class/work]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[activities/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[activities/keys]]}}
+	- {{embed [[activities/workflow]]}}
+

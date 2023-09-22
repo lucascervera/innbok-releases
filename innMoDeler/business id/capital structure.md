@@ -1,35 +1,21 @@
-page-type:: #template
 color:: blue
+page-type:: #artifact
 innbok-type:: item
+innbok-bm-id:: [[capital structure]]
 priority:: 75
 status:: #pending
 
-- #content #template
+- #content #artifact
   collapsed:: true
 	- {{embed [[capital structure/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[capital structure/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[capital structure/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/capital-structure/info]]}}
-	- {{embed [[innBoK/capital-structure/data]]}}
-	- {{embed [[capital structure/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[capital structure/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[capital structure/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[capital structure/workflow]]}}
 

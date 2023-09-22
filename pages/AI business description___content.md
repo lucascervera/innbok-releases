@@ -1,0 +1,46 @@
+- -
+- **Problema**:
+- La gente necesita un lugar para relajarse, trabajar o socializar mientras disfruta de bebidas y alimentos de calidad.
+	- La demanda de café de alta calidad y una experiencia de café única.
+- -
+- **Segmentos de Clientes**:
+- Profesionales que buscan un lugar para trabajar o reunirse.
+	- Estudiantes que buscan un lugar para estudiar.
+	- Individuos que buscan un lugar para relajarse y socializar.
+	- Amantes del café que aprecian la calidad y la variedad.
+- -
+- **Propuesta Única de Valor**:
+- "Un tercer lugar entre el trabajo y el hogar". Starbucks no solo vende café, sino una experiencia. Cada tienda está diseñada para ser un lugar acogedor y cómodo.
+- -
+- **Solución**:
+- Cafés de alta calidad y una variedad de otras bebidas y alimentos.
+	- Ambiente cómodo con Wi-Fi gratuito y música.
+	- Ubicaciones estratégicamente ubicadas en áreas de alto tráfico.
+- -
+- **Canales**:
+- Tiendas físicas en ubicaciones estratégicas en todo el mundo.
+	- Aplicación móvil para pedidos y pagos.
+	- Venta de productos en supermercados y tiendas en línea.
+- -
+- **Flujos de Ingresos**:
+- Venta de bebidas y alimentos.
+	- Venta de productos relacionados con el café (por ejemplo, tazas, cafeteras).
+	- Programa de lealtad y tarjetas de regalo.
+	- Licencias y franquicias.
+- -
+- **Estructura de Costos**:
+- Costo de bienes vendidos (café, ingredientes, productos).
+	- Salarios y beneficios de los empleados.
+	- Alquiler y mantenimiento de tiendas.
+	- Marketing y publicidad.
+- -
+- **Métricas Clave**:
+- Ventas diarias/semanales/mensuales.
+	- Número de transacciones por tienda.
+	- Crecimiento de nuevos clientes.
+	- Retención de clientes y actividad del programa de lealtad.
+- -
+- **Ventajas Injustas**:
+- Marca reconocida globalmente.
+	- Cadena de suministro optimizada y relaciones directas con productores de café.
+	- Cultura corporativa y capacitación de empleados.

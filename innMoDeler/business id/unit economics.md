@@ -1,22 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[unit economics]]
 priority:: 150
 status:: #pending
 
 - #content #text
+  collapsed:: true
 	- {{embed [[unit economics/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[unit economics/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[unit economics/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/unit-economics/info]]}}
-	- {{embed [[innBoK/unit-economics/data]]}}
-	- {{embed [[unit economics/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[unit economics/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[unit economics/keys]]}}
+	- {{embed [[unit economics/workflow]]}}
+

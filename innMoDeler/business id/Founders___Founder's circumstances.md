@@ -10,13 +10,3 @@
 	- TODO Evaluate the personal situation of the founder
 	- TODO  Determine if they are in a favorable position to focus on the startup.
 
-
-
-
-
-
-
-
-
-
-

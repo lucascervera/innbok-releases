@@ -1,23 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[opportunity]]
 priority:: 950
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[opportunity/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[opportunity/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[opportunity/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/opportunity/info]]}}
-	- {{embed [[innBoK/opportunity/data]]}}
-	- {{embed [[opportunity/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[opportunity/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[opportunity/keys]]}}
+	- {{embed [[opportunity/workflow]]}}
+

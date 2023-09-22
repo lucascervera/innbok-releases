@@ -11,13 +11,3 @@
 	- TODO  Provide ethics training for employees
 	- TODO  Prioritize ethical conduct in all aspects of the business.
 
-
-
-
-
-
-
-
-
-
-

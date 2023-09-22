@@ -11,13 +11,3 @@
 	- TODO  Develop a budget and monitor adherence
 	- TODO  Regularly review financial records for accuracy.
 
-
-
-
-
-
-
-
-
-
-

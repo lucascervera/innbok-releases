@@ -1,20 +1,23 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[solution 1/features]]
 priority:: 500
 status:: #inactive
+parent:: [[solution 1]]
 
 - #content #list
+  collapsed:: true
 	- {{embed [[solution 1/features/content]]}}
-- #info
-	- {{embed [[innBoK/solution-(id)/features/info]]}}
-	- {{embed [[innBoK/solution-(id)/features/data]]}}
-	- {{embed [[solution 1/features/status]]}}
-- #class #feature
-	- {{embed [[innBoK/class/feature]]}}
-- #innCoPilot
+  - #keys
+    collapsed:: true
+	  - {{embed [[solution 1/features/keys]]}}
+	  - #class: [feature](https://go.innbok.com/#/page/innBoK%2Fclass%2Ffeature)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[solution 1/features/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[solution 1/features/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[solution 1/features/keys]]}}
+	- {{embed [[solution 1/features/workflow]]}}
+

@@ -1,25 +1,22 @@
-page-type:: #template
 color:: blue
+page-type:: #artifact
 innbok-type:: item
+innbok-bm-id:: [[solution 1/brochure]]
 priority:: 500
 status:: #inactive
+parent:: [[solution 1]]
 
-- #content #template
+- #content #artifact
   collapsed:: true
 	- {{embed [[solution 1/brochure/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/solution-(id)/brochure/info]]}}
-	- {{embed [[innBoK/solution-(id)/brochure/data]]}}
-	- {{embed [[solution 1/brochure/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[solution 1/brochure/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[solution 1/brochure/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[solution 1/brochure/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[solution 1/brochure/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[solution 1/brochure/workflow]]}}
 

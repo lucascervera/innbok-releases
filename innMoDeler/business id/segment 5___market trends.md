@@ -1,27 +1,24 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[segment 5/market trends]]
 priority:: 400
 status:: #inactive
+parent:: [[segment 5]]
 
 - #content #text
   collapsed:: true
 	- {{embed [[segment 5/market trends/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/segment-(id)/market-trends/info]]}}
-	- {{embed [[innBoK/segment-(id)/market-trends/data]]}}
-	- {{embed [[segment 5/market trends/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[segment 5/market trends/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[segment 5/market trends/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[segment 5/market trends/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[segment 5/market trends/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[segment 5/market trends/workflow]]}}
 
 
 

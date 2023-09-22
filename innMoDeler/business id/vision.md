@@ -1,35 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[vision]]
 priority:: 400
 status:: #pending
 
 - #content #text
   collapsed:: true
 	- {{embed [[vision/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[vision/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[vision/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/vision/info]]}}
-	- {{embed [[innBoK/vision/data]]}}
-	- {{embed [[vision/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[vision/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[vision/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[vision/workflow]]}}
 

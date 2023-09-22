@@ -11,13 +11,3 @@
 	- TODO  Determine if it can be patented or protected in other ways
 	- TODO  Identify any potential intellectual property issues.
 
-
-
-
-
-
-
-
-
-
-

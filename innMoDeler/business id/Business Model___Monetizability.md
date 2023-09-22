@@ -10,13 +10,3 @@
 	- TODO Assess the monetizability of the business model
 	- TODO  Determine if it is easy to generate revenue.
 
-
-
-
-
-
-
-
-
-
-

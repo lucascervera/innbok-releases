@@ -11,13 +11,3 @@
 	- TODO  Develop and communicate compliance policies
 	- TODO  Regularly review legal compliance status.
 
-
-
-
-
-
-
-
-
-
-

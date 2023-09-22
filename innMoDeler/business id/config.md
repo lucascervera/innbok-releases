@@ -1,35 +1,21 @@
-page-type:: #
 color:: grey
+page-type:: #
 innbok-type:: item
+innbok-bm-id:: [[config]]
 priority:: 
 status:: #pending
 
 - #content #
   collapsed:: true
 	- {{embed [[config/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[config/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[config/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/config/info]]}}
-	- {{embed [[innBoK/config/data]]}}
-	- {{embed [[config/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[config/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[config/keys]]}}
-
-
-
-
-
-
-
-
-
-
-
+	- {{embed [[config/workflow]]}}
 

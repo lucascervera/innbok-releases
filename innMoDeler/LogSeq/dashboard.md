@@ -1,13 +1,13 @@
 icon:: 🪟
 
-- https://innbok.com/media/posts/9/responsive/2023-04-20_17-29-2xl.png{:height 180, :width 780}
 -
 - ### [[Design]]
   background-color:: blue
+	- [[innBoK/innBoK guide]]
 	- [[Business model editor]]
-	- [[Business model navigator]]
+	- [[Business model viewer]]
+		-
 	- [[business model status]]
-- [[Business model editor]]
 	- [[Opportunity console]]
 	  id:: 64ef8457-e823-4ee2-95ff-cf006fb2c546
 - [[innBoK whiteboard]]
@@ -16,11 +16,14 @@ icon:: 🪟
 - [[class]]
 - [[artifacts]]
 - [[shortcuts]]
-	- [[segment 1/profile 1]]
+	- [[test segment/profile 1]]
+	- [[team/content]]
+	- [[solutions/content]]
+	- [[stakeholders/content]]
+		-
 - ### [[analysis]]
   background-color:: yellow
 - [[innbok/marker]]
-	-
 - [[Most important items]]
 - [[important and uncertain chart]]
 - [[key console]]
@@ -31,13 +34,14 @@ icon:: 🪟
 - ### [[risks]]
 - ### [[validation]]
   background-color:: green
-	- [[experiments]]
-		-
+	- [[experiment list]]
 - ## [[innMoDeler]]
 	- [[innMoDeler/help]]
 	- [[guides]]
 		- [[Getting started]]
 		- [[Opportunity development]]
+- [[innMoDeler TODOs]]
+-
 -
 -
 - ## [[LogSeq]]

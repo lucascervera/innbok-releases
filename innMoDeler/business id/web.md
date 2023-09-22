@@ -1,22 +1,21 @@
-page-type:: #text
 color:: blue
+page-type:: #text
 innbok-type:: item
+innbok-bm-id:: [[web]]
 priority:: 300
 status:: #pending
 
 - #content #text
+  collapsed:: true
 	- {{embed [[web/content]]}}
-- #info
+  - #keys
+    collapsed:: true
+	  - {{embed [[web/keys]]}}
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[web/innCoPilot]]}}
+
+- #workflow
   collapsed:: true
-	- {{embed [[innBoK/web/info]]}}
-	- {{embed [[innBoK/web/data]]}}
-	- {{embed [[web/status]]}}
-- #class #
-  collapsed:: true
-	- {{embed [[innBoK/class/]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[web/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[web/keys]]}}
+	- {{embed [[web/workflow]]}}
+

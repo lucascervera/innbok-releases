@@ -1,0 +1,5 @@
+- Provincia > León
+- Idioma
+- Tiempo de desempleo
+- Edad
+- Sector profesional

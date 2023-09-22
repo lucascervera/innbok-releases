@@ -19,5 +19,14 @@ the potential consequences or obligations that arise from the legal framework wi
 - ### 
 	{{embed [[]]}}
 
-#N/A
+
+
+
+
+
+
+
+
+
+
 

@@ -1,25 +1,23 @@
-page-type:: #list
 color:: blue
+page-type:: #list
 innbok-type:: item
+innbok-bm-id:: [[segment 4/profiles]]
 priority:: 400
 status:: #inactive
+parent:: [[segment 4]]
 
 - #content #list
   collapsed:: true
 	- {{embed [[segment 4/profiles/content]]}}
-- #info
-  collapsed:: true
-	- {{embed [[innBoK/segment-(id)/profiles/info]]}}
-	- {{embed [[innBoK/segment-(id)/profiles/data]]}}
-	- {{embed [[segment 4/profiles/status]]}}
-- #class #profile
-  collapsed:: true
-	- {{embed [[innBoK/class/profile]]}}
-- #innCoPilot
-  collapsed:: true
-	- {{embed [[segment 4/profiles/innCoPilot]]}}
-- #[[related keys]]
-  collapsed:: true
-	- {{embed [[segment 4/profiles/keys]]}}
+  - #keys
+    collapsed:: true
+	  - {{embed [[segment 4/profiles/keys]]}}
+	  - #class: [profile](https://go.innbok.com/#/page/innBoK%2Fclass%2Fprofile)
+  - #innCoPilot
+    collapsed:: true
+	  - {{embed [[segment 4/profiles/innCoPilot]]}}
 
+- #workflow
+  collapsed:: true
+	- {{embed [[segment 4/profiles/workflow]]}}
 
