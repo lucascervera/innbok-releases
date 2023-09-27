@@ -1,0 +1,23 @@
+
+innbok-type:: internal
+metamodel-id:: [[innBoK/goals-(organization)]]
+item-classes:: #[[goal]]
+relations:: [[business objectives]] [[mission]] [[vision]]
+weight:: 7
+
+## Definition
+Business goals are the specific objectives that a business model aims to achieve in terms of revenue, growth, profitability, or market share.
+## Description
+## Examples
+- ### innBoK/goals-(organization)/examples/Space X
+	{{embed [[innBoK/goals-(organization)/examples/Space X]]}}
+- ### innBoK/goals-(organization)/examples/vein visualizer
+	{{embed [[innBoK/goals-(organization)/examples/vein visualizer]]}}
+- ### innBoK/goals-(organization)/examples/extinguished animals meat
+	{{embed [[innBoK/goals-(organization)/examples/extinguished animals meat]]}}
+- ### 
+	{{embed [[]]}}
+- ### 
+	{{embed [[]]}}
+
+

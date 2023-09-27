@@ -28,3 +28,55 @@
   max-height:200px;
   overflow:scroll;
 }
+
+/* https://discuss.logseq.com/t/block-background-color-setting-specific/8980/2 */
+.ls-block[data-refs-self*='"artifact"'] {
+   --ls-selection-background-color: black;
+   --ls-block-highlight-color: black;
+    padding: 8px 0;
+    margin: 8px 0 0 0;
+    border-radius: 5px;
+    border-left: 4px solid navy;
+    background-color: LightSteelBlue;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"topic"'] {
+   --ls-selection-background-color: black;
+   --ls-block-highlight-color: black;
+    padding: 8px 0;
+    margin: 8px 0 0 0;
+    border-radius: 5px;
+    border-color: 4px solid LightGray;
+    border-top: 1px solid LightGray;
+    border-bottom: 1px solid LightGray;
+    border-left: 1px solid LightGray;
+    border-right: 1px solid LightGray;
+    background-color: WhiteSmoke;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"resource"'] {
+   --ls-selection-background-color: black;
+   --ls-block-highlight-color: black;
+    padding: 8px 0;
+    margin: 8px 0 0 0;
+    border-radius: 5px;
+    border-left: 4px solid DarkGray;
+    background-color: OldLace;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"unit"'] {
+   --ls-selection-background-color: black;
+   --ls-block-highlight-color: black;
+    padding: 8px 0;
+    margin: 8px 0 0 0;
+    border-radius: 5px;
+    border-color: 4px solid LightGray;
+    border-top: 1px solid LightGray;
+    border-bottom: 1px solid LightGray;
+    border-left: 1px solid LightGray;
+    border-right: 1px solid LightGray;
+    transform: translateX(-4px);
+}

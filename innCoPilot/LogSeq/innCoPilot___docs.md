@@ -1,0 +1,127 @@
+icon:: 🛎️
+color:: grey
+
+- [[innCoPilot/docs/installation]]
+  collapsed:: true
+	- [[innCoPilot/docs/download and install LogSeq]]
+	- [[innCoPilot/docs/download and add innCoPilot graph]]
+- [[innCoPilot/docs/user interface]]
+  collapsed:: true
+	- [[innCoPilot/docs/opening pages in the right panel]]
+	- [[innCoPilot/docs/slides]]
+- [[innCoPilot/docs/project cycle]]
+  collapsed:: true
+	- [[innCoPilot/docs/design]]
+		- [[innCoPilot/docs/classes]]
+		- [[innCoPilot/docs/artifacts]]
+			- [[innCoPilot/docs/artifact content]]
+			- [[innCoPilot/docs/artifact workflow]]
+			- [[innCoPilot/docs/artifact status]]
+			- [[innCoPilot/docs/artificial intelligence]]
+			- [[innCoPilot/docs/renaming]]
+			  id:: 6512f010-7169-4376-830e-5fe357987022
+	- [[innCoPilot/docs/analysis]]
+		- [[innCoPilot/docs/markers]]
+		- [[innCoPilot/docs/risks]]
+	- [[innCoPilot/docs/validation]]
+		- [[innCoPilot/docs/experiments]]
+- [[innCoPilot/docs/guide]]
+  collapsed:: true
+	- [[innCoPilot/docs/guide/TODOs]]
+	- [[innCoPilot/docs/guide/topics]]
+	- [[innCoPilot/docs/guide/resources]]
+	- [[innCoPilot/docs/business model editor]]
+	- [[innCoPilot/docs/business model viewer]]
+- [[innCoPilot/docs/comments]]
+- [[innCoPilot/docs/presentations]]
+- [[innCoPilot/docs/whiteboards]]
+- [[innCoPilot/docs/exporting content]]
+- [[innCoPilot/docs/version control and back-up]]
+- [[innCoPilot/dev]]
+  collapsed:: true
+	- [[innCoPilot/dev/prompts]]
+		- [[innCoPilot/dev/prompts/risk]]
+-
+- EN
+  collapsed:: true
+	- Help to manage your business model
+		- Each element of the business model has a information describing it
+		- For each element of the business model, you can consult a list of examples that help you understand what that element is about
+		- The help page includes lists with possible elements that you can incorporate into your business model. For example, when defining the channels you will use to reach your customers, you don't start from scratch, but you can consult a list of possible channels and choose the ones that are useful to you.
+		- InnCoPilot suggests possible values for a business model element using artificial intelligence
+		- Access guides that show you step by step how to complete your business model
+		- Use methodologies (Lean Startup, Customer Development, Design Thinking...) and tools (Business Model Canvas, Value Proposition Canvas, empathy map...) with which you are already familiar
+	- Single data architecture
+		- Based on a single point of truth, data is entered only once in one place and reused wherever needed
+		- Ensures that the business model is always up to date
+		- Avoids having your business model data scattered and repeated in multiple documents and folders
+	- Easy to navigate and visualize
+		- Navigating through a content tree
+		- The pages of each business model element show the relationships it has with other elements of the business model
+		- Hovering over a link opens a pop-up window that displays the content of the different elements of the business model.
+		- Our guides explain step-by-step how to generate your business model
+	- Your information is stored in plain text files
+		- All data is stored in MarkDown format files within the folder you choose on your hard drive
+		- You can version control or backup by simply copying the folder where you have all your information
+		- Your information is yours forever, unlike similar SaaS services where you depend on server access
+	- Not only helps you understand what you need to do but how to do it
+		- Includes tasks and precise instructions to improve your business model
+		- Fully integrated with the innovation body of knowledge (innBoK), a methodology that integrates best practices, processes, and tools to launch innovative projects
+	- Based on Logseq and open-source
+		- Logseq is an open-source tool that allows you to create knowledge bases.
+		- Logseq is software with a large user base and a very powerful development team
+	- Analyze your business model
+		- InnMoDeler indicates which actions are a priority based on the maturity level of your business
+		- Use markers to reflect the importance and uncertainty associated with each business model element
+		- Includes a list of business keys that you can evaluate to detect the strengths and weaknesses of your business model
+		- You can include comments to improve your business model
+		- Gain visibility into the risks of your business model and explore possible mitigation paths
+		- Facilitates the review of the business model by advisors, mentors, etc...
+	- Validate your business model
+		- Learn about the main experiments that can be useful to validate your business model and access detailed instructions that can be carried out
+		- Receive improvement proposals for your business model
+		- Specify the conclusions obtained after the execution of the experiments and modify your business model
+	- Document generation
+		- You can use the information defined in InnMoDeler to generate different documents, such as a business plan, a pitch deck, or a guide for new employees.
+- ES
+  collapsed:: true
+	-
+	- Ayuda para completar tu modelo de negocio
+		- Cada elemento del modelo de negocio tiene una ayuda que te explica en qué consiste el mismo
+		- Para cada elemento del modelo de negocio puedes consultar una lista de ejemplos que te ayudan a entender en qué consiste ese elemento
+		- La página de ayuda incluye listas con posibles elementos que puedas incorporar a tu modelo de negocio. Por ejemplo al definir los canales que vas a utilizar para llegar a tus clientes, no partes de cero, sino que puedes consultar una lista de posibles canales y escoger los que te resulten útiles.
+		- InnCoPilot te propone posibles valores para un elemento del modelo de negocio utilizando inteligencia artificial
+		- Accede a guias que te indican paso a paso como ir completando tu modelo de negocio
+		- Utiliza metodologías (Lean Startup, Customer Development, Design Thinking...) y herramientas (Business Model Canvas Value Proposition Canvas, mapa de empatía...) con las que ya estás familiarizado
+	- Arquitectura de dato único
+		- Basado en single point of truth, los datos se completan una sola vez en un solo sitio y se reutilizan en todos los sitios donde haga falta
+		- Se evita tener los datos de tu modelo de negocio dispersos y repetidos en múltiples documentos y carpetas
+		- Facilita que el modelo de negocio esté siempre actualizado
+	- Fácil de navegar y visualizar
+		- Navegando por un árbol de contenidos
+		- Completando los contenidos a través de guías
+		- Las páginas de cada elemento del modelo de negocio muestran las relaciones que tiene con otros elementos del modelo de negocio
+		- Situando el cursor sobre un enlace se abre una ventana pop-up que muestra el contenido de los distintos elementos del modelo de negocio.
+	- Tu información se almacena en ficheros de texto plano
+		- Todos los datos se almacenan en ficheros en formato MarkDown dentro de la carpeta que tú elijas en tu disco duro
+		- Tu información es tuya para siempre, al contrario que en servicios SaaS similares en los que dependes de un acceso a un servidor
+		- Puedes llevar un control de versiones o hacer backups simplemente copiando la carpeta donde tienes toda tu información
+	- No sólo te ayuda a entender que tienes que hacer sino cómo hacerlo
+		- Se incluyen tareas y instrucciones precisas para ir mejorando tu modelo de negocio
+		- Está totalmente integrado con el innovation body of knowledge (innBoK), una metodología que integra mejores prácticas , procesos y herramientas para poner en marcha proyectos innovadores
+	- Basado en Logseq y opensource
+		- Logseq que es una herramienta de código abierto que te permite crear bases de conocimiento.
+		- Logseq es un software con una gran base de usuarios y un equipo de desarrollo muy potente
+	- Analiza tu modelo de negocio
+		- InnMoDeler te indica qué acciones tienen prioridad en función del grado de madurez de tu negocio
+		- Utiliza marcadores para reflejar la importancia y la incertidumbre asociados a cada elemento del modelo de negocio
+		- Incluye una lista de claves de negocio que puedes evaluar para detectar los puntos fuertes y débiles de tu modelo de negocio
+		- Puedes incluir comentarios de cara a mejorar tu modelo de negocio
+		- Obtén visibilidad sobre los riesgos de tu modelo de negocio y explora las posibles vías de mitigación
+		- Facilita la revisión del modelo de negocio por asesores, mentores, etcétera...
+	- Valida tu modelo de negocio
+		- Conoce los principales experimentos que pueden ser útiles para validar tu modelo de negocio y accede a instrucciones detalladas que puede llevar a cabo
+		- Especifica las conclusiones obtenidas tras la ejecución de los experimentos y modifica tu modelo de negocio
+		- Recibe propuestas de mejora para tu modelo de negocio
+	- Generación de documentos
+		- Puedes utilizar la información definida en Inmodeler Para generar distintos documentos, Como un plan de negocio, un Pitch deck, o una guía para nuevos empleados

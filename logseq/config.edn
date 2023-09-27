@@ -111,6 +111,8 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
+ :page "innCoPilot Map of Content"
+ 
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -256,7 +258,7 @@
  :ref/linked-references-collapsed-threshold 0
 
  ;; Favorites to list on the left sidebar
- :favorites ["dashboard" "guides" "business model status" "tasks" "business model navigator/status" "pinned items" "comments" "markers" "innbok guides" "experiments" "innmodeler/help" "[innmodeler todos" "business model doc" "innteresante bm" "uber business model console (innbok)" "uber business model (innbok)" "innbok map of contents" "innbok business model v0.2.1" "business model v0.2.1" "innbok moc" "innbok guide" "business model example" "stakeholder whiteboard"]
+ :favorites ["inncopilot map of contents" "dashboard" "business model editor" "business model status" "tasks" "markers" "comments" "risk console" "experiments" "inncopilot/community"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -267,7 +269,7 @@
  ;; hide specific properties for blocks
  ;; E.g. :block-hidden-properties #{:created-at :updated-at}
  ;; :block-hidden-properties #{}
- :block-hidden-properties #{:page-type :color :innbok-type :bm-id :innbok-artifact}
+ :block-hidden-properties #{:page-type :color :innbok-type :innbok-bm-id :priority :inncopilot-type :innbok-key-rating :bm-id :innbok-artifact}
  
 
  ;; Enable all your properties to have corresponding pages

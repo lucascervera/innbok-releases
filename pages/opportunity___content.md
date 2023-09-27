@@ -1,2 +1,1 @@
-- La oportunidad reside en el hecho de que cada vez más gente quiere crear empresas nuevas y no sabe por dónde empezar
-- [[!!!!]]
+- La oportunidad reside en el hecho de que cada vez más gente quiere crear empresas nuevas y no sabe por dónde empezar [[!!!!]] [[???]]

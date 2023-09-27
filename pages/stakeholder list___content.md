@@ -1,0 +1,5 @@
+- [[emprendedores]] [[****]] [[????]]
+- [[Aceleradoras]] [[****]] [[????]]
+- [[Instituciones educativas]] [[*]] [[???]]
+- [[Mentores]] [[**]] [[??]]
+	-
