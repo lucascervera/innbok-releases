@@ -14,7 +14,6 @@ innbok-item-type:: my-business
 		- #### info ([help](https://go.innbok.com/#/page/opportunity%2Finfo))
 			- #content
 				- #### #artifact [[opportunity]] #🔖 #pending
-				  collapsed:: true
 					- #placeholder
 			- #### #keys #pending
 			  collapsed:: true
@@ -32,8 +31,11 @@ innbok-item-type:: my-business
 				- #key [[opportunity/Evidence]] #🔖
 	- #### #item [[business objectives]]
 	  innbok-item-type:: business-objectives
+	  collapsed:: true
 		- #### info ([help](https://go.innbok.com/#/page/business-objectives%2Finfo))
+		  collapsed:: true
 			- #content
+			  collapsed:: true
 				- #### #artifact [[business objectives]] #🔖
 				  collapsed:: true
 					- Provide businesses with a variety of event spaces tailored to their needs.
@@ -44,7 +46,9 @@ innbok-item-type:: my-business
 				- #key [[business-objectives/ Objetivos ambiciosos]] #🔖 [[---]]
 		- #### #item [[mission]]
 		  innbok-item-type:: mission
+		  collapsed:: true
 			- #### info ([help](https://go.innbok.com/#/page/mission%2Finfo))
+			  collapsed:: true
 				- #content
 				  collapsed:: true
 					- #### #artifact [[mission]] #🔖 #pending
@@ -66,19 +70,21 @@ innbok-item-type:: my-business
 					- #key [[goals-(organization)/Objetivos definidos con precisión]] #🔖
 	- #### #item [[solution list]]
 	  innbok-item-type:: solution-list
+	  collapsed:: true
 		- #### info ([help](https://go.innbok.com/#/page/solution-list%2Finfo))
+		  collapsed:: true
 			- #content
 			  collapsed:: true
 				- #### #artifact [[solution list]] #🔖
 				  collapsed:: true
 					- #solution [[Event venue & catering advisory services]]
 			- #### #keys
+			  collapsed:: true
 				- #key [[solution-list/Technological Adaptability]] #🔖
 				- #key [[solution-list/Use of Technology]] #🔖 [[+]]
 				- #key [[solution-list/Information Security]] #🔖
 		- #### #item solution [[Event venue & catering advisory services]]
 		  innbok-item-type:: solution-(id)
-		  collapsed:: true
 			- #### info ([help](https://go.innbok.com/#/page/solution-%28id%29%2Finfo))
 			  collapsed:: true
 				- #content
@@ -105,36 +111,36 @@ innbok-item-type:: my-business
 					- #key [[solution-(id)/Savings benefit]] #🔖
 					- #key [[solution-(id)/Traceability]] #🔖
 					- #key [[solution-(id)/Product focus]] #🔖
-			- #### #item solution [[solution 1 name]] [[category]]
+			- #### #item solution [[Plastilinn]] [[category]]
 			  innbok-item-type:: solution-(id)/category
 			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/solution-%28id%29%2Fcategory%2Finfo))
 				  collapsed:: true
 					- #content
 					  collapsed:: true
-						- #### #artifact solution [[solution 1 name]] [[category]] #🔖  
+						- #### #artifact solution [[Plastilinn]] [[category]] #🔖  
 						  collapsed:: true
 							- Servicios profesionales
 					- #### #keys #pending
-			- #### #item solution [[solution 1 name]] [[features]]
+			- #### #item solution [[Plastilinn]] [[features]]
 			  innbok-item-type:: solution-(id)/features
 			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/solution-%28id%29%2Ffeatures%2Finfo))
 				  collapsed:: true
 					- #content
 					  collapsed:: true
-						- #### #artifact solution [[solution 1 name]] [[features]] #🔖 #pending  
+						- #### #artifact solution [[Plastilinn]] [[features]] #🔖 #pending  
 						  collapsed:: true
 							- #feature name
 					- #### #keys #pending
-			- #### #item solution [[solution 1 name]] [[offerings]]
+			- #### #item solution [[Plastilinn]] [[offerings]]
 			  innbok-item-type:: solution-(id)/offerings
 			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/solution-%28id%29%2Fofferings%2Finfo))
 				  collapsed:: true
 					- #content
 					  collapsed:: true
-						- #### #artifact solution [[solution 1 name]] [[offerings]] #🔖 #pending  
+						- #### #artifact solution [[Plastilinn]] [[offerings]] #🔖 #pending  
 						  collapsed:: true
 							- #offering name
 					- #### #keys #pending
@@ -304,14 +310,14 @@ innbok-item-type:: my-business
 					  collapsed:: true
 						- #person name
 				- #### #keys #pending
-			- #### #item person [[person 1 name]]
+			- #### #item person [[lucas]]
 			  innbok-item-type:: person-(id)
 			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/person-%28id%29%2Finfo))
 				  collapsed:: true
 					- #content
 					  collapsed:: true
-						- #### #artifact person [[person 1 name]] #🔖 #pending  
+						- #### #artifact person [[lucas]] #🔖 #pending  
 						  collapsed:: true
 							- #placeholder
 					- #### #keys #pending
@@ -388,26 +394,21 @@ innbok-item-type:: my-business
 	  innbok-item-type:: operations
 	  collapsed:: true
 		- #### info ([help](https://go.innbok.com/#/page/operations%2Finfo))
-		  collapsed:: true
 			- #content
-			  collapsed:: true
 				- #### #artifact [[operations]] #🔖 #pending
-				  collapsed:: true
 					- #placeholder
 					- #ia
-					  collapsed:: true
-						- - **Venue Sourcing**: Eventovery would need to continuously scout and onboard new event spaces in Madrid, ensuring they meet the quality and variety standards for their platform. This involves visiting potential venues, assessing their suitability, and negotiating terms.
-						- - **Catering Coordination**: Eventovery would need to collaborate with various catering services, understanding their specialties, and ensuring they can deliver tailored experiences as per client requirements.
-						- - **Booking and Reservation System**: Implement a robust booking and reservation system that allows businesses to easily book venues and catering services, manage their reservations, and make any necessary changes.
-						- - **Event Customization**: Offer customization options for events, allowing businesses to tailor the event space, catering, and other services to their specific needs and preferences.
-						- - **Quality Assurance**: Regularly inspect and review the venues and catering services on their platform to ensure they maintain the promised standards. This includes checking the cleanliness, amenities, and overall quality of service.
-						- - **Feedback and Review System**: Implement a system where businesses can provide feedback and reviews for the venues and catering services they've used. This helps in maintaining quality and provides valuable insights for improvement.
-						- - **Marketing and Promotion**: Engage in marketing activities to promote Eventovery's platform to potential businesses in Madrid and surrounding areas. This could include online advertising, attending corporate events, and partnerships with local businesses.
-						- - **Customer Support**: Provide a dedicated customer support team to assist businesses with their queries, issues, or any other assistance they might need while using the platform.
-						- - **Billing and Payment System**: Implement a secure and efficient billing and payment system that allows businesses to easily pay for the services they've availed, and for venues and caterers to receive their payments promptly.
-						- - **Trend Analysis**: Regularly analyze market trends to understand the evolving preferences and requirements of businesses. This helps in updating the offerings and staying ahead of competitors.
-						- - **Partnership and Collaboration**: Collaborate with event planners, decorators, and other related service providers to offer a comprehensive event solution to businesses.
-						- - **Continuous Improvement**: Based on feedback, reviews, and market analysis, continuously improve the platform's features, offerings, and user experience to ensure the success and growth of Eventovery.
+						- **Venue Sourcing**: Eventovery would need to continuously scout and onboard new event spaces in Madrid, ensuring they meet the quality and variety standards for their platform. This involves visiting potential venues, assessing their suitability, and negotiating terms.
+						- **Catering Coordination**: Eventovery would need to collaborate with various catering services, understanding their specialties, and ensuring they can deliver tailored experiences as per client requirements.
+						- **Event Customization**: Offer customization options for events, allowing businesses to tailor the event space, catering, and other services to their specific needs and preferences.
+						- **Quality Assurance**: Regularly inspect and review the venues and catering services on their platform to ensure they maintain the promised standards. This includes checking the cleanliness, amenities, and overall quality of service.
+						- **Feedback and Review System**: Implement a system where businesses can provide feedback and reviews for the venues and catering services they've used. This helps in maintaining quality and provides valuable insights for improvement.
+						- **Marketing and Promotion**: Engage in marketing activities to promote Eventovery's platform to potential businesses in Madrid and surrounding areas. This could include online advertising, attending corporate events, and partnerships with local businesses.
+						- **Customer Support**: Provide a dedicated customer support team to assist businesses with their queries, issues, or any other assistance they might need while using the platform.
+						- **Billing and Payment System**: Implement a secure and efficient billing and payment system that allows businesses to easily pay for the services they've availed, and for venues and caterers to receive their payments promptly.
+						- **Trend Analysis**: Regularly analyze market trends to understand the evolving preferences and requirements of businesses. This helps in updating the offerings and staying ahead of competitors.
+						- **Partnership and Collaboration**: Collaborate with event planners, decorators, and other related service providers to offer a comprehensive event solution to businesses.
+						- **Continuous Improvement**: Based on feedback, reviews, and market analysis, continuously improve the platform's features, offerings, and user experience to ensure the success and growth of Eventovery.
 			- #### #keys #pending
 			  collapsed:: true
 				- #key [[operations/Customer Service Quality]] #🔖
@@ -431,40 +432,29 @@ innbok-item-type:: my-business
 				- #### #keys #pending
 	- #### #item [[metric list]]
 	  innbok-item-type:: metric-list
-	  collapsed:: true
 		- #### info ([help](https://go.innbok.com/#/page/metric-list%2Finfo))
-		  collapsed:: true
 			- #content
-			  collapsed:: true
 				- #### #artifact [[metric list]] #🔖 #pending
-				  collapsed:: true
 					- #metric name
 					- #ia
-					  collapsed:: true
+						- - #metric [[Customer Acquisition Cost]]
+							- - Calculating the cost to acquire a new business customer can help determine the effectiveness of Eventovery's marketing and outreach efforts.
 						- - #metric [[Venue Utilization Rate]]
 						- - Monitoring the frequency at which each venue is booked can provide insights into the popularity and demand for specific types of venues.
 						- - #metric [[Catering Service Ratings]]
 						- - Tracking customer ratings and reviews for various catering services can indicate their quality and customer satisfaction.
-						- - #metric [[Customer Acquisition Cost]]
-						- - Calculating the cost to acquire a new business customer can help determine the effectiveness of Eventovery's marketing and outreach efforts.
 						- - #metric [[Customer Retention Rate]]
 						- - Assessing the percentage of businesses that repeatedly use Eventovery's platform can indicate customer loyalty and satisfaction with the services.
 						- - #metric [[Average Booking Value]]
 						- - Analyzing the average value of each booking can provide insights into the spending patterns of businesses and the platform's revenue potential.
 						- - #metric [[Feedback Response Time]]
 						- - Monitoring the time taken to address and resolve customer feedback and complaints can indicate the efficiency and effectiveness of the customer support team.
-						- - #metric [[Platform Uptime]]
-						- - Ensuring the platform's consistent availability and uptime is crucial for a seamless user experience and business continuity.
-						- - #metric [[Venue and Caterer Onboarding Rate]]
-						- - Tracking the rate at which new venues and caterers are added to the platform can indicate growth and expansion efforts.
 						- - #metric [[Event Success Rate]]
 						- - Monitoring feedback from businesses regarding the success of their events can provide insights into the overall effectiveness of Eventovery's offerings.
 						- - #metric [[Operational Costs]]
-						- - Analyzing the platform's operational costs, including maintenance, marketing, and partnerships, can provide insights into its financial efficiency.
-						- - #metric [[Platform Traffic and Engagement]]
-						- - Monitoring the number of visits, average session duration, and bounce rate on the platform can indicate its usability and popularity among businesses.
+						- - Analyzing costs, including maintenance, marketing, and partnerships, can provide insights into its financial efficiency.
 						- - #metric [[Conversion Rate]]
-						- - Assessing the percentage of platform visitors who end up making a booking can indicate the effectiveness of the platform's design and offerings.
+							- - Assessing the percentage of platform visitors who end up making a booking can indicate the effectiveness of the platform's design and offerings.
 						- - #metric [[Partnership and Collaboration Success]]
 						- - Tracking the success and outcomes of collaborations with event planners, decorators, and other service providers can provide insights into the added value they bring to the platform.
 			- #### #keys #pending
@@ -496,7 +486,7 @@ innbok-item-type:: my-business
 					  collapsed:: true
 						- #revenue [[Commission from Venue Bookings]] [[**]] [[??]]
 						- #revenue [[Commission from Catering Services]] [[***]] [[???]]
-						- #ia
+						- #ia  
 						  collapsed:: true
 							- For Eventovery:
 							-
@@ -537,11 +527,11 @@ innbok-item-type:: my-business
 							- - License the Eventovery platform model to other cities or regions, allowing them to replicate the business model and generate revenue through licensing fees.
 				- #### #keys
 				  collapsed:: true
-					- #key [[revenue-lines/Revenue Sources]] #🔖 [[++]]  
+					- #key [[revenue-lines/Revenue Sources]] #🔖 [[++]]
 					  collapsed:: true
-					  Zoom del modelo de negocio  
-					  zoom 10%  
-					  Plantilla del modelo de negocio  
+					  Zoom del modelo de negocio
+					  zoom 10%
+					  Plantilla del modelo de negocio
 					  Space X
 		- #### #item [[cost lines]]
 		  innbok-item-type:: cost-lines
@@ -569,26 +559,20 @@ innbok-item-type:: my-business
 			- #### #keys #pending
 	- #### #item segment [[Corporate Event Organizers]]
 	  innbok-item-type:: segment-(id)
-	  collapsed:: true
 		- #### info ([help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo))
-		  collapsed:: true
 			- #content
-			  collapsed:: true
 				- #### #artifact segment [[segment (id)]] #🔖
-				  collapsed:: true
 					- #segment [[Corporate Event Organizers]]
-					  collapsed:: true
 						- This segment targets businesses and organizations looking to host corporate events in Madrid. They seek suitable venues and catering services that align with their event's theme, size, and budget.
 			- #### #keys
-			  collapsed:: true
 				- #key [[segment-(id)/Market maturity]] #🔖 [[+++]]
 				- #key [[segment-(id)/Momentum]] #🔖
 				- #key [[segment-(id)/Entry barriers]] #🔖 [[++]]
-				- #key [[segment-(id)/Environment]] #🔖
-				- #key [[segment-(id)/Accessibility to decision makers]] #🔖 [[++]]
+				- #key [[segment-(id)/Environment]] #🔖 [[+]]
+				- #key [[segment-(id)/Accessibility to decision makers]] #🔖 [[--]]
 				- #key [[segment-(id)/Barreras de salida]] #🔖 [[++++]]
 				- #key [[segment-(id)/Estacionalidad del mercado]] #🔖 [[-]]
-		- #### #item segment [[segment 1 name]]
+		- #### #item segment [[segment 1 name]] #off
 		  innbok-item-type:: segment-(id)
 		  collapsed:: true
 			- #### info ([help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo))
@@ -630,7 +614,7 @@ innbok-item-type:: my-business
 						- #key [[segment-(id)/market-size/Growth Potential]] #🔖
 						- #key [[segment-(id)/market-size/Market Size]] #🔖
 						- #key [[segment-(id)/market-size/Current market size]] #🔖
-		- #### #item segment [[segment 2 name]]
+		- #### #item segment [[segment 2 name]] #off
 		  innbok-item-type:: segment-(id)
 		  collapsed:: true
 			- #### info ([help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo))
@@ -672,7 +656,7 @@ innbok-item-type:: my-business
 						- #key [[segment-(id)/market-size/Growth Potential]] #🔖
 						- #key [[segment-(id)/market-size/Market Size]] #🔖
 						- #key [[segment-(id)/market-size/Current market size]] #🔖
-		- #### #item segment [[segment 3 name]]
+		- #### #item segment [[segment 3 name]] #off
 		  innbok-item-type:: segment-(id)
 		  collapsed:: true
 			- #### info ([help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo))
@@ -716,45 +700,38 @@ innbok-item-type:: my-business
 						- #key [[segment-(id)/market-size/Current market size]] #🔖
 	- #### #item [[profile list]]
 	  innbok-item-type:: profile-list
-	  collapsed:: true
 		- #### info ([help](https://go.innbok.com/#/page/profile-list%2Finfo))
 		  collapsed:: true
 			- #content
 			  collapsed:: true
 				- #### #artifact [[profile list]] #🔖
 				  collapsed:: true
-					- #profile: [[event logistics organizer]]
+					- #profile [[event logistics organizer]]
 			- #### #keys #pending
-		- #### #item profile [[profile 1 name]]
+		- #### #item profile [[Business modeler]]
 		  innbok-item-type:: profile-(id)
-		  collapsed:: true
 			- #### info ([help](https://go.innbok.com/#/page/profile-%28id%29%2Finfo))
-			  collapsed:: true
 				- #content
-				  collapsed:: true
-					- #### #artifact profile [[profile 1 name]] #🔖 #pending
-					  collapsed:: true
+					- #### #artifact profile [[Business modeler]] #🔖 #pending
 						- #placeholder
 				- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[segmentation]]
+			- #### #item profile [[Business modeler]] [[segmentation]]
 			  innbok-item-type:: profile-(id)/segmentation
-			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/profile-%28id%29%2Fsegmentation%2Finfo))
-				  collapsed:: true
 					- #content
-					  collapsed:: true
-						- #### #artifact profile [[profile 1 name]] [[segmentation]] #🔖 #pending  
-						  collapsed:: true
+						- #### #artifact profile [[Business modeler]] [[segmentation]] #🔖 #pending
 							- #segmentation name
+							- Tipo de organizador > Organización
+							- Presupuesto disponible > 1500€+
+							- Número de asistentes
+							- Interesados en espacio y/o catering
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[goals]]
+			- #### #item profile [[Business modeler]] [[goals]]
 			  innbok-item-type:: profile-(id)/goals
 			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/profile-%28id%29%2Fgoals%2Finfo))
-				  collapsed:: true
 					- #content
-					  collapsed:: true
-						- #### #artifact profile [[profile 1 name]] [[goals]] #🔖 #pending  
+						- #### #artifact profile [[Business modeler]] [[goals]] #🔖 #pending  
 						  collapsed:: true
 							- #goal name
 					- #### #keys #pending
@@ -764,25 +741,21 @@ innbok-item-type:: my-business
 						- #key [[profile-(id)/goals/Finantial damage]] #🔖
 						- #key [[profile-(id)/goals/Perception of urgency]] #🔖
 						- #key [[profile-(id)/goals/Financial damages]] #🔖
-			- #### #item profile [[profile 1 name]] [[value proposition]]
+			- #### #item profile [[Business modeler]] [[value proposition]]
 			  innbok-item-type:: profile-(id)/value-proposition
-			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/profile-%28id%29%2Fvalue-proposition%2Finfo))
 				  collapsed:: true
 					- #content
 					  collapsed:: true
-						- #### #artifact profile [[profile 1 name]] [[value proposition]] #🔖 #pending  
+						- #### #artifact profile [[Business modeler]] [[value proposition]] #🔖 #pending  
 						  collapsed:: true
 							- #value name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[channels]]
+			- #### #item profile [[Business modeler]] [[channels]]
 			  innbok-item-type:: profile-(id)/channels
-			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/profile-%28id%29%2Fchannels%2Finfo))
-				  collapsed:: true
 					- #content
-					  collapsed:: true
-						- #### #artifact profile [[profile 1 name]] [[channels]] #🔖 #pending  
+						- #### #artifact profile [[Business modeler]] [[channels]] #🔖 #pending  
 						  collapsed:: true
 							- #channel name
 					- #### #keys #pending
@@ -910,7 +883,6 @@ innbok-item-type:: my-business
 					- #### #keys #pending
 	- #### #item [[analysis]]
 	  innbok-item-type:: analysis
-	  collapsed:: true
 		- #### info ([help](https://go.innbok.com/#/page/analysis%2Finfo))
 		  collapsed:: true
 			- #content
@@ -921,14 +893,31 @@ innbok-item-type:: my-business
 			- #### #keys #pending
 		- #### #item [[risk list]]
 		  innbok-item-type:: risk-list
-		  collapsed:: true
 			- #### info ([help](https://go.innbok.com/#/page/risk-list%2Finfo))
-			  collapsed:: true
 				- #content
-				  collapsed:: true
 					- #### #artifact [[risk list]] #🔖 #pending
-					  collapsed:: true
 						- #risk name
+						- #ia
+							- - #risk [[Venue and catering Availability and Quality]]
+							- - Eventovery relies on the availability and quality of event spaces in Madrid. There's a risk that some venues might not be available during peak times, or their quality might not meet the expectations of clients. This can lead to dissatisfaction among users and potential loss of business.
+							- #risk [[Market Competition]]
+							- - The event space and catering industry in Madrid might be competitive, with several platforms and services vying for the same clientele. Eventovery faces competition from other platforms,
+								- direct venue bookings and independent catering services.
+								- Venue booking platforms
+								- Increased competition can lead to reduced market share and pricing pressures.
+							-
+							- - #risk [[Economic and Seasonal Fluctuations]]
+							- - The demand for event spaces and catering services can be influenced by economic conditions and seasonal fluctuations. Economic downturns or off-peak seasons can lead to reduced bookings, affecting the revenue of Eventovery.
+							-
+							- - #risk [[Reputation and Client Satisfaction]]
+							- - The success of Eventovery hinges on its reputation and the satisfaction of its clients. Negative reviews, unsatisfactory experiences, or public relations mishaps can harm the platform's reputation, leading to a decline in user trust and potential loss of business.
+							-
+							- - #risk [[Technological Challenges]]
+							- - Eventovery's platform relies on technology for its operations, from venue listings to booking processes. Technical glitches, cybersecurity threats, or outdated technology can disrupt the user experience, leading to dissatisfaction and potential revenue loss.
+							-
+							- - #risk [[Financial Sustainability]]
+							- - Operating a platform like Eventovery requires ongoing investments in marketing, technology, partnerships, and operations. There's a risk related to financial sustainability, especially if the platform doesn't achieve the expected growth or faces unexpected expenses.
+							-
 				- #### #keys #pending
 	- #### #item [[validation]]
 	  innbok-item-type:: validation
@@ -964,6 +953,10 @@ innbok-item-type:: my-business
 						- #experiment name
 				- #### #keys #pending
 				  collapsed:: true
+				    Zoom del modelo de negocio
+				    zoom 100%
+				    Plantilla del modelo de negocio
+				    Space X
 				  Zoom del modelo de negocio
 				  zoom 100%
 				  Plantilla del modelo de negocio

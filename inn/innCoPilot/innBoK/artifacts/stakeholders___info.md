@@ -1,14 +1,13 @@
-
 innbok-type:: internal
 metamodel-id:: [[stakeholders]]
 item-classes:: #[[segment]]
 relations:: [[solution (id)]]
 weight:: 8
 
-## Definition
-Market segments are groups of customers with similar needs, behaviors, or characteristics that a business targets with its products or services.
-## Description
-## Examples
+- ## Definition
+  - Market segments are groups of customers with similar needs, behaviors, or characteristics that a business targets with its products or services.
+- ## Description
+- ## Examples
 - ### stakeholders/examples/Space X
   {{embed [[stakeholders/examples/Space X]]}}
 - ### stakeholders/examples/vein visualizer

@@ -290,13 +290,13 @@ collapsed:: true
 					- #### #artifact [[people]] #🔖 #pending
 						- #person name
 				- #### #keys #pending
-			- #### #item person [[person 1 name]] 
+			- #### #item person [[lucas]] 
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/person-%28id%29%2Finfo)
 					- #content
-						- #### #artifact person [[person 1 name]] #🔖 #pending
+						- #### #artifact person [[lucas]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
 			- #### #item person [[person 2 name]] 
@@ -565,31 +565,31 @@ collapsed:: true
 				- #### #artifact [[profile list]] #🔖 #pending
 					- #placeholder Write your content here
 			- #### #keys #pending
-		- #### #item profile [[profile 1 name]] 
+		- #### #item profile [[Business modeler]] 
 		  collapsed:: true
 			- #### info
 			  collapsed:: true
 				- [help](https://go.innbok.com/#/page/profile-%28id%29%2Finfo)
 				- #content
-					- #### #artifact profile [[profile 1 name]] #🔖 #pending
+					- #### #artifact profile [[Business modeler]] #🔖 #pending
 						- #placeholder Write your content here
 				- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[segmentation]] 
+			- #### #item profile [[Business modeler]] [[segmentation]] 
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsegmentation%2Finfo)
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[segmentation]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[segmentation]] #🔖 #pending
 							- #segmentation name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[goals]] 
+			- #### #item profile [[Business modeler]] [[goals]] 
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fgoals%2Finfo)
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[goals]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[goals]] #🔖 #pending
 							- #goal name
 					- #### #keys #pending
 						- #key [[profile-(id)/goals/Pain perception]] #🔖
@@ -597,23 +597,23 @@ collapsed:: true
 						- #key [[profile-(id)/goals/Finantial damage]] #🔖
 						- #key [[profile-(id)/goals/Perception of urgency]] #🔖
 						- #key [[profile-(id)/goals/Financial damages]] #🔖
-			- #### #item profile [[profile 1 name]] [[value]] 
+			- #### #item profile [[Business modeler]] [[value]] 
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fvalue%2Finfo)
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[value]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[value]] #🔖 #pending
 							- #value name
 					- #### #keys #pending
 						- #key [[profile-(id)/value/Potential value]] #🔖
-			- #### #item profile [[profile 1 name]] [[channels]] 
+			- #### #item profile [[Business modeler]] [[channels]] 
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fchannels%2Finfo)
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[channels]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[channels]] #🔖 #pending
 							- #channel name
 					- #### #keys #pending
 		- #### #item profile [[profile 2 name]] 

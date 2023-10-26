@@ -1,14 +1,13 @@
-
 innbok-type:: internal
 metamodel-id:: [[profile-(id)/goals]]
 item-classes:: #[[goal]]
 relations:: [[profile (id)]] [[profile (id)/value proposition]] [[profile (id)/segmentation]] [[profile (id)/emotions]]
 weight:: 7
 
-## Definition
-Problems, needs or desires that our stakeholders have and are relevant to my business.
-## Description
-## Examples
+- ## Definition
+  - Problems, needs or desires that our stakeholders have and are relevant to my business.
+- ## Description
+- ## Examples
 - ### profile-(id)/goals/examples/Space X
   {{embed [[profile-(id)/goals/examples/Space X]]}}
 - ### profile-(id)/goals/examples/vein visualizer

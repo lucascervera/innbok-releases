@@ -1,13 +1,12 @@
-
 innbok-type:: internal
 metamodel-id:: [[my-business]]
 relations:: [[]]
 weight:: 9
 
-## Definition
-A business is an organization or entity that provides goods or services in exchange for profit or revenue.
-## Description
-## Examples
+- ## Definition
+  - A business is an organization or entity that provides goods or services in exchange for profit or revenue.
+- ## Description
+- ## Examples
 - ### my-business/examples/Space X
   {{embed [[my-business/examples/Space X]]}}
 - ### my-business/examples/vein visualizer

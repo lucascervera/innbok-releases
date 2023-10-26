@@ -1,3 +1,0 @@
-  - {{embed [[activitiy list]]}}
-
-

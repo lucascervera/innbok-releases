@@ -1,4 +1,0 @@
-  - {{embed [[business]]}}
-  - {{embed [[opportunity]]}}
-
-

@@ -1,13 +1,12 @@
-
 innbok-type:: internal
 metamodel-id:: [[segment-(id)]]
 relations:: [[]]
 weight:: 
 
-## Definition
-Group of customers with similar needs, behaviors, or characteristics that a business targets with its products or services. They are defined based on specific values of segmentation criteria.
-## Description
-## Examples
+- ## Definition
+  - Group of customers with similar needs, behaviors, or characteristics that a business targets with its products or services. They are defined based on specific values of segmentation criteria.
+- ## Description
+- ## Examples
 - ### segment-(id)/examples/Space X
   {{embed [[segment-(id)/examples/Space X]]}}
 - ### segment-(id)/examples/vein visualizer

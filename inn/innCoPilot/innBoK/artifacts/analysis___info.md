@@ -1,13 +1,12 @@
-
 innbok-type:: internal
 metamodel-id:: [[analysis]]
 relations:: [[]]
 weight:: 
 
-## Definition
-The process of examining and evaluating the different components of the business model to identify their importance and coherence and determine the risks it entails.
-## Description
-## Examples
+- ## Definition
+  - The process of examining and evaluating the different components of the business model to identify their importance and coherence and determine the risks it entails.
+- ## Description
+- ## Examples
 - ### analysis/examples/Space X
   {{embed [[analysis/examples/Space X]]}}
 - ### analysis/examples/vein visualizer

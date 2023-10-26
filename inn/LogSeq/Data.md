@@ -1,7 +1,7 @@
-- TODO [#C] #artifact [[plastilinn (business)]]
-  tags:: [[card]], [[plastilinn (business)]], [[data]]
+- TODO [#C] #artifact [[my business]]
+  tags:: [[card]], [[my business]], [[data]]
   inn-block-type:: #artifact
-  inn-block-title:: [[plastilinn (business)]]
+  inn-block-title:: [[my business]]
   inn-block-parent::  
   inn-block-bm-id:: bm-001
   priority::
@@ -16,7 +16,7 @@
   tags:: [[card]], [[solution list]], [[data]]
   inn-block-type:: #artifact
   inn-block-title:: [[solution list]]
-  inn-block-parent::  [[plastilinn (business)]]  
+  inn-block-parent::  [[my business]]  
   inn-block-bm-id:: bm-012
   priority::
 - TODO [#C] #artifact [[solution (id) renamed]]
@@ -30,7 +30,7 @@
   tags:: [[card]], [[team]], [[data]]
   inn-block-type:: #artifact
   inn-block-title:: [[team]]
-  inn-block-parent::  [[plastilinn (business)]]  
+  inn-block-parent::  [[my business]]  
   inn-block-bm-id:: bm-022
   priority:: 600
 - TODO [#C] #artifact [[people]]
@@ -51,7 +51,7 @@
   tags:: [[card]], [[stakeholder list]], [[data]]
   inn-block-type:: #artifact
   inn-block-title:: [[stakeholder list]]
-  inn-block-parent::  [[plastilinn (business)]]  
+  inn-block-parent::  [[my business]]  
   inn-block-bm-id:: bm-065
   priority:: 800
 - TODO [#C] #artifact [[empresas innovadoras]]
@@ -65,7 +65,7 @@
   tags:: [[card]], [[profile list]], [[data]]
   inn-block-type:: #artifact
   inn-block-title:: [[profile list]]
-  inn-block-parent::  [[plastilinn (business)]]  
+  inn-block-parent::  [[my business]]  
   inn-block-bm-id:: bm-077
   priority:: 600
 - TODO [#C] #artifact [[emprendedor]]
@@ -86,7 +86,7 @@
   tags:: [[card]], [[analysis]], [[data]]
   inn-block-type:: #artifact
   inn-block-title:: [[analysis]]
-  inn-block-parent::  [[plastilinn (business)]]  
+  inn-block-parent::  [[my business]]  
   inn-block-bm-id:: bm-094
   priority::
 - TODO [#C] #artifact [[key list]]
@@ -107,7 +107,7 @@
   tags:: [[card]], [[validation]], [[data]]
   inn-block-type:: #artifact
   inn-block-title:: [[validation]]
-  inn-block-parent::  [[plastilinn (business)]]  
+  inn-block-parent::  [[my business]]  
   inn-block-bm-id:: bm-098
   priority::
 - TODO [#C] #artifact [[experiment list]]
@@ -128,7 +128,7 @@
   tags:: [[card]], [[config]], [[data]]
   inn-block-type:: #artifact
   inn-block-title:: [[config]]
-  inn-block-parent::  [[plastilinn (business)]]  
+  inn-block-parent::  [[my business]]  
   inn-block-bm-id:: bm-101
   priority::
 - TODO [#C] #artifact [[AI business description]]

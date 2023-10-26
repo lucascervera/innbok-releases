@@ -1,13 +1,12 @@
-
 innbok-type:: internal
 metamodel-id:: [[solution-(id)/category]]
 relations:: [[solution (id)]] [[]]
 weight:: 4
 
-## Definition
-A solution category refers to a group or classification of similar products that share certain characteristics, functions, or purposes. It helps in organizing and grouping products based on their similarities and enables consumers to easily locate and compare different products within the same category. For example, smartphones, laptops, and tablets are all examples of product categories in the electronics industry.
-## Description
-## Examples
+- ## Definition
+  - A solution category refers to a group or classification of similar products that share certain characteristics, functions, or purposes. It helps in organizing and grouping products based on their similarities and enables consumers to easily locate and compare different products within the same category. For example, smartphones, laptops, and tablets are all examples of product categories in the electronics industry.
+- ## Description
+- ## Examples
 - ### solution-(id)/category/examples/Space X
   {{embed [[solution-(id)/category/examples/Space X]]}}
 - ### solution-(id)/category/examples/vein visualizer

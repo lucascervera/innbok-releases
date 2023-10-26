@@ -1,13 +1,12 @@
-
 innbok-type:: internal
 metamodel-id:: [[finance]]
 relations:: [[business]] [[activitiy list]]
 weight:: 5
 
-## Definition
-the management of financial resources and the allocation of funds within a business model.
-## Description
-## Examples
+- ## Definition
+  - the management of financial resources and the allocation of funds within a business model.
+- ## Description
+- ## Examples
 - ### finance/examples/Space X
   {{embed [[finance/examples/Space X]]}}
 - ### finance/examples/vein visualizer

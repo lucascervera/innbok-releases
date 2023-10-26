@@ -10,4 +10,5 @@ priority:: 10
 - ### Contingency strategy
   - Diversify investment portfolio and optimize cost structures.
 
+#N/A
 

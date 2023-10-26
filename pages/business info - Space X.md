@@ -363,55 +363,55 @@
 						- #person [[Elon Musk]]
 							- CEO and founder of Space X, Tesla, Neuralink, and The Boring Company. He is known for his ambitious vision of advancing technology and space exploration.
 				- #### #keys #pending
-			- #### #item person [[person 1 name]]
+			- #### #item person [[lucas]]
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/person-%28id%29%2Finfo) [AI]([[person 1 name/ai]])
 					- #content
-						- #### #artifact person [[person 1 name]]
+						- #### #artifact person [[lucas]]
 							- Elon Musk is one of the founders of Space X and has played a crucial role in its establishment and development.
 							- He is a prominent entrepreneur and visionary known for his involvement in various ventures, including Tesla, Neuralink, and The Boring Company.
 							- Musk has provided leadership and strategic direction to Space X, driving the company's mission to revolutionize space technology and enable human colonization of Mars.
 							- As a founder, Musk has been actively involved in the decision-making process, technology development, and overall growth of Space X.
 							- His vision and determination have been instrumental in shaping the company's goals and achievements.
 					- #### #keys #pending
-				- #### #item person [[person 1 name]] [[skills]]
+				- #### #item person [[lucas]] [[skills]]
 					- #### info
 					  collapsed:: true
 						- [help](https://go.innbok.com/#/page/person-%28id%29%2Fskills%2Finfo) [AI]([[person 1 name/skills/ai]])
 						- #content
-							- #### #artifact person [[person 1 name]] [[skills]]
+							- #### #artifact person [[lucas]] [[skills]]
 								- #skill name
 						- #### #keys #pending
-				- #### #item person [[person 1 name]] [[functions]]
+				- #### #item person [[lucas]] [[functions]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
 						- [help](https://go.innbok.com/#/page/person-%28id%29%2Ffunctions%2Finfo) [AI]([[person 1 name/functions/ai]])
 						- #content
-							- #### #artifact person [[person 1 name]] [[functions]]
+							- #### #artifact person [[lucas]] [[functions]]
 								- #function name
 						- #### #keys #pending
-				- #### #item person [[person 1 name]] [[inputs]]
+				- #### #item person [[lucas]] [[inputs]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
 						- [help](https://go.innbok.com/#/page/person-%28id%29%2Finputs%2Finfo) [AI]([[person 1 name/inputs/ai]])
 						- #content
-							- #### #artifact person [[person 1 name]] [[inputs]]
+							- #### #artifact person [[lucas]] [[inputs]]
 								- Elon Musk is one of the founders of Space X and has played a crucial role in its establishment and development.
 								- He is a prominent entrepreneur and visionary known for his involvement in various ventures, including Tesla, Neuralink, and The Boring Company.
 								- Musk has provided leadership and strategic direction to Space X, driving the company's mission to revolutionize space technology and enable human colonization of Mars.
 								- As a founder, Musk has been actively involved in the decision-making process, technology development, and overall growth of Space X.
 								- His vision and determination have been instrumental in shaping the company's goals and achievements.
 						- #### #keys #pending
-				- #### #item person [[person 1 name]] [[outputs]]
+				- #### #item person [[lucas]] [[outputs]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
 						- [help](https://go.innbok.com/#/page/person-%28id%29%2Foutputs%2Finfo) [AI]([[person 1 name/outputs/ai]])
 						- #content
-							- #### #artifact person [[person 1 name]] [[outputs]]
+							- #### #artifact person [[lucas]] [[outputs]]
 								- Elon Musk is one of the founders of Space X and has played a crucial role in its establishment and development.
 								- He is a prominent entrepreneur and visionary known for his involvement in various ventures, including Tesla, Neuralink, and The Boring Company.
 								- Musk has provided leadership and strategic direction to Space X, driving the company's mission to revolutionize space technology and enable human colonization of Mars.
@@ -2007,42 +2007,42 @@
 			- #content
 				- #### #artifact [[profile list]]
 			- #### #keys #pending
-		- #### #item profile [[profile 1 name]]
+		- #### #item profile [[Business modeler]]
 		  collapsed:: true
 			- #### info
 			  collapsed:: true
-				- [help](https://go.innbok.com/#/page/profile-%28id%29%2Finfo) [AI]([[profile 1 name/ai]])
+				- [help](https://go.innbok.com/#/page/profile-%28id%29%2Finfo) [AI]([[Business modeler/ai]])
 				- #content
-					- #### #artifact profile [[profile 1 name]]
+					- #### #artifact profile [[Business modeler]]
 						- [[Space Agency Procurement Manager]]
 							- The procurement manager is responsible for managing the acquisition process, including identifying potential suppliers, issuing requests for proposals (RFPs), evaluating proposals, and negotiating contracts.
 				- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[segmentation]]
+			- #### #item profile [[Business modeler]] [[segmentation]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsegmentation%2Finfo) [AI]([[profile 1 name/segmentation/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsegmentation%2Finfo) [AI]([[Business modeler/segmentation/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[segmentation]]
+						- #### #artifact profile [[Business modeler]] [[segmentation]]
 							- #segmentation name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[persona]]
+			- #### #item profile [[Business modeler]] [[persona]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fpersona%2Finfo) [AI]([[profile 1 name/persona/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fpersona%2Finfo) [AI]([[Business modeler/persona/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[persona]]
+						- #### #artifact profile [[Business modeler]] [[persona]]
 							- [[Space Agency Procurement Manager]]
 							- The procurement manager is responsible for managing the acquisition process, including identifying potential suppliers, issuing requests for proposals (RFPs), evaluating proposals, and negotiating contracts.
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[goals]]
+			- #### #item profile [[Business modeler]] [[goals]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fgoals%2Finfo) [AI]([[profile 1 name/goals/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fgoals%2Finfo) [AI]([[Business modeler/goals/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[goals]]
+						- #### #artifact profile [[Business modeler]] [[goals]]
 							- #goal name
 					- #### #keys #pending
 						- #key [[profile-(id)/goals/Pain perception]] #🔖
@@ -2050,116 +2050,116 @@
 						- #key [[profile-(id)/goals/Finantial damage]] #🔖
 						- #key [[profile-(id)/goals/Perception of urgency]] #🔖
 						- #key [[profile-(id)/goals/Financial damages]] #🔖
-			- #### #item profile [[profile 1 name]] [[perceptions]]
+			- #### #item profile [[Business modeler]] [[perceptions]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fperceptions%2Finfo) [AI]([[profile 1 name/perceptions/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fperceptions%2Finfo) [AI]([[Business modeler/perceptions/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[perceptions]]
+						- #### #artifact profile [[Business modeler]] [[perceptions]]
 							- #perception name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[emotions]]
+			- #### #item profile [[Business modeler]] [[emotions]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Femotions%2Finfo) [AI]([[profile 1 name/emotions/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Femotions%2Finfo) [AI]([[Business modeler/emotions/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[emotions]]
+						- #### #artifact profile [[Business modeler]] [[emotions]]
 							- #emotion name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[value]]
+			- #### #item profile [[Business modeler]] [[value]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fvalue%2Finfo) [AI]([[profile 1 name/value/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fvalue%2Finfo) [AI]([[Business modeler/value/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[value]]
+						- #### #artifact profile [[Business modeler]] [[value]]
 							- #value name
 					- #### #keys #pending
 						- #key [[profile-(id)/value/Potential value]] #🔖
-			- #### #item profile [[profile 1 name]] [[quantified value proposition]]
+			- #### #item profile [[Business modeler]] [[quantified value proposition]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fquantified-value-proposition%2Finfo) [AI]([[profile 1 name/quantified value proposition/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fquantified-value-proposition%2Finfo) [AI]([[Business modeler/quantified value proposition/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[quantified value proposition]]
+						- #### #artifact profile [[Business modeler]] [[quantified value proposition]]
 							- [[Space Agency Procurement Manager]]
 							- The procurement manager is responsible for managing the acquisition process, including identifying potential suppliers, issuing requests for proposals (RFPs), evaluating proposals, and negotiating contracts.
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[relationship]]
+			- #### #item profile [[Business modeler]] [[relationship]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Frelationship%2Finfo) [AI]([[profile 1 name/relationship/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Frelationship%2Finfo) [AI]([[Business modeler/relationship/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[relationship]]
+						- #### #artifact profile [[Business modeler]] [[relationship]]
 							- #relationship name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[messages]]
+			- #### #item profile [[Business modeler]] [[messages]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fmessages%2Finfo) [AI]([[profile 1 name/messages/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fmessages%2Finfo) [AI]([[Business modeler/messages/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[messages]]
+						- #### #artifact profile [[Business modeler]] [[messages]]
 							- #message name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[channels]]
+			- #### #item profile [[Business modeler]] [[channels]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fchannels%2Finfo) [AI]([[profile 1 name/channels/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fchannels%2Finfo) [AI]([[Business modeler/channels/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[channels]]
+						- #### #artifact profile [[Business modeler]] [[channels]]
 							- #channel name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[assets]]
+			- #### #item profile [[Business modeler]] [[assets]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fassets%2Finfo) [AI]([[profile 1 name/assets/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fassets%2Finfo) [AI]([[Business modeler/assets/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[assets]]
+						- #### #artifact profile [[Business modeler]] [[assets]]
 							- #asset name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[transactions]]
+			- #### #item profile [[Business modeler]] [[transactions]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Ftransactions%2Finfo) [AI]([[profile 1 name/transactions/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Ftransactions%2Finfo) [AI]([[Business modeler/transactions/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[transactions]]
+						- #### #artifact profile [[Business modeler]] [[transactions]]
 							- #transaction name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[journey]]
+			- #### #item profile [[Business modeler]] [[journey]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fjourney%2Finfo) [AI]([[profile 1 name/journey/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fjourney%2Finfo) [AI]([[Business modeler/journey/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[journey]]
+						- #### #artifact profile [[Business modeler]] [[journey]]
 							- [[Space Agency Procurement Manager]]
 							- The procurement manager is responsible for managing the acquisition process, including identifying potential suppliers, issuing requests for proposals (RFPs), evaluating proposals, and negotiating contracts.
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[funnel]]
+			- #### #item profile [[Business modeler]] [[funnel]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Ffunnel%2Finfo) [AI]([[profile 1 name/funnel/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Ffunnel%2Finfo) [AI]([[Business modeler/funnel/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[funnel]]
+						- #### #artifact profile [[Business modeler]] [[funnel]]
 							- [[Space Agency Procurement Manager]]
 							- The procurement manager is responsible for managing the acquisition process, including identifying potential suppliers, issuing requests for proposals (RFPs), evaluating proposals, and negotiating contracts.
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[sales strategy]]
+			- #### #item profile [[Business modeler]] [[sales strategy]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsales-strategy%2Finfo) [AI]([[profile 1 name/sales strategy/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsales-strategy%2Finfo) [AI]([[Business modeler/sales strategy/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[sales strategy]]
+						- #### #artifact profile [[Business modeler]] [[sales strategy]]
 							- [[Space Agency Procurement Manager]]
 							- The procurement manager is responsible for managing the acquisition process, including identifying potential suppliers, issuing requests for proposals (RFPs), evaluating proposals, and negotiating contracts.
 					- #### #keys #pending

@@ -184,7 +184,7 @@
 		  collapsed:: true
 			- #### info
 			  collapsed:: true
-				- [help](https://go.innbok.com/#/page/solution-%28id%29%2Finfo) [AI]([[solution 1 name/ai]])
+				- [help](https://go.innbok.com/#/page/solution-%28id%29%2Finfo) [AI]([[Plastilinn/ai]])
 				- #content
 					- #### #artifact solution [[Event venue & catering advisory services]] #🔖 #pending
 						- #placeholder Write your content here
@@ -210,7 +210,7 @@
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fcategory%2Finfo) [AI]([[solution 1 name/category/ai]])
+					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fcategory%2Finfo) [AI]([[Plastilinn/category/ai]])
 					- #content
 						- #### #artifact solution [[Event venue & catering advisory services]] [[category]] #🔖 #pending
 							- #placeholder Write your content here
@@ -219,7 +219,7 @@
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Ffeatures%2Finfo) [AI]([[solution 1 name/features/ai]])
+					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Ffeatures%2Finfo) [AI]([[Plastilinn/features/ai]])
 					- #content
 						- #### #artifact solution [[Event venue & catering advisory services]] [[features]] #🔖 #pending
 							- #feature name
@@ -228,7 +228,7 @@
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Froadmap%2Finfo) [AI]([[solution 1 name/roadmap/ai]])
+					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Froadmap%2Finfo) [AI]([[Plastilinn/roadmap/ai]])
 					- #content
 						- #### #artifact solution [[Event venue & catering advisory services]] [[roadmap]] #🔖 #pending
 							- #placeholder Write your content here
@@ -237,7 +237,7 @@
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fcomponents%2Finfo) [AI]([[solution 1 name/components/ai]])
+					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fcomponents%2Finfo) [AI]([[Plastilinn/components/ai]])
 					- #content
 						- #### #artifact solution [[Event venue & catering advisory services]] [[components]] #🔖 #pending
 							- #placeholder Write your content here
@@ -247,7 +247,7 @@
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fofferings%2Finfo) [AI]([[solution 1 name/offerings/ai]])
+					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fofferings%2Finfo) [AI]([[Plastilinn/offerings/ai]])
 					- #content
 						- #### #artifact solution [[Event venue & catering advisory services]] [[offerings]] #🔖 #pending
 							- #offering name
@@ -256,7 +256,7 @@
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fpricing%2Finfo) [AI]([[solution 1 name/pricing/ai]])
+					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fpricing%2Finfo) [AI]([[Plastilinn/pricing/ai]])
 					- #content
 						- #### #artifact solution [[Event venue & catering advisory services]] [[pricing]] #🔖 #pending
 							- #placeholder Write your content here
@@ -266,7 +266,7 @@
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fpromotion%2Finfo) [AI]([[solution 1 name/promotion/ai]])
+					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fpromotion%2Finfo) [AI]([[Plastilinn/promotion/ai]])
 					- #content
 						- #### #artifact solution [[Event venue & catering advisory services]] [[promotion]] #🔖 #pending
 							- #placeholder Write your content here
@@ -276,7 +276,7 @@
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fbrochure%2Finfo) [AI]([[solution 1 name/brochure/ai]])
+					- [help](https://go.innbok.com/#/page/solution-%28id%29%2Fbrochure%2Finfo) [AI]([[Plastilinn/brochure/ai]])
 					- #content
 						- #### #artifact solution [[Event venue & catering advisory services]] [[brochure]] #🔖 #pending
 							- #placeholder Write your content here
@@ -593,49 +593,49 @@
 					- #### #artifact [[people]] #🔖 #pending
 						- #person name
 				- #### #keys #pending
-			- #### #item person [[person 1 name]]
+			- #### #item person [[lucas]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/person-%28id%29%2Finfo) [AI]([[person 1 name/ai]])
 					- #content
-						- #### #artifact person [[person 1 name]] #🔖 #pending
+						- #### #artifact person [[lucas]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
-				- #### #item person [[person 1 name]] [[skills]]
+				- #### #item person [[lucas]] [[skills]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
 						- [help](https://go.innbok.com/#/page/person-%28id%29%2Fskills%2Finfo) [AI]([[person 1 name/skills/ai]])
 						- #content
-							- #### #artifact person [[person 1 name]] [[skills]] #🔖 #pending
+							- #### #artifact person [[lucas]] [[skills]] #🔖 #pending
 								- #skill name
 						- #### #keys #pending
-				- #### #item person [[person 1 name]] [[functions]]
+				- #### #item person [[lucas]] [[functions]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
 						- [help](https://go.innbok.com/#/page/person-%28id%29%2Ffunctions%2Finfo) [AI]([[person 1 name/functions/ai]])
 						- #content
-							- #### #artifact person [[person 1 name]] [[functions]] #🔖 #pending
+							- #### #artifact person [[lucas]] [[functions]] #🔖 #pending
 								- #function name
 						- #### #keys #pending
-				- #### #item person [[person 1 name]] [[inputs]]
+				- #### #item person [[lucas]] [[inputs]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
 						- [help](https://go.innbok.com/#/page/person-%28id%29%2Finputs%2Finfo) [AI]([[person 1 name/inputs/ai]])
 						- #content
-							- #### #artifact person [[person 1 name]] [[inputs]] #🔖 #pending
+							- #### #artifact person [[lucas]] [[inputs]] #🔖 #pending
 								- #placeholder Write your content here
 						- #### #keys #pending
-				- #### #item person [[person 1 name]] [[outputs]]
+				- #### #item person [[lucas]] [[outputs]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
 						- [help](https://go.innbok.com/#/page/person-%28id%29%2Foutputs%2Finfo) [AI]([[person 1 name/outputs/ai]])
 						- #content
-							- #### #artifact person [[person 1 name]] [[outputs]] #🔖 #pending
+							- #### #artifact person [[lucas]] [[outputs]] #🔖 #pending
 								- #placeholder Write your content here
 						- #### #keys #pending
 			- #### #item person [[person 2 name]]
@@ -1696,40 +1696,40 @@
 				- #### #artifact [[profile list]] #🔖 #pending
 					- #placeholder Write your content here
 			- #### #keys #pending
-		- #### #item profile [[profile 1 name]]
+		- #### #item profile [[Business modeler]]
 		  collapsed:: true
 			- #### info
 			  collapsed:: true
-				- [help](https://go.innbok.com/#/page/profile-%28id%29%2Finfo) [AI]([[profile 1 name/ai]])
+				- [help](https://go.innbok.com/#/page/profile-%28id%29%2Finfo) [AI]([[Business modeler/ai]])
 				- #content
-					- #### #artifact profile [[profile 1 name]] #🔖 #pending
+					- #### #artifact profile [[Business modeler]] #🔖 #pending
 						- #placeholder Write your content here
 				- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[segmentation]]
+			- #### #item profile [[Business modeler]] [[segmentation]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsegmentation%2Finfo) [AI]([[profile 1 name/segmentation/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsegmentation%2Finfo) [AI]([[Business modeler/segmentation/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[segmentation]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[segmentation]] #🔖 #pending
 							- #segmentation name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[persona]]
+			- #### #item profile [[Business modeler]] [[persona]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fpersona%2Finfo) [AI]([[profile 1 name/persona/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fpersona%2Finfo) [AI]([[Business modeler/persona/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[persona]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[persona]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[goals]]
+			- #### #item profile [[Business modeler]] [[goals]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fgoals%2Finfo) [AI]([[profile 1 name/goals/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fgoals%2Finfo) [AI]([[Business modeler/goals/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[goals]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[goals]] #🔖 #pending
 							- #goal name
 					- #### #keys #pending
 						- #key [[profile-(id)/goals/Pain perception]] #🔖
@@ -1737,113 +1737,113 @@
 						- #key [[profile-(id)/goals/Finantial damage]] #🔖
 						- #key [[profile-(id)/goals/Perception of urgency]] #🔖
 						- #key [[profile-(id)/goals/Financial damages]] #🔖
-			- #### #item profile [[profile 1 name]] [[perceptions]]
+			- #### #item profile [[Business modeler]] [[perceptions]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fperceptions%2Finfo) [AI]([[profile 1 name/perceptions/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fperceptions%2Finfo) [AI]([[Business modeler/perceptions/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[perceptions]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[perceptions]] #🔖 #pending
 							- #perception name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[emotions]]
+			- #### #item profile [[Business modeler]] [[emotions]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Femotions%2Finfo) [AI]([[profile 1 name/emotions/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Femotions%2Finfo) [AI]([[Business modeler/emotions/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[emotions]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[emotions]] #🔖 #pending
 							- #emotion name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[value]]
+			- #### #item profile [[Business modeler]] [[value]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fvalue%2Finfo) [AI]([[profile 1 name/value/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fvalue%2Finfo) [AI]([[Business modeler/value/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[value]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[value]] #🔖 #pending
 							- #value name
 					- #### #keys #pending
 						- #key [[profile-(id)/value/Potential value]] #🔖
-			- #### #item profile [[profile 1 name]] [[quantified value proposition]]
+			- #### #item profile [[Business modeler]] [[quantified value proposition]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fquantified-value-proposition%2Finfo) [AI]([[profile 1 name/quantified value proposition/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fquantified-value-proposition%2Finfo) [AI]([[Business modeler/quantified value proposition/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[quantified value proposition]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[quantified value proposition]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[relationship]]
+			- #### #item profile [[Business modeler]] [[relationship]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Frelationship%2Finfo) [AI]([[profile 1 name/relationship/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Frelationship%2Finfo) [AI]([[Business modeler/relationship/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[relationship]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[relationship]] #🔖 #pending
 							- #relationship name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[messages]]
+			- #### #item profile [[Business modeler]] [[messages]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fmessages%2Finfo) [AI]([[profile 1 name/messages/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fmessages%2Finfo) [AI]([[Business modeler/messages/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[messages]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[messages]] #🔖 #pending
 							- #message name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[channels]]
+			- #### #item profile [[Business modeler]] [[channels]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fchannels%2Finfo) [AI]([[profile 1 name/channels/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fchannels%2Finfo) [AI]([[Business modeler/channels/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[channels]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[channels]] #🔖 #pending
 							- #channel name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[assets]]
+			- #### #item profile [[Business modeler]] [[assets]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fassets%2Finfo) [AI]([[profile 1 name/assets/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fassets%2Finfo) [AI]([[Business modeler/assets/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[assets]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[assets]] #🔖 #pending
 							- #asset name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[transactions]]
+			- #### #item profile [[Business modeler]] [[transactions]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Ftransactions%2Finfo) [AI]([[profile 1 name/transactions/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Ftransactions%2Finfo) [AI]([[Business modeler/transactions/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[transactions]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[transactions]] #🔖 #pending
 							- #transaction name
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[journey]]
+			- #### #item profile [[Business modeler]] [[journey]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fjourney%2Finfo) [AI]([[profile 1 name/journey/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fjourney%2Finfo) [AI]([[Business modeler/journey/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[journey]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[journey]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[funnel]]
+			- #### #item profile [[Business modeler]] [[funnel]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Ffunnel%2Finfo) [AI]([[profile 1 name/funnel/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Ffunnel%2Finfo) [AI]([[Business modeler/funnel/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[funnel]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[funnel]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
-			- #### #item profile [[profile 1 name]] [[sales strategy]]
+			- #### #item profile [[Business modeler]] [[sales strategy]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsales-strategy%2Finfo) [AI]([[profile 1 name/sales strategy/ai]])
+					- [help](https://go.innbok.com/#/page/profile-%28id%29%2Fsales-strategy%2Finfo) [AI]([[Business modeler/sales strategy/ai]])
 					- #content
-						- #### #artifact profile [[profile 1 name]] [[sales strategy]] #🔖 #pending
+						- #### #artifact profile [[Business modeler]] [[sales strategy]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
 						- #key [[profile-(id)/sales-strategy/Sales cycle duration]] #🔖
