@@ -3,9 +3,9 @@
 :block/content "### [[*****]] [[?????]]\nquery-table:: true\n{{query (and [[*****]] [[?????]] )}}"
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "650d42d3-242a-439c-a7cf-5bdfaa04d0b8"}
+{:block/uuid #uuid "652f85f7-ced6-45a0-9292-688c101b74fd"}
 :block/parent 
-{:block/uuid #uuid "650d42d3-242a-439c-a7cf-5bdfaa04d0b8"}
+{:block/uuid #uuid "652f85f7-ced6-45a0-9292-688c101b74fd"}
 :block/properties 
 {:query-table true
 :heading 3}
@@ -52,7 +52,7 @@
 :block/left 
 {:block/uuid #uuid "64f1a4aa-1408-4201-9be1-7c754810ace1"}
 :block/parent 
-{:block/uuid #uuid "650d42d3-242a-439c-a7cf-5bdfaa04d0b8"}
+{:block/uuid #uuid "652f85f7-ced6-45a0-9292-688c101b74fd"}
 :block/properties 
 {}
 :block/uuid #uuid "64f1a65b-271c-4eb6-aced-b9ef711e0a06"} 
@@ -84,7 +84,7 @@
 :nonce 1693558407499}}
 :block/updated-at 1693558917864})
 :pages (
-{:block/uuid #uuid "650d42d3-242a-439c-a7cf-5bdfaa04d0b8"
+{:block/uuid #uuid "652f85f7-ced6-45a0-9292-688c101b74fd"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 

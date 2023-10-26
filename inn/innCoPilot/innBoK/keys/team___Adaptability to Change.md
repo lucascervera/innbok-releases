@@ -1,0 +1,18 @@
+page-type:: [[key]]
+innbok-key-rating:: 80
+{{embed [[team/Adaptability to Change/data]]}}
+- #questions
+  - #question Is the startup adaptable to change?
+  - #question Is there a culture of flexibility and agility within the organization?
+  - #question Is the startup able to pivot or adjust strategies in response to market changes?
+- #relations
+  - [[business data]]: refers to the information and statistics that are collected and analyzed to inform decision-making within a business model.
+  - [[person-(id)/skills]]: the unique identification and competencies of individuals within a business model.
+  - [[business goals]]: Business goals are the specific objectives that a business model aims to achieve in terms of revenue, growth, profitability, or market share.
+- #TODOs
+  - TODO Foster adaptability to change within the startup
+  - TODO  Cultivate a culture of flexibility and agility
+  - TODO  Be prepared to pivot or adjust strategies in response to market changes.
+
+
+

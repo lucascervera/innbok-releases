@@ -1,3 +1,0 @@
-- {{embed [[Elon Musk]]}}
-- {{embed [[profile (id)]]}}
-- {{embed [[person id___skills]]}}

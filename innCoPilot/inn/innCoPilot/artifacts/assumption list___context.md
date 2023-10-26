@@ -1,5 +1,0 @@
-	- {{embed [[assumptions]]}}
-	- {{embed [[]]}}
-	- {{embed [[]]}}
-
-

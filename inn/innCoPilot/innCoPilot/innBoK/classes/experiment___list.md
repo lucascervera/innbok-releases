@@ -1,0 +1,151 @@
+
+- #[[experiment]]  [[Risk Assessment]] #🔖
+- #[[experiment]]  [[Learning Experiment]] #🔖
+- #[[experiment]]  [[Experiment Prioritization]] #🔖
+- #[[experiment]]  [[Assumption Testing]] #🔖
+- #[[experiment]]  [[Customer Interviews]] #🔖
+- #[[experiment]]  [[Problem Interviews]] #🔖
+- #[[experiment]]  [[Solution Interviews]] #🔖
+- #[[experiment]]  [[Online Surveys]] #🔖
+- #[[experiment]]  [[Value Proposition Experiment]] #🔖
+- #[[experiment]]  [[Value Proposition Testing]] #🔖
+- #[[experiment]]  [[Value Proposition Evaluation]] #🔖
+- #[[experiment]]  [[Minimum Desirable Product (MDP)]] #🔖
+- #[[experiment]]  [[Landing Pages and Lead Capture]] #🔖
+- #[[experiment]]  [[Problem-Solution Fit]] #🔖
+- #[[experiment]]  [[Problem-Solution Fit Testing]] #🔖
+- #[[experiment]]  [[Customer Validation]] #🔖
+- #[[experiment]]  [[Customer Development]] #🔖
+- #[[experiment]]  [[Minimum Viable Product (MVP)]] #🔖
+- #[[experiment]]  [[Pretotyping]] #🔖
+- #[[experiment]]  [[The Mechanical Turk]] #🔖
+- #[[experiment]]  [[The Pinocchio]] #🔖
+- #[[experiment]]  [[The Minimalist Manual]] #🔖
+- #[[experiment]]  [[The Provincial]] #🔖
+- #[[experiment]]  [[The One Night Stand]] #🔖
+- #[[experiment]]  [[The Fake Door]] #🔖
+- #[[experiment]]  [[The Pretend-a-Co]] #🔖
+- #[[experiment]]  [[Usability Testing]] #🔖
+- #[[experiment]]  [[Technical Validation]] #🔖
+- #[[experiment]]  [[Monetization Experiment]] #🔖
+- #[[experiment]]  [[Price Acceptance Testing]] #🔖
+- #[[experiment]]  [[Pricing Experiment]] #🔖
+- #[[experiment]]  [[Revenue Streams Evaluation]] #🔖
+- #[[experiment]]  [[Economic Viability Analysis]] #🔖
+- #[[experiment]]  [[Product-Market Fit]] #🔖
+- #[[experiment]]  [[Product-Market Fit Assessment]] #🔖
+- #[[experiment]]  [[Product Development Iteration]] #🔖
+- #[[experiment]]  [[Segmentation Experiment]] #🔖
+- #[[experiment]]  [[Customer Lifecycle Evaluation]] #🔖
+- #[[experiment]]  [[Customer Acquisition Experiment]] #🔖
+- #[[experiment]]  [[Customer Experience Experiment]] #🔖
+- #[[experiment]]  [[Sales Copy Testing]] #🔖
+- #[[experiment]]  [[Sales Funnel Optimization Experiment]] #🔖
+- #[[experiment]]  [[A-B Testing]] #🔖
+- #[[experiment]]  [[Pirate Metrics Tracking]] #🔖
+- #[[experiment]]  [[MVP Development]] #🔖
+- #[[experiment]]  [[Lean Marketing Experiments]] #🔖
+- #[[experiment]]  [[Initial Traction Evaluation]] #🔖
+- #[[experiment]]  [[Customer Acquisition Cost Analysis]] #🔖
+- #[[experiment]]  [[Continuous Customer Feedback]] #🔖
+- #[[experiment]]  [[Strategic Collaborations Experiment]] #🔖
+- #[[experiment]]  [[Shared Value Generation Experiment]] #🔖
+- #[[experiment]]  [[Marketing ROI Analysis]] #🔖
+- #[[experiment]]  [[Marketing Channels Experiment]] #🔖
+- #[[experiment]]  [[International Expansion Experiment]] #🔖
+- #[[experiment]]  [[Customer Retention Experiment]] #🔖
+- #[[experiment]]  [[Supply Chain Analysis]] #🔖
+- #[[experiment]]  [[Scalability Testing]] #🔖
+- #[[experiment]]  [[Revenue Model Evaluation]] #🔖
+- #[[experiment]]  [[Prototyping and Concept Testing]] #🔖
+- #[[experiment]]  [[Pre-sales or Pre-orders]] #🔖
+- #[[experiment]]  [[Positioning Testing]] #🔖
+- #[[experiment]]  [[Partnership Experiments]] #🔖
+- #[[experiment]]  [[Marketing Experiments]] #🔖
+- #[[experiment]]  [[Market Validation]] #🔖
+- #[[experiment]]  [[Keyword Analysis]] #🔖
+- #[[experiment]]  [[International Market Validation]] #🔖
+- #[[experiment]]  [[Lean Analytics]] #🔖
+- #[[experiment]]  [[Upselling and Cross-selling Experiment]] #🔖
+- #[[experiment]]  [[Geographical Localization Experiments]] #🔖
+- #[[experiment]]  [[Expansion Potential Evaluation]] #🔖
+- #[[experiment]]  [[Customer Service Feedback Analysis]] #🔖
+- #[[experiment]]  [[Competitor Analysis]] #🔖
+- #[[experiment]]  [[Branding Experiments]] #🔖
+- #[[experiment]]  [[Affiliate Programs]] #🔖
+### Copy
+```- #[[experiment]]  [[Risk Assessment]] #🔖
+- #[[experiment]]  [[Learning Experiment]] #🔖
+- #[[experiment]]  [[Experiment Prioritization]] #🔖
+- #[[experiment]]  [[Assumption Testing]] #🔖
+- #[[experiment]]  [[Customer Interviews]] #🔖
+- #[[experiment]]  [[Problem Interviews]] #🔖
+- #[[experiment]]  [[Solution Interviews]] #🔖
+- #[[experiment]]  [[Online Surveys]] #🔖
+- #[[experiment]]  [[Value Proposition Experiment]] #🔖
+- #[[experiment]]  [[Value Proposition Testing]] #🔖
+- #[[experiment]]  [[Value Proposition Evaluation]] #🔖
+- #[[experiment]]  [[Minimum Desirable Product (MDP)]] #🔖
+- #[[experiment]]  [[Landing Pages and Lead Capture]] #🔖
+- #[[experiment]]  [[Problem-Solution Fit]] #🔖
+- #[[experiment]]  [[Problem-Solution Fit Testing]] #🔖
+- #[[experiment]]  [[Customer Validation]] #🔖
+- #[[experiment]]  [[Customer Development]] #🔖
+- #[[experiment]]  [[Minimum Viable Product (MVP)]] #🔖
+- #[[experiment]]  [[Pretotyping]] #🔖
+- #[[experiment]]  [[The Mechanical Turk]] #🔖
+- #[[experiment]]  [[The Pinocchio]] #🔖
+- #[[experiment]]  [[The Minimalist Manual]] #🔖
+- #[[experiment]]  [[The Provincial]] #🔖
+- #[[experiment]]  [[The One Night Stand]] #🔖
+- #[[experiment]]  [[The Fake Door]] #🔖
+- #[[experiment]]  [[The Pretend-a-Co]] #🔖
+- #[[experiment]]  [[Usability Testing]] #🔖
+- #[[experiment]]  [[Technical Validation]] #🔖
+- #[[experiment]]  [[Monetization Experiment]] #🔖
+- #[[experiment]]  [[Price Acceptance Testing]] #🔖
+- #[[experiment]]  [[Pricing Experiment]] #🔖
+- #[[experiment]]  [[Revenue Streams Evaluation]] #🔖
+- #[[experiment]]  [[Economic Viability Analysis]] #🔖
+- #[[experiment]]  [[Product-Market Fit]] #🔖
+- #[[experiment]]  [[Product-Market Fit Assessment]] #🔖
+- #[[experiment]]  [[Product Development Iteration]] #🔖
+- #[[experiment]]  [[Segmentation Experiment]] #🔖
+- #[[experiment]]  [[Customer Lifecycle Evaluation]] #🔖
+- #[[experiment]]  [[Customer Acquisition Experiment]] #🔖
+- #[[experiment]]  [[Customer Experience Experiment]] #🔖
+- #[[experiment]]  [[Sales Copy Testing]] #🔖
+- #[[experiment]]  [[Sales Funnel Optimization Experiment]] #🔖
+- #[[experiment]]  [[A-B Testing]] #🔖
+- #[[experiment]]  [[Pirate Metrics Tracking]] #🔖
+- #[[experiment]]  [[MVP Development]] #🔖
+- #[[experiment]]  [[Lean Marketing Experiments]] #🔖
+- #[[experiment]]  [[Initial Traction Evaluation]] #🔖
+- #[[experiment]]  [[Customer Acquisition Cost Analysis]] #🔖
+- #[[experiment]]  [[Continuous Customer Feedback]] #🔖
+- #[[experiment]]  [[Strategic Collaborations Experiment]] #🔖
+- #[[experiment]]  [[Shared Value Generation Experiment]] #🔖
+- #[[experiment]]  [[Marketing ROI Analysis]] #🔖
+- #[[experiment]]  [[Marketing Channels Experiment]] #🔖
+- #[[experiment]]  [[International Expansion Experiment]] #🔖
+- #[[experiment]]  [[Customer Retention Experiment]] #🔖
+- #[[experiment]]  [[Supply Chain Analysis]] #🔖
+- #[[experiment]]  [[Scalability Testing]] #🔖
+- #[[experiment]]  [[Revenue Model Evaluation]] #🔖
+- #[[experiment]]  [[Prototyping and Concept Testing]] #🔖
+- #[[experiment]]  [[Pre-sales or Pre-orders]] #🔖
+- #[[experiment]]  [[Positioning Testing]] #🔖
+- #[[experiment]]  [[Partnership Experiments]] #🔖
+- #[[experiment]]  [[Marketing Experiments]] #🔖
+- #[[experiment]]  [[Market Validation]] #🔖
+- #[[experiment]]  [[Keyword Analysis]] #🔖
+- #[[experiment]]  [[International Market Validation]] #🔖
+- #[[experiment]]  [[Lean Analytics]] #🔖
+- #[[experiment]]  [[Upselling and Cross-selling Experiment]] #🔖
+- #[[experiment]]  [[Geographical Localization Experiments]] #🔖
+- #[[experiment]]  [[Expansion Potential Evaluation]] #🔖
+- #[[experiment]]  [[Customer Service Feedback Analysis]] #🔖
+- #[[experiment]]  [[Competitor Analysis]] #🔖
+- #[[experiment]]  [[Branding Experiments]] #🔖
+- #[[experiment]]  [[Affiliate Programs]] #🔖```
+

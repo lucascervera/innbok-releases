@@ -1,0 +1,47 @@
+- {{embed [[innCoPilot Map of Contents]]}}
+-
+- ### [[design]]
+  background-color:: blue
+	- [[innBoK metamodel]]
+		- [[artifacts]]
+		- [[class]]
+		- [[innBoK/keys]]
+		- [[markers]]
+	- [[Master guide]]
+	- [[plastilinn sheet]]
+	- [[business info]]
+		- [[business info - eventovery]]
+		- [[business info - cajonea]]
+		- [[business info - jazzea]]
+		- [[business info - plastilinn]]
+		- [[business info - Space X]]
+	- [[Business Model export]]
+	- [[business model status]]
+	- [[Items modified by me]]
+	- [[artifact console]]
+- ### [[analysis]]
+  background-color:: red
+	- [[Most important items]]
+	- [[important and uncertain chart]]
+	- [[key console]]
+		- [[keys analytics]]
+	- [[TODOs]]
+	- [[comments]]
+	- [[keys]]
+	- [[key console]]
+	- [[risk console]]
+- ### [[validation]]
+  background-color:: green
+	- [[experiment list]]
+- ## [[innMoDeler]]
+	- [[innCoPilot/docs]]
+	- [[guides]]
+		- [[Getting started]]
+		- [[Opportunity development]]
+-
+-
+-
+- ## [[LogSeq]]
+- [[Templates]]
+- [[Query children items]]
+-

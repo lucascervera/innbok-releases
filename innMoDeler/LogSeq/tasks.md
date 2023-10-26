@@ -1,4 +1,0 @@
-icon:: ⛏️
-
-- {{query (and "TODO" "[[*")}}
-	-

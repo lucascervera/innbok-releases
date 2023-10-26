@@ -1,0 +1,206 @@
+.ls-block[data-refs-self*='"artifact"'] {
+  padding: 8px 0;
+  margin: 12px 0 0 0;
+  border-radius: 5px;
+  border-color: 4px solid LightGray;
+  border-top: 1px solid LightGray;
+  border-bottom: 1px solid LightGray;
+  border-left: 4px solid LightGray;
+  border-right: 1px solid LightGray;
+  background-color: LightSteelBlue;
+  transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"item"'] {
+  padding: 8px 0;
+  margin: 4px 0 0 0;
+  border: 1px solid grey;
+  border-width: 1px 1px 1px 4px;
+  border-radius: 5px;
+  background-color: CoolGray;
+  transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"content"'] {
+  padding: 8px 0;
+  margin: 4px 0 0 0;
+  border: 1px solid navy;
+  border-width: 1px 1px 1px 4px;
+  border-radius: 5px;
+  background-color: LightSteelBlue;
+  transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"keys"'] {
+  padding: 8px 0;
+  margin: 4px 0 0 0;
+  border: 1px solid red;
+  border-width: 1px 1px 1px 4px;
+  border-radius: 5px;
+  background-color: mistyrose;
+  transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"🔖"'] {
+  padding: 8px 0;
+  margin: 4px 0 0 0;
+  border: 1px solid grey;
+  border-width: 1px 1px 1px 1px;
+  border-radius: 5px;
+  background-color: white;
+  font-family: courier, courier new, serif;
+  transform: translateY(5px);
+  cursor: text;
+}
+
+.ls-block[data-refs-self*='"off"'] {
+color: grey;
+}
+
+
+/* Estilo para el contenedor del campo de entrada */
+.ls-block[data-refs-self*='"placeholder"'] {
+color: grey;
+}
+
+/* replace the word "seed/question/project" in the lines below with whatever keyword you want to target */
+/* You will also need to replace the hex-code for the color to whatever color you want */
+.ls-block[data-refs-self*='"prompt"'] {
+font-family: courier, courier new, serif;
+transform: translateY(5px);
+box-shadow: inset 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+margin-top: 20px;
+margin-left: 20px;
+cursor: text;
+border: 1px solid #999; 
+background: white;
+box-shadow: inset 0px 1px 4px #666;
+padding: 10px;
+max-height:200px;
+overflow:scroll;
+}
+
+.ls-block[data-refs-self*='"inn-edit"'] {
+background-color: #F5F5F5; /* Color de fondo claro */
+color: #333; /* Color de texto oscuro */
+padding: 10px; /* Relleno alrededor del texto */
+width: 100%; /* Ancho del div */
+height: 500px; /* Altura del div */
+border: 1px solid #CCC; /* Borde sólido */
+border-radius: 4px; /* Esquinas redondeadas */
+box-sizing: border-box; /* Asegura que el padding y el borde no afecten las dimensiones del div */
+overflow-y: auto; /* Añade una barra de desplazamiento vertical si el contenido es demasiado largo */
+white-space: pre-wrap; /* Conserva los espacios y saltos de línea */
+font-family: 'Courier New', Courier, monospace; /* Fuente similar a la de un editor de código */
+box-shadow: inset 2px 2px 2px 2px LightGray;
+}
+
+.ls-block[data-refs-self*='"inn-edit"'] .th {
+display: none
+}
+
+.ls-block[data-refs-self*='"🧭"'] {
+border: 1px solid LightGray; 
+background: white;
+margin: 8px;
+}
+
+.ls-block[data-refs-self*='"🗂️"'] {
+border: 1px solid LightGray; 
+background: #F7F7F7;
+margin: 8px;
+}
+
+.ls-block[data-refs-self*='"menu"'] span {
+margin: 2px;
+}
+
+/* hide embed headers */
+.embed-header {
+display: none;
+}
+
+/* hide hierarchy */
+.page-hierarchy {
+display: none;
+}
+
+/* https://discuss.logseq.com/t/block-background-color-setting-specific/8980/2 */
+.ls-block[data-refs-self*='"artifact"'].ls-block[data-refs-self*='"guide-item"'] {
+  padding: 8px 0;
+  margin: 8px 0 0 0;
+  border-radius: 5px;
+  border-left: 4px solid navy;
+  background-color: LightSteelBlue;
+  transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"topic"'].ls-block[data-refs-self*='"guide-item"'] {
+  padding: 8px 0;
+  margin: 8px 0 0 0;
+  border-radius: 5px;
+  border-color: 4px solid LightGray;
+  border-top: 1px solid LightGray;
+  border-bottom: 1px solid LightGray;
+  border-left: 1px solid LightGray;
+  border-right: 1px solid LightGray;
+  background-color: WhiteSmoke;
+  transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"resource"'].ls-block[data-refs-self*='"guide-item"'] {
+  padding: 8px 0;
+  margin: 8px 0 0 0;
+  border-radius: 5px;
+  border-left: 4px solid DarkGray;
+  background-color: OldLace;
+  transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"unit"'] {
+  padding: 8px 0;
+  margin: 8px 0 0 0;
+  border-radius: 5px;
+  border-color: 4px solid LightGray;
+  border-top: 1px solid LightGray;
+  border-bottom: 1px solid LightGray;
+  border-left: 1px solid LightGray;
+  border-right: 1px solid LightGray;
+  transform: translateX(-4px);
+}
+
+/* https://discuss.logseq.com/t/better-visual-signposting-of-collapsed-blocks/21232/3 */
+.bullet-container:not(.typed-list).bullet-closed {
+  background-color: navy
+}
+
+
+/* https://discuss.logseq.com/t/hiding-the-query-builder/20571/5 */
+.cp__query-builder-filter {
+opacity: 0;
+margin-top: -30px; /* Apply negative margin to bring it up */
+transition: opacity 0.3s, margin-top 0.3s; /* Add transitions for smooth effect */
+}
+
+.custom-query:hover .cp__query-builder-filter {
+opacity: 1;
+margin-top: 0; /* Reset margin to its original value */
+}
+
+/* Compact tables */
+.whitespace-nowrap {
+padding-top: 1px;
+padding-right: 1px;
+padding-bottom: 1px;
+padding-left: 1px;
+}
+/* Compacts live query header */
+.custom-query > div:first-child {
+  border-radius: 5px;
+  padding: 2px 2px;
+}
+
+.table-auto {
+margin-top: 0;
+margin-bottom: 0;
+}

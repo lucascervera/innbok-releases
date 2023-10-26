@@ -13,7 +13,6 @@
 	
  ;; The app will ignore those directories or files.
  ;; E.g. :hidden ["/archived" "/test.md" "../assets/archived"]
- :hidden ["_innMoDeler__hidden" "/_innMoDeler__hidden" "../_innMoDeler__hidden" "innMoDeler__hidden" "/templates" "../templates" "../innMoDeler/templates" "innMoDeler/templates"]
 
  ;; When creating the new journal page, the app will use your template if there is one.
  ;; You only need to input your template name here.
@@ -238,11 +237,7 @@
 ;;"get-ai-prompts" "{{embed [[innCoPilot/user instructions]]}} {{embed [[innCoPilot/roles/$1]]}} This is a description of the business model: {{embed [[$2/business doc]]}} [[$3]] {{embed [[$3/definition]]}} {{embed [[$4]]}} {{embed [[innCoPilot/actions/$5]]}} {{embed [[innCoPilot/result templates/$6]]}}",
 ;;"flowise-chat-bot" "alert('Hello, World!')"
 :macros {
-          "get-current-page-link" "<% current page %>",
-          "get-class-description" "{{embed [[$1/definition]]}}"
-          "get-class-info" "[[$1]] {{embed [[$1/definition]]}}",
-          "get-ai-prompts" "{{embed [[innCoPilot/user instructions]]}} {{embed [[innCoPilot/roles/$1]]}} This is a description of the business model: {{embed [[$2/business doc]]}} [[$3]] {{embed [[$3/definition]]}} {{embed [[$4]]}} {{embed [[innCoPilot/actions/$5]]}} {{embed [[innCoPilot/result templates/$6]]}}",
-          }
+         }
 
  ;; The default level to be opened for the linked references.
  ;; For example, if we have some example blocks like this:
@@ -253,12 +248,14 @@
  ;;
  ;; With the default value of level 2, `b` will be collapsed.
  ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
- :ref/default-open-blocks-level 2
-
- :ref/linked-references-collapsed-threshold 0
+ :ref/default-open-blocks-level 1
+ :ref/linked-references-collapsed-threshold 2
+ 
+ ;;https://discuss.logseq.com/t/collapsible-hierarchy/4441
+ :ref/hierarchy-collapsed-threshold 1
 
  ;; Favorites to list on the left sidebar
- :favorites ["inncopilot map of contents" "dashboard" "business model editor" "business model status" "tasks" "markers" "comments" "risk console" "experiments" "inncopilot/community"]
+ :favorites ["business info - plastilinn" "business model content" "master guide" "business model viewer" "inncopilot/docs" "innbok/innbok guide" "inncopilot map of contents" "dashboard" "business model editor" "business model status" "tasks" "markers" "comments" "risk console" "experiments" "inncopilot/community"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -269,16 +266,18 @@
  ;; hide specific properties for blocks
  ;; E.g. :block-hidden-properties #{:created-at :updated-at}
  ;; :block-hidden-properties #{}
- :block-hidden-properties #{:page-type :color :innbok-type :innbok-bm-id :priority :inncopilot-type :innbok-key-rating :bm-id :innbok-artifact}
- 
+ :block-hidden-properties #{:page-type :color :innbok-type :innbok-bm-id :priority :inncopilot-type :innbok-key-rating :bm-id :innbok-artifact :artifact-class :innbok-id :parent :inn-block-type :inn-block-title :inn-block-parent :artifact-page-type :inn-block-bm-id :content-type :status :tree-parent :inn-is-child-of :inn-block-card :tags :innbok-item-type}
+
 
  ;; Enable all your properties to have corresponding pages
- :property-pages/enabled? true
+ :property-pages/enabled? false
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
  ;; :property-pages/excludelist
+ property-pages/excludelist #{:page-type :color :innbok-type :innbok-bm-id :priority :inncopilot-type :innbok-key-rating :bm-id :innbok-artifact :artifact-class :innbok-id :parent :inn-block-type :inn-block-title :inn-block-parent :artifact-page-type :tags}
 
+ 
  ;; By default, property value separated by commas will not be treated as
  ;; page references. You can add properties to enable it.
  ;; E.g. :property/separated-by-commas #{:alias :tags}
@@ -364,7 +363,7 @@
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-timetracking? false
  :editor/logical-outdenting? true
- :feature/enable-journals? false
+ :feature/enable-journals? true
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

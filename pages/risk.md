@@ -1,4 +1,0 @@
-icon:: 🔥
-color:: orange
-
--

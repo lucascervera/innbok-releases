@@ -1,0 +1,18 @@
+page-type:: [[key]]
+innbok-key-rating:: 90
+{{embed [[team/Team Skills/data]]}}
+- #questions
+  - #question Does the team have the necessary skills and expertise?
+  - #question Are there gaps in the team that need to be filled?
+  - #question Is the team capable of executing the business plan?
+- #relations
+  - [[team]]: A group of individuals working together towards a common goal within a business model.
+  - [[person-(id)/skills]]: the unique identification and competencies of individuals within a business model.
+  - [[founders]]: Founders are the individuals who establish and initiate a business model, often taking on leadership roles in its development and growth.
+- #TODOs
+  - TODO Conduct a skills assessment of the team
+  - TODO  Provide training and development opportunities
+  - TODO  Recruit talent to fill skill gaps.
+
+
+

@@ -1,2 +1,0 @@
-- Abrir la opportunity console
--

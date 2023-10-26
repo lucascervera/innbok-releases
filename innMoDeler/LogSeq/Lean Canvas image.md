@@ -1,1 +1,0 @@
-- ![lean canvas.png](../assets/lean_canvas_1684397221410_0.png)

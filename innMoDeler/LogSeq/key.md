@@ -1,2 +1,0 @@
-icon:: 🔑
-color:: red
