@@ -255,7 +255,7 @@
  :ref/hierarchy-collapsed-threshold 1
 
  ;; Favorites to list on the left sidebar
- :favorites ["dashboard" "business info - plastilinn" "business model content" "master guide" "business model viewer" "inncopilot/docs" "innbok/innbok guide" "inncopilot map of contents" "business model editor" "business model status" "tasks" "markers" "comments" "risk console" "experiments" "inncopilot/community"]
+ :favorites ["dashboard" "business info - plastilinn" "business model content" "business model viewer" "innbok/innbok guide" "inncopilot map of contents" "business model editor" "business model status" "tasks" "markers" "comments" "risk console" "experiments" "inncopilot/docs" "inncopilot/community"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

@@ -27,7 +27,6 @@ color:: grey
 		- [[innCoPilot/docs/experiments]]
 - [[innCoPilot/docs/business model navigator]]
 - [[innCoPilot/docs/guide]]
-  collapsed:: true
 	- [[innCoPilot/docs/guide/TODOs]]
 	- [[innCoPilot/docs/guide/topics]]
 	- [[innCoPilot/docs/guide/resources]]
@@ -89,15 +88,8 @@ color:: grey
 		- Import the plugins graph\innCoPilot\config\plugins.edn
 		- Add the graph in logseq
 	- [[inn]]
-	- [[inn-edit text box]]
-	- [[Full house plugin]]
-		- [[Full house plugin/templates]]
-			-
-			-
-			-
-	-
-	-
--
+		- [[inn-edit text box]]
+		- [[plastilinn/Copy block]]
 - EN
 	-
 	- Step-by-step interactive guide

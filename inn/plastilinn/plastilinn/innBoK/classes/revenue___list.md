@@ -1,0 +1,103 @@
+- revenue
+  - #[[revenue]]  [[Product sales]] #🔖
+  - #[[revenue]]  [[Service sales]] #🔖
+  - #[[revenue]]  [[Subscription fees]] #🔖
+  - #[[revenue]]  [[Licensing fees]] #🔖
+  - #[[revenue]]  [[Advertising revenue]] #🔖
+  - #[[revenue]]  [[Sponsorship revenue]] #🔖
+  - #[[revenue]]  [[Affiliate marketing revenue]] #🔖
+  - #[[revenue]]  [[Commission fees]] #🔖
+  - #[[revenue]]  [[Transaction fees]] #🔖
+  - #[[revenue]]  [[Data monetization]] #🔖
+  - #[[revenue]]  [[In-app purchases]] #🔖
+  - #[[revenue]]  [[E-commerce sales]] #🔖
+  - #[[revenue]]  [[Rental fees]] #🔖
+  - #[[revenue]]  [[Membership fees]] #🔖
+  - #[[revenue]]  [[Consulting fees]] #🔖
+  - #[[revenue]]  [[Training fees]] #🔖
+  - #[[revenue]]  [[Licensing intellectual property]] #🔖
+  - #[[revenue]]  [[White-labeling fees]] #🔖
+  - #[[revenue]]  [[Royalties]] #🔖
+  - #[[revenue]]  [[Franchise fees]] #🔖
+  - #[[revenue]]  [[Event ticket sales]] #🔖
+  - #[[revenue]]  [[App sales]] #🔖
+  - #[[revenue]]  [[Marketplace fees]] #🔖
+  - #[[revenue]]  [[Reseller fees]] #🔖
+  - #[[revenue]]  [[Lead generation fees]] #🔖
+  - #[[revenue]]  [[Maintenance fees]] #🔖
+  - #[[revenue]]  [[Upfront setup fees]] #🔖
+  - #[[revenue]]  [[Data storage fees]] #🔖
+  - #[[revenue]]  [[API access fees]] #🔖
+  - #[[revenue]]  [[Customization fees]] #🔖
+  - #[[revenue]]  [[On-demand services fees]] #🔖
+  - #[[revenue]]  [[Subscription box sales]] #🔖
+  - #[[revenue]]  [[Crowdfunding revenue]] #🔖
+  - #[[revenue]]  [[Crowdsourced funding revenue]] #🔖
+  - #[[revenue]]  [[Donations]] #🔖
+  - #[[revenue]]  [[Grants]] #🔖
+  - #[[revenue]]  [[Government contracts]] #🔖
+  - #[[revenue]]  [[Content licensing fees]] #🔖
+  - #[[revenue]]  [[Product placement fees]] #🔖
+  - #[[revenue]]  [[Influencer marketing revenue]] #🔖
+  - #[[revenue]]  [[Rental income]] #🔖
+  - #[[revenue]]  [[Affiliate partnerships]] #🔖
+  - #[[revenue]]  [[White paper or research report sales]] #🔖
+  - #[[revenue]]  [[Webinar or online course fees]] #🔖
+  - #[[revenue]]  [[Sponsored content revenue]] #🔖
+  - #[[revenue]]  [[Market research fees]] #🔖
+  - #[[revenue]]  [[Performance-based fees]] #🔖
+  - #[[revenue]]  [[Installment payment fees]] #🔖
+  - #[[revenue]]  [[Licensing software or technology]] #🔖
+  - #[[revenue]]  [[API integration fees]] #🔖
+  - #[[revenue]]  [[Virtual event ticket sales]] #🔖
+  - #[[revenue]]  [[Subscription-based content access fees]] #🔖
+  - #[[revenue]]  [[Licensing brand or trademark]] #🔖
+  - #[[revenue]]  [[Sales of merchandise or branded products]] #🔖
+  - #[[revenue]]  [[Product warranties or insurance sales]] #🔖
+  - #[[revenue]]  [[Revenue from app monetization strategies (e.g., ads, in-app purchases)]] #🔖
+  - #[[revenue]]  [[On-demand delivery fees]] #🔖
+  - #[[revenue]]  [[Data analysis or insights fees]] #🔖
+  - #[[revenue]]  [[Licensing user-generated content]] #🔖
+  - #[[revenue]]  [[Revenue from strategic partnerships or alliances]] #🔖
+  - #[[revenue]]  [[Data analytics services]] #🔖
+  - #[[revenue]]  [[Digital marketing services]] #🔖
+  - #[[revenue]]  [[Content creation and writing services]] #🔖
+  - #[[revenue]]  [[Social media management services]] #🔖
+  - #[[revenue]]  [[Search engine optimization (SEO) services]] #🔖
+  - #[[revenue]]  [[Graphic design services]] #🔖
+  - #[[revenue]]  [[Web development and design services]] #🔖
+  - #[[revenue]]  [[IT consulting services]] #🔖
+  - #[[revenue]]  [[Project management services]] #🔖
+  - #[[revenue]]  [[Software-as-a-Service (SaaS) subscriptions]] #🔖
+  - #[[revenue]]  [[Cloud storage and hosting fees]] #🔖
+  - #[[revenue]]  [[Virtual reality (VR) or augmented reality (AR) experiences fees]] #🔖
+  - #[[revenue]]  [[Gaming app or platform revenue]] #🔖
+  - #[[revenue]]  [[E-learning course sales]] #🔖
+  - #[[revenue]]  [[Subscription-based research or industry reports]] #🔖
+  - #[[revenue]]  [[Intellectual property licensing (patents, trademarks, copyrights)]] #🔖
+  - #[[revenue]]  [[Affiliate e-commerce partnerships]] #🔖
+  - #[[revenue]]  [[Custom software development services]] #🔖
+  - #[[revenue]]  [[On-demand professional services (e.g., legal, accounting)]] #🔖
+  - #[[revenue]]  [[Data cleansing or enrichment services]] #🔖
+  - #[[revenue]]  [[Translation or localization services]] #🔖
+  - #[[revenue]]  [[Business intelligence services]] #🔖
+  - #[[revenue]]  [[API usage fees for third-party integrations]] #🔖
+  - #[[revenue]]  [[Print-on-demand merchandise sales]] #🔖
+  - #[[revenue]]  [[Licensing music or audio content]] #🔖
+  - #[[revenue]]  [[Licensing video content or footage]] #🔖
+  - #[[revenue]]  [[Software development kits (SDK) licensing fees]] #🔖
+  - #[[revenue]]  [[Subscription-based software updates or support]] #🔖
+  - #[[revenue]]  [[Digital asset sales (e.g., photos, illustrations)]] #🔖
+  - #[[revenue]]  [[Virtual reality (VR) equipment rentals]] #🔖
+  - #[[revenue]]  [[Digital advertising targeting or personalization fees]] #🔖
+  - #[[revenue]]  [[White-label software solutions]] #🔖
+  - #[[revenue]]  [[Revenue sharing partnerships with other businesses]] #🔖
+  - #[[revenue]]  [[In-person or online event ticket sales]] #🔖
+  - #[[revenue]]  [[Managed hosting services]] #🔖
+  - #[[revenue]]  [[Ad space rentals (billboards, digital displays)]] #🔖
+  - #[[revenue]]  [[E-commerce dropshipping partnerships]] #🔖
+  - #[[revenue]]  [[Product integration fees (integrating with other platforms or tools)]] #🔖
+  - #[[revenue]]  [[Intellectual property infringement settlements]] #🔖
+  - #[[revenue]]  [[Patent licensing fees]] #🔖
+
+

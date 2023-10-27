@@ -1461,13 +1461,13 @@
 						- This segment comprises companies and organizations in the space industry that require launch and cargo services for their own satellite deployments or space missions. They are seeking a reliable and efficient partner to handle their launch and cargo needs, providing Space X with additional revenue streams and increased utilization of their rockets and resources.
 			- #### #keys #pending
 				- #key [[stakeholder-list/Stakeholder identification]] #🔖
-		- #### #item segment [[segment 1 name]]
+		- #### #item segment [[Entrepreneurs]]
 		  collapsed:: true
 			- #### info
 			  collapsed:: true
-				- [help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo) [AI]([[segment 1 name/ai]])
+				- [help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo) [AI]([[Entrepreneurs/ai]])
 				- #content
-					- #### #artifact segment [[segment 1 name]]
+					- #### #artifact segment [[Entrepreneurs]]
 						- #segment [[Government Agencies]]
 							- The government agencies segment includes national space agencies that require space transportation and communication services for their missions.
 				- #### #keys #pending
@@ -1477,111 +1477,111 @@
 					- #key [[segment-(id)/Environment]] #🔖
 					- #key [[segment-(id)/Market moment]] #🔖
 					- #key [[segment-(id)/Accessibility to decision makers]] #🔖
-			- #### #item segment [[segment 1 name]] [[segmentation criteria]]
+			- #### #item segment [[Entrepreneurs]] [[segmentation criteria]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fsegmentation-criteria%2Finfo) [AI]([[segment 1 name/segmentation criteria/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fsegmentation-criteria%2Finfo) [AI]([[Entrepreneurs/segmentation criteria/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[segmentation criteria]]
+						- #### #artifact segment [[Entrepreneurs]] [[segmentation criteria]]
 							- #segmentation name
 					- #### #keys #pending
-			- #### #item segment [[segment 1 name]] [[market size]]
+			- #### #item segment [[Entrepreneurs]] [[market size]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-size%2Finfo) [AI]([[segment 1 name/market size/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-size%2Finfo) [AI]([[Entrepreneurs/market size/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[market size]]
+						- #### #artifact segment [[Entrepreneurs]] [[market size]]
 							- #segment [[Government Agencies]]
 							- The government agencies segment includes national space agencies that require space transportation and communication services for their missions.
 					- #### #keys #pending
 						- #key [[segment-(id)/market-size/Growth Potential]] #🔖
 						- #key [[segment-(id)/market-size/Market Size]] #🔖
 						- #key [[segment-(id)/market-size/Current market size]] #🔖
-				- #### #item segment [[segment 1 name]] [[total addressable market]]
+				- #### #item segment [[Entrepreneurs]] [[total addressable market]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
-						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Ftotal-addressable-market%2Finfo) [AI]([[segment 1 name/total addressable market/ai]])
+						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Ftotal-addressable-market%2Finfo) [AI]([[Entrepreneurs/total addressable market/ai]])
 						- #content
-							- #### #artifact segment [[segment 1 name]] [[total addressable market]]
+							- #### #artifact segment [[Entrepreneurs]] [[total addressable market]]
 								- #segment [[Government Agencies]]
 							- The government agencies segment includes national space agencies that require space transportation and communication services for their missions.
 						- #### #keys #pending
-				- #### #item segment [[segment 1 name]] [[serviceable available market]]
+				- #### #item segment [[Entrepreneurs]] [[serviceable available market]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
-						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fserviceable-available-market%2Finfo) [AI]([[segment 1 name/serviceable available market/ai]])
+						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fserviceable-available-market%2Finfo) [AI]([[Entrepreneurs/serviceable available market/ai]])
 						- #content
-							- #### #artifact segment [[segment 1 name]] [[serviceable available market]]
+							- #### #artifact segment [[Entrepreneurs]] [[serviceable available market]]
 								- #segment [[Government Agencies]]
 							- The government agencies segment includes national space agencies that require space transportation and communication services for their missions.
 						- #### #keys #pending
-				- #### #item segment [[segment 1 name]] [[serviceable obtainable market]]
+				- #### #item segment [[Entrepreneurs]] [[serviceable obtainable market]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
-						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fserviceable-obtainable-market%2Finfo) [AI]([[segment 1 name/serviceable obtainable market/ai]])
+						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fserviceable-obtainable-market%2Finfo) [AI]([[Entrepreneurs/serviceable obtainable market/ai]])
 						- #content
-							- #### #artifact segment [[segment 1 name]] [[serviceable obtainable market]]
+							- #### #artifact segment [[Entrepreneurs]] [[serviceable obtainable market]]
 								- #segment [[Government Agencies]]
 							- The government agencies segment includes national space agencies that require space transportation and communication services for their missions.
 						- #### #keys #pending
-			- #### #item segment [[segment 1 name]] [[market trends]]
+			- #### #item segment [[Entrepreneurs]] [[market trends]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-trends%2Finfo) [AI]([[segment 1 name/market trends/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-trends%2Finfo) [AI]([[Entrepreneurs/market trends/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[market trends]]
+						- #### #artifact segment [[Entrepreneurs]] [[market trends]]
 							- #segment [[Government Agencies]]
 							- The government agencies segment includes national space agencies that require space transportation and communication services for their missions.
 					- #### #keys #pending
 						- #key [[segment-(id)/market-trends/Market growth potential]] #🔖
 						- #key [[segment-(id)/market-trends/Market wideness]] #🔖
-			- #### #item segment [[segment 1 name]] [[partners]]
+			- #### #item segment [[Entrepreneurs]] [[partners]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fpartners%2Finfo) [AI]([[segment 1 name/partners/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fpartners%2Finfo) [AI]([[Entrepreneurs/partners/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[partners]]
+						- #### #artifact segment [[Entrepreneurs]] [[partners]]
 							- #stakeholder name
 					- #### #keys #pending
 						- #key [[segment-(id)/partners/Strategic Alliances]] #🔖
 						- #key [[segment-(id)/partners/Community Support]] #🔖
 						- #key [[segment-(id)/partners/Supplier Relationships]] #🔖
 						- #key [[segment-(id)/partners/Networking]] #🔖
-			- #### #item segment [[segment 1 name]] [[competition]]
+			- #### #item segment [[Entrepreneurs]] [[competition]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fcompetition%2Finfo) [AI]([[segment 1 name/competition/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fcompetition%2Finfo) [AI]([[Entrepreneurs/competition/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[competition]]
+						- #### #artifact segment [[Entrepreneurs]] [[competition]]
 							- #stakeholder name
 					- #### #keys #pending
 						- #key [[segment-(id)/competition/Competitor Analysis]] #🔖
 						- #key [[segment-(id)/competition/Competitive Advantage]] #🔖
 						- #key [[segment-(id)/competition/Competition]] #🔖
-			- #### #item segment [[segment 1 name]] [[roles]]
+			- #### #item segment [[Entrepreneurs]] [[roles]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Froles%2Finfo) [AI]([[segment 1 name/roles/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Froles%2Finfo) [AI]([[Entrepreneurs/roles/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[roles]]
+						- #### #artifact segment [[Entrepreneurs]] [[roles]]
 							- #role name
 					- #### #keys #pending
-			- #### #item segment [[segment 1 name]] [[profiles]]
+			- #### #item segment [[Entrepreneurs]] [[profiles]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fprofiles%2Finfo) [AI]([[segment 1 name/profiles/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fprofiles%2Finfo) [AI]([[Entrepreneurs/profiles/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[profiles]]
+						- #### #artifact segment [[Entrepreneurs]] [[profiles]]
 							- #profile name
 					- #### #keys #pending
 		- #### #item segment [[segment 2 name]]

@@ -7,7 +7,7 @@
     border-bottom: 1px solid LightGray;
     border-left: 4px solid LightGray;
     border-right: 1px solid LightGray;
-    background-color: LightSteelBlue;
+    background-color: white;
     transform: translateX(-4px);
 }
 
@@ -41,15 +41,23 @@
     transform: translateX(-4px);
 }
 
-.ls-block[data-refs-self*='"🔖"'] {
+.ls-block[data-refs-self*='"ia"'] {
     padding: 8px 0;
     margin: 4px 0 0 0;
-    border: 1px solid grey;
+    border: 1px solid purple;
+    border-width: 1px 1px 1px 4px;
+    border-radius: 5px;
+    background-color: lavender;
+    transform: translateX(-4px);
+}
+
+.ls-block[data-refs-self*='"🔖"'] {
+    padding: 2px 0;
+    margin: 2px 2px 2px 2px;
+    border: 1px solid LightGray;
     border-width: 1px 1px 1px 1px;
     border-radius: 5px;
-    background-color: white;
-    font-family: courier, courier new, serif;
-    transform: translateY(5px);
+    font-family: courier, courier new, serif
     cursor: text;
 }
 
@@ -86,6 +94,21 @@
   padding: 10px; /* Relleno alrededor del texto */
   width: 100%; /* Ancho del div */
   height: 500px; /* Altura del div */
+  border: 1px solid #CCC; /* Borde sólido */
+  border-radius: 4px; /* Esquinas redondeadas */
+  box-sizing: border-box; /* Asegura que el padding y el borde no afecten las dimensiones del div */
+  overflow-y: auto; /* Añade una barra de desplazamiento vertical si el contenido es demasiado largo */
+  white-space: pre-wrap; /* Conserva los espacios y saltos de línea */
+  font-family: 'Courier New', Courier, monospace; /* Fuente similar a la de un editor de código */
+  box-shadow: inset 2px 2px 2px 2px LightGray;
+}
+
+.ls-block[data-refs-self*='"inn-copy"'] {
+  background-color: #F5F5F5; /* Color de fondo claro */
+  color: #333; /* Color de texto oscuro */
+  padding: 10px; /* Relleno alrededor del texto */
+  width: 100%; /* Ancho del div */
+  height: 200px; /* Altura del div */
   border: 1px solid #CCC; /* Borde sólido */
   border-radius: 4px; /* Esquinas redondeadas */
   box-sizing: border-box; /* Asegura que el padding y el borde no afecten las dimensiones del div */

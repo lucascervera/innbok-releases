@@ -572,14 +572,14 @@ innbok-item-type:: my-business
 				- #key [[segment-(id)/Accessibility to decision makers]] #🔖 [[--]]
 				- #key [[segment-(id)/Barreras de salida]] #🔖 [[++++]]
 				- #key [[segment-(id)/Estacionalidad del mercado]] #🔖 [[-]]
-		- #### #item segment [[segment 1 name]] #off
+		- #### #item segment [[Entrepreneurs]] #off
 		  innbok-item-type:: segment-(id)
 		  collapsed:: true
 			- #### info ([help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo))
 			  collapsed:: true
 				- #content
 				  collapsed:: true
-					- #### #artifact segment [[segment 1 name]] #🔖 #pending
+					- #### #artifact segment [[Entrepreneurs]] #🔖 #pending
 					  collapsed:: true
 						- #placeholder
 				- #### #keys #pending
@@ -591,21 +591,21 @@ innbok-item-type:: my-business
 					- #key [[segment-(id)/Accessibility to decision makers]] #🔖
 					- #key [[segment-(id)/Barreras de salida]] #🔖
 					- #key [[segment-(id)/Estacionalidad del mercado]] #🔖
-			- #### #item segment [[segment 1 name]] [[market size]]
+			- #### #item segment [[Entrepreneurs]] [[market size]]
 			  innbok-item-type:: segment-(id)/market-size
 			  collapsed:: true
 				- #### info ([help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-size%2Finfo))
 				  collapsed:: true
 					- #content
 					  collapsed:: true
-						- #### #artifact segment [[segment 1 name]] [[market size]] #🔖 #pending  
+						- #### #artifact segment [[Entrepreneurs]] [[market size]] #🔖 #pending  
 						  collapsed:: true
-							- - #metric [[segment 1 name]] [[total addressable market]]
+							- - #metric [[Entrepreneurs]] [[total addressable market]]
 				- #placeholder
-			- #metric [[segment 1 name]] [[serviceable available market]]
+			- #metric [[Entrepreneurs]] [[serviceable available market]]
 			  collapsed:: true
 				- #placeholder
-			- #metric [[segment 1 name]] [[serviceable obtainable market]]
+			- #metric [[Entrepreneurs]] [[serviceable obtainable market]]
 			  collapsed:: true
 				- #placeholder
 				  collapsed:: true

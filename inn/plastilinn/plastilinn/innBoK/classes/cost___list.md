@@ -1,0 +1,83 @@
+- cost
+  - #[[cost]]  [[Employee salaries and benefits]] #🔖
+  - #[[cost]]  [[Office rent]] #🔖
+  - #[[cost]]  [[Utilities (electricity, water, etc.)]] #🔖
+  - #[[cost]]  [[Equipment and technology]] #🔖
+  - #[[cost]]  [[Software licenses and subscriptions]] #🔖
+  - #[[cost]]  [[Marketing and advertising expenses]] #🔖
+  - #[[cost]]  [[Research and development costs]] #🔖
+  - #[[cost]]  [[Inventory or raw materials]] #🔖
+  - #[[cost]]  [[Manufacturing or production expenses]] #🔖
+  - #[[cost]]  [[Shipping and logistics costs]] #🔖
+  - #[[cost]]  [[Packaging materials]] #🔖
+  - #[[cost]]  [[Professional services (legal, accounting, consulting)]] #🔖
+  - #[[cost]]  [[Insurance premiums]] #🔖
+  - #[[cost]]  [[Travel and accommodation expenses]] #🔖
+  - #[[cost]]  [[Office supplies]] #🔖
+  - #[[cost]]  [[Website hosting and maintenance]] #🔖
+  - #[[cost]]  [[Customer acquisition costs]] #🔖
+  - #[[cost]]  [[IT infrastructure and support]] #🔖
+  - #[[cost]]  [[Cloud computing services]] #🔖
+  - #[[cost]]  [[Data storage and management]] #🔖
+  - #[[cost]]  [[Product development expenses]] #🔖
+  - #[[cost]]  [[Quality control and testing]] #🔖
+  - #[[cost]]  [[Regulatory compliance costs]] #🔖
+  - #[[cost]]  [[Intellectual property fees]] #🔖
+  - #[[cost]]  [[Sales and distribution expenses]] #🔖
+  - #[[cost]]  [[Customer support and service costs]] #🔖
+  - #[[cost]]  [[Training and development programs]] #🔖
+  - #[[cost]]  [[Event sponsorship or participation fees]] #🔖
+  - #[[cost]]  [[Market research and surveys]] #🔖
+  - #[[cost]]  [[Content creation and production]] #🔖
+  - #[[cost]]  [[Payment processing fees]] #🔖
+  - #[[cost]]  [[Taxes and government fees]] #🔖
+  - #[[cost]]  [[Depreciation and amortization]] #🔖
+  - #[[cost]]  [[Repairs and maintenance]] #🔖
+  - #[[cost]]  [[Outsourcing expenses]] #🔖
+  - #[[cost]]  [[Prototyping and samples]] #🔖
+  - #[[cost]]  [[Warranty and customer returns]] #🔖
+  - #[[cost]]  [[Data security and privacy measures]] #🔖
+  - #[[cost]]  [[Product or service certifications]] #🔖
+  - #[[cost]]  [[Affiliate or referral program costs]] #🔖
+  - #[[cost]]  [[Office furniture and equipment]] #🔖
+  - #[[cost]]  [[Packaging design and printing]] #🔖
+  - #[[cost]]  [[Employee training and education]] #🔖
+  - #[[cost]]  [[Sales commissions and incentives]] #🔖
+  - #[[cost]]  [[Legal disputes and settlements]] #🔖
+  - #[[cost]]  [[Customer retention and loyalty programs]] #🔖
+  - #[[cost]]  [[IT security and cybersecurity measures]] #🔖
+  - #[[cost]]  [[Market entry or expansion costs]] #🔖
+  - #[[cost]]  [[Debt servicing and interest payments]] #🔖
+  - #[[cost]]  [[Trade show or conference attendance]] #🔖
+  - #[[cost]]  [[Employee recruitment and hiring costs]] #🔖
+  - #[[cost]]  [[Product or service customization expenses]] #🔖
+  - #[[cost]]  [[Licensing or royalty fees]] #🔖
+  - #[[cost]]  [[Translation or localization services]] #🔖
+  - #[[cost]]  [[Bank fees and charges]] #🔖
+  - #[[cost]]  [[Contingency and emergency funds]] #🔖
+  - #[[cost]]  [[Product or service refresh or updates]] #🔖
+  - #[[cost]]  [[Customer feedback and satisfaction surveys]] #🔖
+  - #[[cost]]  [[Intellectual property infringement defense]] #🔖
+  - #[[cost]]  [[Outsourced customer support services]] #🔖
+  - #[[cost]]  [[Environmental sustainability initiatives]] #🔖
+  - #[[cost]]  [[Donations and sponsorships]] #🔖
+  - #[[cost]]  [[Performance bonuses and incentives]] #🔖
+  - #[[cost]]  [[Payment of dividends to investors]] #🔖
+  - #[[cost]]  [[Travel and entertainment expenses]] #🔖
+  - #[[cost]]  [[Product recalls and quality control issues]] #🔖
+  - #[[cost]]  [[Regulatory compliance audits]] #🔖
+  - #[[cost]]  [[Telecommunications and internet expenses]] #🔖
+  - #[[cost]]  [[Market analysis and competitive research]] #🔖
+  - #[[cost]]  [[Employee benefits and perks]] #🔖
+  - #[[cost]]  [[Office renovations or improvements]] #🔖
+  - #[[cost]]  [[Sales and marketing software tools]] #🔖
+  - #[[cost]]  [[Corporate branding and identity]] #🔖
+  - #[[cost]]  [[Patent or trademark registrations]] #🔖
+  - #[[cost]]  [[Legal and patent filings]] #🔖
+  - #[[cost]]  [[Audit and accounting fees]] #🔖
+  - #[[cost]]  [[Intellectual property licensing]] #🔖
+  - #[[cost]]  [[Product liability insurance]] #🔖
+  - #[[cost]]  [[Employee health and wellness programs]] #🔖
+  - #[[cost]]  [[Intellectual property enforcement]] #🔖
+
+

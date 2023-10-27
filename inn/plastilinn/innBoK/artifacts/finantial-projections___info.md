@@ -1,0 +1,23 @@
+innbok-type:: internal
+metamodel-id:: [[finantial-projections]]
+relations:: [[]]
+weight:: 2
+
+- ## Definition
+  - Financial projections are estimates of future financial performance of a business model, based on assumptions and historical data.
+  - Content is of type template and uses the following classes:
+    - [[]]
+- ## Description
+- ## Examples
+- ### finantial-projections/examples/Space X
+  {{embed [[finantial-projections/examples/Space X]]}}
+- ### finantial-projections/examples/vein visualizer
+  {{embed [[finantial-projections/examples/vein visualizer]]}}
+- ### finantial-projections/examples/extinguished animals meat
+  {{embed [[finantial-projections/examples/extinguished animals meat]]}}
+- ### 
+  {{embed [[]]}}
+- ### 
+  {{embed [[]]}}
+
+

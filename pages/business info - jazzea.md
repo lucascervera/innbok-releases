@@ -415,13 +415,13 @@ collapsed:: true
 					- #segment name
 			- #### #keys #pending
 				- #key [[stakeholder-list/Stakeholder identification]] #🔖
-		- #### #item segment [[segment 1 name]] 
+		- #### #item segment [[Entrepreneurs]] 
 		  collapsed:: true
 			- #### info
 			  collapsed:: true
 				- [help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo)
 				- #content
-					- #### #artifact segment [[segment 1 name]] #🔖 #pending
+					- #### #artifact segment [[Entrepreneurs]] #🔖 #pending
 						- #placeholder Write your content here
 				- #### #keys #pending
 					- #key [[segment-(id)/Market maturity]] #🔖
@@ -430,25 +430,25 @@ collapsed:: true
 					- #key [[segment-(id)/Environment]] #🔖
 					- #key [[segment-(id)/Market moment]] #🔖
 					- #key [[segment-(id)/Accessibility to decision makers]] #🔖
-			- #### #item segment [[segment 1 name]] [[market size]] 
+			- #### #item segment [[Entrepreneurs]] [[market size]] 
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-size%2Finfo)
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[market size]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[market size]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
 						- #key [[segment-(id)/market-size/Growth Potential]] #🔖
 						- #key [[segment-(id)/market-size/Market Size]] #🔖
 						- #key [[segment-(id)/market-size/Current market size]] #🔖
-			- #### #item segment [[segment 1 name]] [[competition]] 
+			- #### #item segment [[Entrepreneurs]] [[competition]] 
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
 					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fcompetition%2Finfo)
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[competition]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[competition]] #🔖 #pending
 							- #stakeholder name
 					- #### #keys #pending
 						- #key [[segment-(id)/competition/Competitor Analysis]] #🔖

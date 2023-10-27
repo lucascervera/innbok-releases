@@ -1234,13 +1234,13 @@
 					- #segment name
 			- #### #keys #pending
 				- #key [[stakeholder-list/Stakeholder identification]] #🔖
-		- #### #item segment [[segment 1 name]]
+		- #### #item segment [[Entrepreneurs]]
 		  collapsed:: true
 			- #### info
 			  collapsed:: true
-				- [help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo) [AI]([[segment 1 name/ai]])
+				- [help](https://go.innbok.com/#/page/segment-%28id%29%2Finfo) [AI]([[Entrepreneurs/ai]])
 				- #content
-					- #### #artifact segment [[segment 1 name]] #🔖 #pending
+					- #### #artifact segment [[Entrepreneurs]] #🔖 #pending
 						- #placeholder Write your content here
 				- #### #keys #pending
 					- #key [[segment-(id)/Market maturity]] #🔖
@@ -1249,106 +1249,106 @@
 					- #key [[segment-(id)/Environment]] #🔖
 					- #key [[segment-(id)/Market moment]] #🔖
 					- #key [[segment-(id)/Accessibility to decision makers]] #🔖
-			- #### #item segment [[segment 1 name]] [[segmentation criteria]]
+			- #### #item segment [[Entrepreneurs]] [[segmentation criteria]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fsegmentation-criteria%2Finfo) [AI]([[segment 1 name/segmentation criteria/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fsegmentation-criteria%2Finfo) [AI]([[Entrepreneurs/segmentation criteria/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[segmentation criteria]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[segmentation criteria]] #🔖 #pending
 							- #segmentation name
 					- #### #keys #pending
-			- #### #item segment [[segment 1 name]] [[market size]]
+			- #### #item segment [[Entrepreneurs]] [[market size]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-size%2Finfo) [AI]([[segment 1 name/market size/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-size%2Finfo) [AI]([[Entrepreneurs/market size/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[market size]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[market size]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
 						- #key [[segment-(id)/market-size/Growth Potential]] #🔖
 						- #key [[segment-(id)/market-size/Market Size]] #🔖
 						- #key [[segment-(id)/market-size/Current market size]] #🔖
-				- #### #item segment [[segment 1 name]] [[total addressable market]]
+				- #### #item segment [[Entrepreneurs]] [[total addressable market]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
-						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Ftotal-addressable-market%2Finfo) [AI]([[segment 1 name/total addressable market/ai]])
+						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Ftotal-addressable-market%2Finfo) [AI]([[Entrepreneurs/total addressable market/ai]])
 						- #content
-							- #### #artifact segment [[segment 1 name]] [[total addressable market]] #🔖 #pending
+							- #### #artifact segment [[Entrepreneurs]] [[total addressable market]] #🔖 #pending
 								- #placeholder Write your content here
 						- #### #keys #pending
-				- #### #item segment [[segment 1 name]] [[serviceable available market]]
+				- #### #item segment [[Entrepreneurs]] [[serviceable available market]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
-						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fserviceable-available-market%2Finfo) [AI]([[segment 1 name/serviceable available market/ai]])
+						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fserviceable-available-market%2Finfo) [AI]([[Entrepreneurs/serviceable available market/ai]])
 						- #content
-							- #### #artifact segment [[segment 1 name]] [[serviceable available market]] #🔖 #pending
+							- #### #artifact segment [[Entrepreneurs]] [[serviceable available market]] #🔖 #pending
 								- #placeholder Write your content here
 						- #### #keys #pending
-				- #### #item segment [[segment 1 name]] [[serviceable obtainable market]]
+				- #### #item segment [[Entrepreneurs]] [[serviceable obtainable market]]
 				  collapsed:: true
 					- #### info
 					  collapsed:: true
-						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fserviceable-obtainable-market%2Finfo) [AI]([[segment 1 name/serviceable obtainable market/ai]])
+						- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fserviceable-obtainable-market%2Finfo) [AI]([[Entrepreneurs/serviceable obtainable market/ai]])
 						- #content
-							- #### #artifact segment [[segment 1 name]] [[serviceable obtainable market]] #🔖 #pending
+							- #### #artifact segment [[Entrepreneurs]] [[serviceable obtainable market]] #🔖 #pending
 								- #placeholder Write your content here
 						- #### #keys #pending
-			- #### #item segment [[segment 1 name]] [[market trends]]
+			- #### #item segment [[Entrepreneurs]] [[market trends]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-trends%2Finfo) [AI]([[segment 1 name/market trends/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fmarket-trends%2Finfo) [AI]([[Entrepreneurs/market trends/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[market trends]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[market trends]] #🔖 #pending
 							- #placeholder Write your content here
 					- #### #keys #pending
 						- #key [[segment-(id)/market-trends/Market growth potential]] #🔖
 						- #key [[segment-(id)/market-trends/Market wideness]] #🔖
-			- #### #item segment [[segment 1 name]] [[partners]]
+			- #### #item segment [[Entrepreneurs]] [[partners]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fpartners%2Finfo) [AI]([[segment 1 name/partners/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fpartners%2Finfo) [AI]([[Entrepreneurs/partners/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[partners]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[partners]] #🔖 #pending
 							- #stakeholder name
 					- #### #keys #pending
 						- #key [[segment-(id)/partners/Strategic Alliances]] #🔖
 						- #key [[segment-(id)/partners/Community Support]] #🔖
 						- #key [[segment-(id)/partners/Supplier Relationships]] #🔖
 						- #key [[segment-(id)/partners/Networking]] #🔖
-			- #### #item segment [[segment 1 name]] [[competition]]
+			- #### #item segment [[Entrepreneurs]] [[competition]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fcompetition%2Finfo) [AI]([[segment 1 name/competition/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fcompetition%2Finfo) [AI]([[Entrepreneurs/competition/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[competition]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[competition]] #🔖 #pending
 							- #stakeholder name
 					- #### #keys #pending
 						- #key [[segment-(id)/competition/Competitor Analysis]] #🔖
 						- #key [[segment-(id)/competition/Competitive Advantage]] #🔖
 						- #key [[segment-(id)/competition/Competition]] #🔖
-			- #### #item segment [[segment 1 name]] [[roles]]
+			- #### #item segment [[Entrepreneurs]] [[roles]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Froles%2Finfo) [AI]([[segment 1 name/roles/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Froles%2Finfo) [AI]([[Entrepreneurs/roles/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[roles]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[roles]] #🔖 #pending
 							- #role name
 					- #### #keys #pending
-			- #### #item segment [[segment 1 name]] [[profiles]]
+			- #### #item segment [[Entrepreneurs]] [[profiles]]
 			  collapsed:: true
 				- #### info
 				  collapsed:: true
-					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fprofiles%2Finfo) [AI]([[segment 1 name/profiles/ai]])
+					- [help](https://go.innbok.com/#/page/segment-%28id%29%2Fprofiles%2Finfo) [AI]([[Entrepreneurs/profiles/ai]])
 					- #content
-						- #### #artifact segment [[segment 1 name]] [[profiles]] #🔖 #pending
+						- #### #artifact segment [[Entrepreneurs]] [[profiles]] #🔖 #pending
 							- #profile name
 					- #### #keys #pending
 		- #### #item segment [[segment 2 name]]
