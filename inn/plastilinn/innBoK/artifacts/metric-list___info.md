@@ -2,23 +2,28 @@ innbok-type:: internal
 metamodel-id:: [[metric-list]]
 item-classes:: #[[metric]]
 relations:: [[business]] [[activitiy list]]
-weight:: 5
+weight:: 50
 
 - ## Definition
   - Metrics are quantifiable measures used to evaluate the performance and effectiveness of a business model.
-  - Content is of type list and uses the following classes:
+- ## Content type (metric)
+  - Content is of type list.
+  
+  - Content uses the following classes:
     - [[metric]]
+      - {{embed [[metric]]}}
+  
 - ## Description
 - ## Examples
-- ### metric-list/examples/Space X
-  {{embed [[metric-list/examples/Space X]]}}
-- ### metric-list/examples/vein visualizer
-  {{embed [[metric-list/examples/vein visualizer]]}}
-- ### metric-list/examples/extinguished animals meat
-  {{embed [[metric-list/examples/extinguished animals meat]]}}
-- ### 
-  {{embed [[]]}}
-- ### 
-  {{embed [[]]}}
-
+  - ### metric-list/examples/Space X
+    {{embed [[metric-list/examples/Space X]]}}
+  - ### metric-list/examples/vein visualizer
+    {{embed [[metric-list/examples/vein visualizer]]}}
+  - ### metric-list/examples/extinguished animals meat
+    {{embed [[metric-list/examples/extinguished animals meat]]}}
+  - ### 
+    {{embed [[]]}}
+  - ### 
+    {{embed [[]]}}
+  
 

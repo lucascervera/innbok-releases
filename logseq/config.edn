@@ -111,8 +111,8 @@
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
  :page "innCoPilot Map of Content"
+ :sidebar "business model index"
  
-
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
  ;; :pages-directory "your-directory"
@@ -255,7 +255,7 @@
  :ref/hierarchy-collapsed-threshold 1
 
  ;; Favorites to list on the left sidebar
- :favorites ["dashboard" "business info - plastilinn" "business model content" "business model viewer" "innbok/innbok guide" "inncopilot map of contents" "business model editor" "business model status" "tasks" "markers" "comments" "risk console" "experiments" "inncopilot/docs" "inncopilot/community"]
+ :favorites ["plastilinn console" "business model content" "business model viewer" "innbok/innbok guide" "inncopilot map of contents" "business model editor" "tasks" "business model status" "markers" "dashboard" "comments" "risk console" "experiments" "inncopilot/docs" "inncopilot/community"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

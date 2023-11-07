@@ -1,18 +1,16 @@
 page-type:: [[key]]
 innbok-key-rating:: 40
-{{embed [[solution-list/Use of Technology/data]]}}
+- #### Leveraging technology can lead to innovations, improve efficiency, and give a competitive edge over others in the market.
 - #questions
   - #question Is the startup leveraging technology effectively?
   - #question Is the technology being used innovative?
   - #question Does the technology provide a competitive advantage?
-- #relations
-  - [[opportunity]]: An opportunity is a potential area for a business to generate revenue or create value for customers within its business model.
-  - [[milestones]]: Milestones are specific achievements or events that mark significant progress or success in a business model.
-  - [[resources]]: the assets, capabilities, and infrastructure a business uses to create and deliver value to its customers.
 - #TODOs
   - TODO Identify and leverage relevant technologies to gain a competitive advantage
   - TODO  Regularly evaluate and adopt new technologies
-  - TODO  Develop a technology roadmap aligned with business goals.
+  - TODO  Develop a technology roadmap aligned with business goals
+  - TODO Determine the technologies used by the startup
+  - TODO  Assess if the technology provides a competitive edge.
 
 
 

@@ -8,7 +8,6 @@ alias:: segmentations
 
 Segmentation is important in business because it allows companies to better understand and target specific groups of customers who share similar needs, preferences, or behaviors. By tailoring products, services, and marketing efforts to these segments, businesses can improve customer satisfaction, increase sales, and gain a competitive advantage in the market.
 - ### Sample list
-  collapsed:: true
   - [How to copy this list]([[plastilinn/Copy block]])
   - {{embed [[segmentation/list]]}}
 

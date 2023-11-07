@@ -77,12 +77,12 @@
 
   - ### TODO #topic topic/Stakeholder definition
     plastilinn-type:: [[topic]] [[guide-item]]
-    innbok-artifact:: [[stakeholder list]]
+    innbok-artifact:: [[stakeholders]]
     - {{embed [[topic/Stakeholder definition]]}}
 
   - ### TODO #resource: MIT Entrepreneurship Lesson What Do You Need to Start a Business
     plastilinn-type:: [[resource]] [[guide-item]]
-    innbok-artifact:: [[stakeholder list]]
+    innbok-artifact:: [[stakeholders]]
       - {{embed [[MIT Entrepreneurship Lesson What Do You Need to Start a Business]]}}
   
   - TODO #artifact: stakeholder list
@@ -192,6 +192,221 @@
 - ### TODO #unit Get insights
   plastilinn-type:: [[unit]] [[guide-item]]
   collapsed:: true
+
+- ### TODO #topic topic/Market
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market]]}}
+
+- ### TODO #topic topic/Market/Diffusion of innovations
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Diffusion of innovations]]}}
+
+- ### TODO #topic topic/Market/Market research
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market research]]}}
+
+- ### TODO #topic topic/Market/Market research/Primary market research
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market research/Primary market research]]}}
+
+- ### TODO #topic topic/Market/Market research/Primary market research/Qualitative market research
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market research/Primary market research/Qualitative market research]]}}
+
+- ### TODO #topic topic/Market/Market research/Primary market research/Quantitative market research
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market research/Primary market research/Quantitative market research]]}}
+
+- ### TODO #topic topic/Market/Market research/Secondary market research
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market research/Secondary market research]]}}
+
+- ### TODO #topic topic/Market/Market research/Market trends
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market research/Market trends]]}}
+
+- ### TODO #topic topic/Market/Market research/Dafo
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[swot]]
+  - {{embed [[topic/Market/Market research/Dafo]]}}
+
+- ### TODO #topic topic/Market/Market research/Pest
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market research/Pest]]}}
+
+- ### TODO #topic topic/Market/Market size
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market size]]}}
+
+- ### TODO #topic topic/Market/Market size/Total addressable market
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market size/Total addressable market]]}}
+
+- ### TODO #topic topic/Market/Market size/Serviceable available market
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market size/Serviceable available market]]}}
+
+- ### TODO #topic topic/Market/Market size/Serviceable obtainable market
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Market size/Serviceable obtainable market]]}}
+
+- ### TODO #topic topic/Market/Segmentation
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Segmentation]]}}
+
+- ### TODO #topic topic/Market/Segmentation/Segmentation criteria
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Segmentation/Segmentation criteria]]}}
+
+- ### TODO #topic topic/Market/Segmentation/Example of market segmentation for an e-commerce
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Segmentation/Example of market segmentation for an e-commerce]]}}
+
+- ### TODO #topic topic/Market/Segmentation/Who is your client?
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/Segmentation/Who is your client?]]}}
+
+- ### TODO #topic topic/Market/How to find your landing market
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/How to find your landing market]]}}
+
+- ### TODO #topic topic/Market/End user profile
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Market/End user profile]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Step 01 objectives
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Step 01 objectives]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/La condición necesaria para un negocio
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/La condición necesaria para un negocio]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Dirígete a un nuevo mercado que puedas dominar
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Dirígete a un nuevo mercado que puedas dominar]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Déjate guiar por los clientes que pagan
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Déjate guiar por los clientes que pagan]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Negocios con varios tipos de clientes
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Negocios con varios tipos de clientes]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Cómo llevar a cabo una segmentación de mercado
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Cómo llevar a cabo una segmentación de mercado]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Cuánto tiempo debo emplear en la segmentación de mercado
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Cuánto tiempo debo emplear en la segmentación de mercado]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/2 selecciona un mercado de desembarco
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/2 selecciona un mercado de desembarco]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/2 selecciona un mercado de desembarco/Cómo seleccionar un mercado de desembarco
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/2 selecciona un mercado de desembarco/Cómo seleccionar un mercado de desembarco]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/3 traza el perfil del usuario final
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/3 traza el perfil del usuario final]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/3 traza el perfil del usuario final/Porque hay que encontrar un perfil de usuario específico
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/3 traza el perfil del usuario final/Porque hay que encontrar un perfil de usuario específico]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/3 traza el perfil del usuario final/Tiene mi equipo a alguien que encaje en el perfil de cliente?
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/3 traza el perfil del usuario final/Tiene mi equipo a alguien que encaje en el perfil de cliente?]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Análisis de abajo arriba
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Análisis de abajo arriba]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Análisis de arriba abajo
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Análisis de arriba abajo]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/De cuántos clientes a enséñame la pasta
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/De cuántos clientes a enséñame la pasta]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Cómo de grande debe ser mi mercado
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Cómo de grande debe ser mi mercado]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/Crea una persona de tu cliente
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/Crea una persona de tu cliente]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/La persona es más que un ejercicio
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/La persona es más que un ejercicio]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/Cuándo debo crear varias personas
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/Cuándo debo crear varias personas]]}}
+
+- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/La persona me ayuda a focalizar en qué hacer y qué no hacer
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/La persona me ayuda a focalizar en qué hacer y qué no hacer]]}}
 
 - ### TODO #unit Iterate your business model
   plastilinn-type:: [[unit]] [[guide-item]]
@@ -361,6 +576,11 @@
   plastilinn-type:: [[topic]] [[guide-item]]
   innbok-artifact:: [[]]
   - {{embed [[topic/stakeholder]]}}
+
+- ### TODO #topic topic/stakeholder list
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/stakeholder list]]}}
 
 - ### TODO #topic topic/stakeholder/Multiple faces
   plastilinn-type:: [[topic]] [[guide-item]]
@@ -1151,106 +1371,6 @@
   innbok-artifact:: [[]]
   - {{embed [[topic/Legal/Company Constitution]]}}
 
-- ### TODO #topic topic/Market
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market]]}}
-
-- ### TODO #topic topic/Market/Diffusion of innovations
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Diffusion of innovations]]}}
-
-- ### TODO #topic topic/Market/Market research
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market research]]}}
-
-- ### TODO #topic topic/Market/Market research/Primary market research
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market research/Primary market research]]}}
-
-- ### TODO #topic topic/Market/Market research/Primary market research/Qualitative market research
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market research/Primary market research/Qualitative market research]]}}
-
-- ### TODO #topic topic/Market/Market research/Primary market research/Quantitative market research
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market research/Primary market research/Quantitative market research]]}}
-
-- ### TODO #topic topic/Market/Market research/Secondary market research
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market research/Secondary market research]]}}
-
-- ### TODO #topic topic/Market/Market research/Market trends
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market research/Market trends]]}}
-
-- ### TODO #topic topic/Market/Market research/Dafo
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market research/Dafo]]}}
-
-- ### TODO #topic topic/Market/Market research/Pest
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market research/Pest]]}}
-
-- ### TODO #topic topic/Market/Market size
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market size]]}}
-
-- ### TODO #topic topic/Market/Market size/Total addressable market
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market size/Total addressable market]]}}
-
-- ### TODO #topic topic/Market/Market size/Serviceable available market
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market size/Serviceable available market]]}}
-
-- ### TODO #topic topic/Market/Market size/Serviceable obtainable market
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Market size/Serviceable obtainable market]]}}
-
-- ### TODO #topic topic/Market/Segmentation
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Segmentation]]}}
-
-- ### TODO #topic topic/Market/Segmentation/Segmentation criteria
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Segmentation/Segmentation criteria]]}}
-
-- ### TODO #topic topic/Market/Segmentation/Example of market segmentation for an e-commerce
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Segmentation/Example of market segmentation for an e-commerce]]}}
-
-- ### TODO #topic topic/Market/Segmentation/Who is your client?
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/Segmentation/Who is your client?]]}}
-
-- ### TODO #topic topic/Market/How to find your landing market
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/How to find your landing market]]}}
-
-- ### TODO #topic topic/Market/End user profile
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/Market/End user profile]]}}
-
 - ### TODO #topic topic/Marketing
   plastilinn-type:: [[topic]] [[guide-item]]
   innbok-artifact:: [[]]
@@ -1991,6 +2111,11 @@
   innbok-artifact:: [[]]
   - {{embed [[topic/Validation/Get ready to interview the clients]]}}
 
+- ### TODO #topic topic/Validation/No surveys or focus groups
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/Validation/No surveys or focus groups]]}}
+
 - ### TODO #topic topic/Validation/Find clients to interview
   plastilinn-type:: [[topic]] [[guide-item]]
   innbok-artifact:: [[]]
@@ -2626,170 +2751,55 @@
   innbok-artifact:: [[]]
   - {{embed [[topic/D-eship/D-eship canvas/Sección 01 razón de entrada]]}}
 
+- ### TODO #topic topic/D-eship/D-eship canvas/Sección 02, mercado de desembarco
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/D-eship canvas/Sección 02, mercado de desembarco]]}}
+
+- ### TODO #topic topic/D-eship/D-eship canvas/Sección 03, creación 0de valor
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/D-eship canvas/Sección 03, creación 0de valor]]}}
+
+- ### TODO #topic topic/D-eship/D-eship canvas/Sección 04, ventaja competitiva
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/D-eship canvas/Sección 04, ventaja competitiva]]}}
+
+- ### TODO #topic topic/D-eship/D-eship canvas/Sección 05, adquisición 0de clientes
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/D-eship canvas/Sección 05, adquisición 0de clientes]]}}
+
+- ### TODO #topic topic/D-eship/D-eship canvas/Sección 06, economía unitaria del producto
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/D-eship canvas/Sección 06, economía unitaria del producto]]}}
+
+- ### TODO #topic topic/D-eship/D-eship canvas/Sección 07, ventas
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/D-eship canvas/Sección 07, ventas]]}}
+
+- ### TODO #topic topic/D-eship/D-eship canvas/Sección 08, economía general
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/D-eship canvas/Sección 08, economía general]]}}
+
+- ### TODO #topic topic/D-eship/D-eship canvas/Sección 09, diseño y construcción
+  plastilinn-type:: [[topic]] [[guide-item]]
+  innbok-artifact:: [[]]
+  - {{embed [[topic/D-eship/D-eship canvas/Sección 09, diseño y construcción]]}}
+
 - ### TODO #topic topic/D-eship/D-eship canvas/Sección 10, escalado
   plastilinn-type:: [[topic]] [[guide-item]]
   innbok-artifact:: [[]]
   - {{embed [[topic/D-eship/D-eship canvas/Sección 10, escalado]]}}
 
-- ### TODO #topic topic/D-eship/D-eship canvas/Sección 2, mercado de desembarco
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/D-eship canvas/Sección 2, mercado de desembarco]]}}
-
-- ### TODO #topic topic/D-eship/D-eship canvas/Sección 3, creación de valor
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/D-eship canvas/Sección 3, creación de valor]]}}
-
-- ### TODO #topic topic/D-eship/D-eship canvas/Sección 4, ventaja competitiva
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/D-eship canvas/Sección 4, ventaja competitiva]]}}
-
-- ### TODO #topic topic/D-eship/D-eship canvas/Sección 5, adquisición de clientes
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/D-eship canvas/Sección 5, adquisición de clientes]]}}
-
-- ### TODO #topic topic/D-eship/D-eship canvas/Sección 6, economía unitaria del producto
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/D-eship canvas/Sección 6, economía unitaria del producto]]}}
-
-- ### TODO #topic topic/D-eship/D-eship canvas/Sección 7, ventas
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/D-eship canvas/Sección 7, ventas]]}}
-
-- ### TODO #topic topic/D-eship/D-eship canvas/Sección 8, economía general
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/D-eship canvas/Sección 8, economía general]]}}
-
-- ### TODO #topic topic/D-eship/D-eship canvas/Sección 9, diseño y construcción
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/D-eship canvas/Sección 9, diseño y construcción]]}}
-
 - ### TODO #topic topic/D-eship/d-eship step
   plastilinn-type:: [[topic]] [[guide-item]]
   innbok-artifact:: [[]]
   - {{embed [[topic/D-eship/d-eship step]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Step 01 objectives
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Step 01 objectives]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/La condición necesaria para un negocio
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/La condición necesaria para un negocio]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Dirígete a un nuevo mercado que puedas dominar
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Dirígete a un nuevo mercado que puedas dominar]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Déjate guiar por los clientes que pagan
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Déjate guiar por los clientes que pagan]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Negocios con varios tipos de clientes
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Negocios con varios tipos de clientes]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Cómo llevar a cabo una segmentación de mercado
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Cómo llevar a cabo una segmentación de mercado]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/1 segmenta el mercado/Cuánto tiempo debo emplear en la segmentación de mercado
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/1 segmenta el mercado/Cuánto tiempo debo emplear en la segmentación de mercado]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/2 selecciona un mercado de desembarco
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/2 selecciona un mercado de desembarco]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/2 selecciona un mercado de desembarco/Cómo seleccionar un mercado de desembarco
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/2 selecciona un mercado de desembarco/Cómo seleccionar un mercado de desembarco]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/3 traza el perfil del usuario final
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/3 traza el perfil del usuario final]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/3 traza el perfil del usuario final/Porque hay que encontrar un perfil de usuario específico
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/3 traza el perfil del usuario final/Porque hay que encontrar un perfil de usuario específico]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/3 traza el perfil del usuario final/Tiene mi equipo a alguien que encaje en el perfil de cliente?
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/3 traza el perfil del usuario final/Tiene mi equipo a alguien que encaje en el perfil de cliente?]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Análisis de abajo arriba
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Análisis de abajo arriba]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Análisis de arriba abajo
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Análisis de arriba abajo]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/De cuántos clientes a enséñame la pasta
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/De cuántos clientes a enséñame la pasta]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Cómo de grande debe ser mi mercado
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/4 calcula el tamaño del mercado total disponible (tam) del mercado de desembarco/Cómo de grande debe ser mi mercado]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/Crea una persona de tu cliente
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/Crea una persona de tu cliente]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/La persona es más que un ejercicio
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/La persona es más que un ejercicio]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/Cuándo debo crear varias personas
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/Cuándo debo crear varias personas]]}}
-
-- ### TODO #topic topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/La persona me ayuda a focalizar en qué hacer y qué no hacer
-  plastilinn-type:: [[topic]] [[guide-item]]
-  innbok-artifact:: [[]]
-  - {{embed [[topic/D-eship/d-eship step/5 describe al personaje del mercado de desembarco/La persona me ayuda a focalizar en qué hacer y qué no hacer]]}}
 
 - ### TODO #topic topic/D-eship/d-eship step/6 caso de uso de la vida útil del producto
   plastilinn-type:: [[topic]] [[guide-item]]

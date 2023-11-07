@@ -1,0 +1,11 @@
+page-type:: [[key]]
+innbok-key-rating:: 20
+- #### Evaluate the quality of the business brochure, including its ability to effectively communicate relevant information, convey the company's image, and generate a call to action.
+- #questions
+  - #question Does it describe the company adequately? Does it contain a call to action? Does it convey relevant information clearly and effectively? Is the design appropriate? Does it use visual components (photos, graphics, etc.)? Is the tone of the communication appropriate?
+- #TODOs
+  - TODO Assess the clarity, effectiveness, and visual appeal of the business brochure
+  - TODO  Consider the potential for customer engagement and conversion.
+
+
+

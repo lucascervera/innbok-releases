@@ -3,7 +3,7 @@ icon:: 🔖
 
 - query-properties:: [:alias :icon]
   #+BEGIN_QUERY
-  { :query (namespace [[innbok/marker]])
+  { :query (namespace [[innbok/markers]])
   :breadcrumb-show? false
   }
   #+END_QUERY

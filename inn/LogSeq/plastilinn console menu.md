@@ -1,0 +1,3 @@
+- #🗂️ #design [business model]([[business model]]) [index]([[business model - index]]) [items]([[business model - items]]) [pending]([[business model - pending]]) [completed]([[business model - completed]])
+- #🗂️ #analysis [keys (by weight)]([[business model - keys (by weight)]]) [keys (by rating)]([[business model - keys (by rating)]]) [risk]([[business model - risk]])
+- #🗂️ #validation [experiments]([[business model - experiments]])

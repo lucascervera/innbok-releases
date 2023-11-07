@@ -1,23 +1,24 @@
 innbok-type:: internal
 metamodel-id:: [[config]]
 relations:: [[]]
-weight:: 
+weight:: 0
 
 - ## Definition
   - 
-  - Content is of type text and uses the following classes:
-    - [[]]
+- ## Content type ()
+  - Content is of type text.
+  
 - ## Description
 - ## Examples
-- ### config/examples/Space X
-  {{embed [[config/examples/Space X]]}}
-- ### config/examples/vein visualizer
-  {{embed [[config/examples/vein visualizer]]}}
-- ### config/examples/extinguished animals meat
-  {{embed [[config/examples/extinguished animals meat]]}}
-- ### 
-  {{embed [[]]}}
-- ### 
-  {{embed [[]]}}
-
+  - ### config/examples/Space X
+    {{embed [[config/examples/Space X]]}}
+  - ### config/examples/vein visualizer
+    {{embed [[config/examples/vein visualizer]]}}
+  - ### config/examples/extinguished animals meat
+    {{embed [[config/examples/extinguished animals meat]]}}
+  - ### 
+    {{embed [[]]}}
+  - ### 
+    {{embed [[]]}}
+  
 

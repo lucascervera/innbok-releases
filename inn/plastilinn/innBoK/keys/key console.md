@@ -1,154 +1,263 @@
 
 
-- #key [[business/Business Model Viability]] #🔖 
-- #key [[revenue-lines/Revenue Sources]] #🔖 
-- #key [[cost-lines/Cost Structure]] #🔖 
-- #key [[segment-(id)/market-size/Growth Potential]] #🔖 
-- #key [[segment-(id)/competition/Competitor Analysis]] #🔖 
-- #key [[segment-(id)/competition/Competitive Advantage]] #🔖 
-- #key [[marketing/Barriers to Entry]] #🔖 
-- #key [[operations/Customer Service Quality]] #🔖 
-- #key [[operations/Problem Resolution]] #🔖 
-- #key [[marketing/Customer Loyalty Programs]] #🔖 
-- #key [[operations/Continuous Improvement]] #🔖 
-- #key [[team/Receptiveness to Feedback]] #🔖 
-- #key [[team/Culture of Experimentation]] #🔖 
-- #key [[team/Adaptability to Change]] #🔖 
-- #key [[funding-strategy/Access to Capital]] #🔖 
-- #key [[finance/Financial Management]] #🔖 
-- #key [[finance/Positive Cash Flow]] #🔖 
-- #key [[finance/Profitability]] #🔖 
-- #key [[team/Benefits and Compensation]] #🔖 
-- #key [[team/Human Resource Management]] #🔖 
-- #key [[team/Work Environment]] #🔖 
-- #key [[team/Employee Development]] #🔖 
-- #key [[team/Talent Retention]] #🔖 
-- #key [[opportunity/Innovation]] #🔖 
-- #key [[opportunity/Clarity of the Idea]] #🔖 
-- #key [[opportunity/Solution to a Problem]] #🔖 
-- #key [[strategy/Expansion Capability]] #🔖 
-- #key [[strategy/Cultural Adaptability]] #🔖 
-- #key [[strategy/International Logistics]] #🔖 
-- #key [[strategy/Cultural Sensitivity]] #🔖 
-- #key [[legal/Risk Management]] #🔖 
-- #key [[legal/Legal Compliance]] #🔖 
-- #key [[legal/Contracts and Agreements]] #🔖 
-- #key [[legal/Licenses and Permits]] #🔖 
-- #key [[segment-(id)/market-size/Market Size]] #🔖 
-- #key [[marketing/Market Demand]] #🔖 
-- #key [[marketing/Customer Understanding]] #🔖 
-- #key [[marketing/Market Adaptability]] #🔖 
-- #key [[marketing/Marketing Strategy]] #🔖 
-- #key [[solution-(id)/pricing/Pricing Strategy]] #🔖 
-- #key [[segment-(id)/profile-(id)/channels/Distribution Channels]] #🔖 
-- #key [[metrics/Monitoring Key Metrics]] #🔖 
-- #key [[metrics/Key Performance Indicators]] #🔖 
-- #key [[operations/Data Analysis Tools]] #🔖 
-- #key [[operations/Operational Efficiency]] #🔖 
-- #key [[operations/Process Automation]] #🔖 
-- #key [[operations/Quality Control]] #🔖 
-- #key [[operations/Production Capability]] #🔖 
-- #key [[solution-(id)/Product-Market Fit]] #🔖 
-- #key [[solution-(id)/Product Quality]] #🔖 
-- #key [[segment-(id)/profile-(id)/value/Added Value]] #🔖 
-- #key [[solution-(id)/Ease of Use]] #🔖 
-- #key [[solution-(id)/Product Life Cycle]] #🔖 
-- #key [[segment-(id)/partners/Strategic Alliances]] #🔖 
-- #key [[segment-(id)/partners/Community Support]] #🔖 
-- #key [[segment-(id)/partners/Supplier Relationships]] #🔖 
-- #key [[segment-(id)/partners/Networking]] #🔖 
-- #key [[risks/Risk Identification]] #🔖 
-- #key [[risks/Crisis Management]] #🔖 
-- #key [[risks/Contingency Plans]] #🔖 
-- #key [[risks/Adequate Insurance]] #🔖 
-- #key [[business-values/Sustainable Practices]] #🔖 
-- #key [[business-values/Corporate Ethics]] #🔖 
-- #key [[business-values/Community Contribution]] #🔖 
-- #key [[business-values/Environmental Consciousness]] #🔖 
-- #key [[team/Team Skills]] #🔖 
-- #key [[team/Team Commitment]] #🔖 
-- #key [[founders/Leadership Skills]] #🔖 
-- #key [[solution-list/Technological Adaptability]] #🔖 
-- #key [[solution-list/Use of Technology]] #🔖 
-- #key [[solution-list/Information Security]] #🔖 
-- #key [[legal/Intellectual Property]] #🔖 
-- #key [[business/Maturity stage]] #🔖 
-- #key [[opportunity/Space]] #🔖 
-- #key [[opportunity/Originality]] #🔖 
-- #key [[opportunity/Protectability]] #🔖 
-- #key [[opportunity/Evolution potential]] #🔖 
-- #key [[opportunity/Obviousness]] #🔖 
-- #key [[opportunity/Value potential]] #🔖 
-- #key [[opportunity/Discoverability]] #🔖 
-- #key [[profile-(id)/goals/Pain perception]] #🔖 
-- #key [[profile-(id)/goals/Urgency perception]] #🔖 
-- #key [[profile-(id)/goals/Finantial damage]] #🔖 
-- #key [[solution-(id)/Solution efficiency]] #🔖 
-- #key [[solution-(id)/Saving benefits]] #🔖 
-- #key [[solution-(id)/Revenue benefits]] #🔖 
-- #key [[segment-(id)/market-trends/Market growth potential]] #🔖 
-- #key [[segment-(id)/Market maturity]] #🔖 
-- #key [[segment-(id)/Momentum]] #🔖 
-- #key [[segment-(id)/Entry barriers]] #🔖 
-- #key [[profile-(id)/sales-strategy/Sales cycle duration]] #🔖 
-- #key [[profile-(id)/sales-strategy/Decision makers accessibility]] #🔖 
-- #key [[segment-(id)/market-trends/Market wideness]] #🔖 
-- #key [[segment-(id)/Environment]] #🔖 
-- #key [[segment-(id)/competition/Competition]] #🔖 
-- #key [[solution-(id)/components/Technology]] #🔖 
-- #key [[solution-(id)/Product scope]] #🔖 
-- #key [[solution-(id)/Product development strategy]] #🔖 
-- #key [[solution-(id)/Tractability]] #🔖 
-- #key [[solution-(id)/Easyness of use]] #🔖 
-- #key [[solution-(id)/Legal complexity]] #🔖 
-- #key [[business-model/Monetizability]] #🔖 
-- #key [[finance/Finantial needs]] #🔖 
-- #key [[finance/Gross margins]] #🔖 
-- #key [[business-model/Scalability]] #🔖 
-- #key [[person-(id)/Founder's commitment]] #🔖 
-- #key [[founders/Founder's capacity]] #🔖 
-- #key [[person-(id)/skills/Founder's circumstances]] #🔖 
-- #key [[person-(id)/Start-up experience]] #🔖 
-- #key [[person-(id)/skills/Management experience]] #🔖 
-- #key [[person-(id)/skills/Vertical experience]] #🔖 
-- #key [[person-(id)/Coachability]] #🔖 
-- #key [[person-(id)/Leadership]] #🔖 
-- #key [[team/Market experience]] #🔖 
-- #key [[team/Skills and expectations overlap]] #🔖 
-- #key [[team/Competency scope]] #🔖 
-- #key [[team/Team composition]] #🔖 
-- #key [[team/Experience working togheter]] #🔖 
-- #key [[finantial-projections/Projections]] #🔖 
-- #key [[project-plan/Business plan]] #🔖 
-- #key [[business/Capital structure]] #🔖 
-- #key [[stakeholder-list/Stakeholder identification]] #🔖 
-- #key [[profile-(id)/value/Potential value]] #🔖 
-- #key [[legal/Protection]] #🔖 
-- #key [[solution-(id)/promotion/Discovery]] #🔖 
-- #key [[opportunity/Potential for evolution]] #🔖 
-- #key [[opportunity/Evidence]] #🔖 
-- #key [[segment-(id)/market-size/Current market size]] #🔖 
-- #key [[segment-(id)/Accessibility to decision makers]] #🔖 
-- #key [[profile-(id)/goals/Perception of urgency]] #🔖 
-- #key [[profile-(id)/goals/Financial damages]] #🔖 
-- #key [[solution-(id)/Efficiency of the solution]] #🔖 
-- #key [[solution-(id)/Income benefit]] #🔖 
-- #key [[solution-(id)/Savings benefit]] #🔖 
-- #key [[solution-(id)/Traceability]] #🔖 
-- #key [[solution-(id)/Product focus]] #🔖 
-- #key [[business/Monetization]] #🔖 
-- #key [[resource-list/Financial needs]] #🔖 
-- #key [[team/Experience in startups]] #🔖 
-- #key [[founders/Capacity and attitude for improvement]] #🔖 
-- #key [[team/Experience in management]] #🔖 
-- #key [[team/Scope of competence]] #🔖 
-- #key [[team/Previous experience working together]] #🔖 
-- #key [[naming/- **Facilidad de Pronunciación:** El nombre parece ser fácil de pronunciar en muchos idiomas, ya que utiliza sonidos comunes. La combinación "pl", por ejemplo, se encuentra en muchos idiomas europeos y algunas lenguas asiáticas. Sin embargo, en algunos idiomas, como el japonés, donde ciertas combinaciones de consonantes no son nativas, podría necesitar una adaptación.]] #🔖 
-- #key [[naming/- **Consistencia Fonética:** En cuanto a la similitud en la pronunciación en diferentes idiomas, "plastilinn" parece tener una estructura fonética que podría sonar similar en muchos idiomas, aunque con ligeras variaciones dependiendo de las particularidades fonéticas de cada lengua.]] #🔖 
-- #key [[naming/- **Escritura a partir de la Pronunciación:** Si alguien escucha "plastilinn", es probable que pueda escribirlo correctamente en idiomas que usen el alfabeto latino. Sin embargo, podría haber confusión con la cantidad de 'n' al final o si se escribe con una o dos 'l'. En idiomas con otros sistemas de escritura, como el cirílico o el árabe, podría haber variaciones en la transliteración.]] #🔖 
-- #key [[naming/- **Connotaciones Negativas:** No tengo conocimiento de que "plastilinn" se parezca fonéticamente o por escrito a alguna palabra con connotaciones negativas en idiomas principales. Sin embargo, siempre es una buena idea hacer una revisión exhaustiva, especialmente si planeas lanzar tu producto en mercados específicos.]] #🔖 
-- #key [[goals-(organization)/Objetivos definidos con precisión]] #🔖 
-- #key [[business-objectives/ Objetivos ambiciosos]] #🔖 
-- #key [[segment-(id)/Barreras de salida]] #🔖 
-- #key [[segment-(id)/Estacionalidad del mercado]] #🔖 
+- #key [[business-idea/Business Model Viability]] [[*****]] [[-+]]
+  weight:: 95
+- #key [[business-idea/Maturity stage]] [[*****]] [[-+]]
+  weight:: 85
+- #key [[business-idea/Monetizability]] [[***]] [[-+]]
+  weight:: 60
+- #key [[business-idea/Space]] [[***]] [[-+]]
+  weight:: 55
+- #key [[business-idea/Scalability]] [[***]] [[-+]]
+  weight:: 55
+- #key [[business-idea/Discoverability]] [[**]] [[-+]]
+  weight:: 40
+- #key [[business-idea/Business Model Innovation ]] [[**]] [[-+]]
+  weight:: 35
+- #key [[business-idea/Clarity of the Idea]] [[**]] [[-+]]
+  weight:: 30
+- #key [[business-idea/Environment]] [[*]] [[-+]]
+  weight:: 20
+- #key [[business-objectives/Ambitious Goals]] [[**]] [[-+]]
+  weight:: 30
+- #key [[capital-structure/Capital structure]] [[***]] [[-+]]
+  weight:: 50
+- #key [[cashflow-projections/Positive Cash Flow]] [[***]] [[-+]]
+  weight:: 55
+- #key [[cost-lines/Cost Structure]] [[**]] [[-+]]
+  weight:: 35
+- #key [[finance/Profitability]] [[***]] [[-+]]
+  weight:: 60
+- #key [[finance/Gross margins]] [[***]] [[-+]]
+  weight:: 60
+- #key [[finance/Financial Management]] [[***]] [[-+]]
+  weight:: 50
+- #key [[finance/Finantial needs]] [[***]] [[-+]]
+  weight:: 45
+- #key [[finantial-projections/Projections]] [[**]] [[-+]]
+  weight:: 40
+- #key [[founders/Founder's capacity]] [[****]] [[-+]]
+  weight:: 65
+- #key [[founders/Founder's commitment]] [[***]] [[-+]]
+  weight:: 55
+- #key [[founders/Leadership Skills]] [[**]] [[-+]]
+  weight:: 40
+- #key [[founders/Attitude for improvement]] [[**]] [[-+]]
+  weight:: 30
+- #key [[founders/Founder's circumstances]] [[*]] [[-+]]
+  weight:: 20
+- #key [[funding-strategy/Access to Capital]] [[***]] [[-+]]
+  weight:: 45
+- #key [[goals-(organization)/Precisely Defined Objectives]] [[**]] [[-+]]
+  weight:: 40
+- #key [[legal/Risk Management]] [[***]] [[-+]]
+  weight:: 60
+- #key [[legal/Legal Compliance]] [[***]] [[-+]]
+  weight:: 60
+- #key [[legal/Licenses and Permits]] [[***]] [[-+]]
+  weight:: 60
+- #key [[legal/Protectability]] [[***]] [[-+]]
+  weight:: 45
+- #key [[legal/Contracts and Agreements]] [[**]] [[-+]]
+  weight:: 35
+- #key [[legal/Legal complexity]] [[**]] [[-+]]
+  weight:: 25
+- #key [[legal/Intellectual Property]] [[*]] [[-+]]
+  weight:: 20
+- #key [[marketing/Market Demand]] [[****]] [[-+]]
+  weight:: 65
+- #key [[marketing/Marketing Strategy]] [[***]] [[-+]]
+  weight:: 60
+- #key [[marketing/Barriers to Entry]] [[***]] [[-+]]
+  weight:: 45
+- #key [[metric-list/Monitoring Key Metrics]] [[***]] [[-+]]
+  weight:: 50
+- #key [[metric-list/Data Analysis Tools]] [[*]] [[-+]]
+  weight:: 20
+- #key [[mission/Realism - Ambition]] [[**]] [[-+]]
+  weight:: 30
+- #key [[mission/Clarity of Conception]] [[*]] [[-+]]
+  weight:: 20
+- #key [[naming/Pronunciation Ease]] [[*]] [[-+]]
+  weight:: 20
+- #key [[naming/Phonetic Consistency]] [[*]] [[-+]]
+  weight:: 10
+- #key [[naming/Spelling from Pronunciation]] [[*]] [[-+]]
+  weight:: 10
+- #key [[naming/Negative Connotations]] [[*]] [[-+]]
+  weight:: 10
+- #key [[operations/Problem Resolution]] [[**]] [[-+]]
+  weight:: 30
+- #key [[operations/Efficiency and Continuous Improvement]] [[**]] [[-+]]
+  weight:: 30
+- #key [[operations/Process Automation]] [[**]] [[-+]]
+  weight:: 25
+- #key [[operations/Production Capability]] [[*]] [[-+]]
+  weight:: 20
+- #key [[opportunity/Momentum]] [[***]] [[-+]]
+  weight:: 60
+- #key [[opportunity/Innovative approach]] [[**]] [[-+]]
+  weight:: 40
+- #key [[opportunity/Evolution potential]] [[**]] [[-+]]
+  weight:: 30
+- #key [[opportunity/Business obviousness]] [[*]] [[-+]]
+  weight:: 20
+- #key [[people/Receptiveness to Feedback]] [[**]] [[-+]]
+  weight:: 40
+- #key [[people/Competency scope]] [[**]] [[-+]]
+  weight:: 40
+- #key [[people/Relevant experience]] [[**]] [[-+]]
+  weight:: 30
+- #key [[people/Market experience]] [[**]] [[-+]]
+  weight:: 25
+- #key [[people/Skills and expectations overlap]] [[**]] [[-+]]
+  weight:: 25
+- #key [[people/Vertical experience]] [[*]] [[-+]]
+  weight:: 15
+- #key [[people/Experience working together]] [[*]] [[-+]]
+  weight:: 10
+- #key [[person-(id)/Leadership]] [[**]] [[-+]]
+  weight:: 40
+- #key [[person-(id)/Coachability]] [[**]] [[-+]]
+  weight:: 30
+- #key [[profile-(id)/Customer Understanding]] [[****]] [[-+]]
+  weight:: 75
+- #key [[profile-(id)/channels/Distribution Channels]] [[****]] [[-+]]
+  weight:: 65
+- #key [[profile-(id)/goals/Pain perception]] [[****]] [[-+]]
+  weight:: 70
+- #key [[profile-(id)/goals/Urgency perception]] [[***]] [[-+]]
+  weight:: 45
+- #key [[profile-(id)/goals/Finantial damage]] [[**]] [[-+]]
+  weight:: 35
+- #key [[profile-(id)/sales-strategy/Sales cycle duration]] [[**]] [[-+]]
+  weight:: 35
+- #key [[profile-(id)/sales-strategy/Decision makers accessibility]] [[**]] [[-+]]
+  weight:: 30
+- #key [[profile-(id)/value-proposition/Solution to a Problem]] [[****]] [[-+]]
+  weight:: 70
+- #key [[profile-(id)/value-proposition/Potential value]] [[**]] [[-+]]
+  weight:: 40
+- #key [[project-plan/Business plan]] [[**]] [[-+]]
+  weight:: 35
+- #key [[resource-list/Financial needs]] [[**]] [[-+]]
+  weight:: 40
+- #key [[revenue-lines/Revenue Sources]] [[****]] [[-+]]
+  weight:: 65
+- #key [[risk-list/Risk Identification]] [[***]] [[-+]]
+  weight:: 50
+- #key [[risk-list/Crisis Management]] [[**]] [[-+]]
+  weight:: 30
+- #key [[risk-list/Contingency Plans]] [[*]] [[-+]]
+  weight:: 20
+- #key [[segment-(id)/Accessibility to decision makers]] [[**]] [[-+]]
+  weight:: 40
+- #key [[segment-(id)/Market Adaptability]] [[**]] [[-+]]
+  weight:: 40
+- #key [[segment-(id)/Paying Capacity]] [[**]] [[-+]]
+  weight:: 35
+- #key [[segment-(id)/Market maturity]] [[**]] [[-+]]
+  weight:: 30
+- #key [[segment-(id)/Entry barriers]] [[**]] [[-+]]
+  weight:: 30
+- #key [[segment-(id)/Segment Homogeneity]] [[**]] [[-+]]
+  weight:: 25
+- #key [[segment-(id)/Exit Barriers]] [[*]] [[-+]]
+  weight:: 15
+- #key [[segment-(id)/Market Seasonality]] [[*]] [[-+]]
+  weight:: 10
+- #key [[segment-(id)/competition/Competitive Advantage]] [[****]] [[-+]]
+  weight:: 65
+- #key [[segment-(id)/competition/Competitive landscape]] [[***]] [[-+]]
+  weight:: 50
+- #key [[segment-(id)/competition/Competitor Analysis]] [[**]] [[-+]]
+  weight:: 40
+- #key [[segment-(id)/market-size/Market Size]] [[****]] [[-+]]
+  weight:: 65
+- #key [[segment-(id)/market-size/Growth Potential]] [[***]] [[-+]]
+  weight:: 50
+- #key [[segment-(id)/market-trends/Market growth potential]] [[***]] [[-+]]
+  weight:: 60
+- #key [[segment-(id)/market-trends/Market wideness]] [[**]] [[-+]]
+  weight:: 30
+- #key [[segment-(id)/partners/Strategic Alliances]] [[**]] [[-+]]
+  weight:: 40
+- #key [[segment-(id)/partners/Supplier Relationships]] [[**]] [[-+]]
+  weight:: 30
+- #key [[segment-(id)/partners/Networking]] [[**]] [[-+]]
+  weight:: 25
+- #key [[solution-(id)/Product-Market Fit]] [[****]] [[-+]]
+  weight:: 70
+- #key [[solution-(id)/Solution efficiency]] [[***]] [[-+]]
+  weight:: 55
+- #key [[solution-(id)/Financial benefits]] [[***]] [[-+]]
+  weight:: 45
+- #key [[solution-(id)/Ease of Use]] [[***]] [[-+]]
+  weight:: 45
+- #key [[solution-(id)/Product Quality]] [[**]] [[-+]]
+  weight:: 40
+- #key [[solution-(id)/Agility]] [[**]] [[-+]]
+  weight:: 40
+- #key [[solution-(id)/Product focus]] [[**]] [[-+]]
+  weight:: 30
+- #key [[solution-(id)/brochure/Business Brochure Quality]] [[*]] [[-+]]
+  weight:: 20
+- #key [[solution-(id)/components/Appropriate Solution Components]] [[*]] [[-+]]
+  weight:: 20
+- #key [[solution-(id)/features/Feature set scope]] [[**]] [[-+]]
+  weight:: 35
+- #key [[solution-(id)/offerings/Solutions offerings structure]] [[**]] [[-+]]
+  weight:: 40
+- #key [[solution-(id)/pricing/Adecuate pricing ]] [[***]] [[-+]]
+  weight:: 55
+- #key [[solution-(id)/roadmap/Solution roadmap quality]] [[*]] [[-+]]
+  weight:: 10
+- #key [[solution-list/Use of Technology]] [[**]] [[-+]]
+  weight:: 40
+- #key [[solution-list/Information Security]] [[**]] [[-+]]
+  weight:: 40
+- #key [[solution-list/Technological Adaptability]] [[**]] [[-+]]
+  weight:: 30
+- #key [[strategy/Expansion Capability]] [[***]] [[-+]]
+  weight:: 45
+- #key [[strategy/Cultural Adaptability]] [[**]] [[-+]]
+  weight:: 40
+- #key [[strategy/Cultural Sensitivity]] [[**]] [[-+]]
+  weight:: 30
+- #key [[strategy/International Logistics]] [[*]] [[-+]]
+  weight:: 20
+- #key [[team/Team Skills]] [[****]] [[-+]]
+  weight:: 70
+- #key [[team/Team Commitment]] [[***]] [[-+]]
+  weight:: 60
+- #key [[team/Adaptability to Change]] [[***]] [[-+]]
+  weight:: 55
+- #key [[team/Culture of Experimentation]] [[***]] [[-+]]
+  weight:: 50
+- #key [[team/Human Resource Management]] [[***]] [[-+]]
+  weight:: 45
+- #key [[team/Talent Retention]] [[**]] [[-+]]
+  weight:: 35
+- #key [[team/Work Environment]] [[**]] [[-+]]
+  weight:: 30
+- #key [[team/Team composition]] [[**]] [[-+]]
+  weight:: 30
+- #key [[team/Benefits and Compensation]] [[*]] [[-+]]
+  weight:: 20
+- #key [[team/Employee Development]] [[*]] [[-+]]
+  weight:: 20
+- #key [[unfair-advantage/Relevance of the Advantage]] [[***]] [[-+]]
+  weight:: 55
+- #key [[values-(organization)/Corporate Ethics]] [[**]] [[-+]]
+  weight:: 40
+- #key [[values-(organization)/Sustainable Practices]] [[**]] [[-+]]
+  weight:: 35
+- #key [[values-(organization)/Environmental Consciousness]] [[**]] [[-+]]
+  weight:: 25
+- #key [[values-(organization)/Community Contribution]] [[*]] [[-+]]
+  weight:: 20
+- #key [[vision/Realism - Ambition]] [[*]] [[-+]]
+  weight:: 10
+- #key [[vision/Clarity of Conception]] [[*]] [[-+]]
+  weight:: 10
 
