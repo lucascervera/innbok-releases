@@ -4,6 +4,24 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Loading...</title>
+<style>
+  /* Simple CSS to ensure the message is visible */
+  body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+  }
+  #loading-message {
+    text-align: center;
+  }
+  #loading-message p {
+    font-size: 24px;
+    color: #333; /* Change this color if it doesn't contrast with your background */
+  }
+</style>
 </head>
 <body>
 <div id="loading-message">
@@ -28,7 +46,7 @@
     }, 5000); // Redirect after 5 seconds
   } else {
     // Handle the case where no destination is provided
-    console.error('No destination URL was provided.');
+    document.getElementById('loading-message').innerHTML = '<p>Error: No destination URL was provided.</p>';
   }
 </script>
 </body>
