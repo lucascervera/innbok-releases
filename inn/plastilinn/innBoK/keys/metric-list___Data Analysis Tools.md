@@ -5,6 +5,14 @@ innbok-key-rating:: 20
   - #question Are data analysis tools used to inform decision-making?
   - #question Are there processes in place for data collection, analysis, and interpretation?
   - #question Is data used to drive business strategies and improvements?
+- #Risks
+
+  - ### Data Analysis Tools
+  - Failure to utilize data analysis tools can result in missed opportunities and ineffective decision-making.
+  - #### mitigation strategy
+  - Utilize data analysis tools to inform decision-making and establish processes for data collection, analysis, and interpretation.
+  - #### contingency strategy
+  - Use data to drive business strategies and improvements.
 - #TODOs
   - TODO Utilize data analysis tools to inform decision-making
   - TODO  Establish processes for data collection, analysis, and interpretation

@@ -26,4 +26,21 @@ weight:: 70
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[people/Receptiveness to Feedback]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[people/Competency scope]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[people/Relevant experience]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[people/Market experience]] [[**]] [[-+]]
+    key-weight:: 25
+  - #key [[people/Skills and expectations overlap]] [[**]] [[-+]]
+    key-weight:: 25
+  - #key [[people/Vertical experience]] [[*]] [[-+]]
+    key-weight:: 15
+  - #key [[people/Experience working together]] [[*]] [[-+]]
+    key-weight:: 10
+- ## Topics
+  
 

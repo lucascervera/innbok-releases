@@ -21,4 +21,19 @@ weight:: 40
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[marketing/Effective distribution and marketing channels]] [[****]] [[-+]]
+    key-weight:: 70
+  - #key [[marketing/Market Demand]] [[****]] [[-+]]
+    key-weight:: 65
+  - #key [[marketing/Strong reputation management]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[marketing/Marketing Strategy]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[marketing/Barriers to Entry]] [[***]] [[-+]]
+    key-weight:: 45
+  - #key [[marketing/Comprehensive market research and analysis]] [[**]] [[-+]]
+    key-weight:: 30
+- ## Topics
+  
 

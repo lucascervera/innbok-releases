@@ -4,7 +4,7 @@ relations:: [[]]
 weight:: 50
 
 - ## Definition
-  - 
+  - Unfair advantage refers to a unique and difficult-to-replicate attribute or strategy that gives a business a competitive edge.
 - ## Content type ()
   - Content is of type text.
   
@@ -20,5 +20,12 @@ weight:: 50
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  - #key [[unfair-advantage/Differentiation and competitive advantage]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[unfair-advantage/Relevance of the Advantage]] [[***]] [[-+]]
+    key-weight:: 55
+- ## Topics
   
 

@@ -26,4 +26,15 @@ weight:: 70
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[profile-(id)/goals/Addressing a critical problem]] [[****]] [[-+]]
+    key-weight:: 80
+  - #key [[profile-(id)/goals/Pain perception]] [[****]] [[-+]]
+    key-weight:: 70
+  - #key [[profile-(id)/goals/Urgency perception]] [[***]] [[-+]]
+    key-weight:: 45
+  - #key [[profile-(id)/goals/Finantial damage]] [[**]] [[-+]]
+    key-weight:: 35
+- ## Topics
+  
 

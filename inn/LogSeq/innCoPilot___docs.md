@@ -77,12 +77,14 @@ color:: grey
 			  HEY
 			  #+END_TIP
 	- [[instances]]
+	  collapsed:: true
 		- solution 1 rename
 			- {solution 1}
 			- solution 1 rename/goals
 				- {solution 1/goals}
 		- [solution 1 rename]([[solution 1 mia]])
 	- [[innCoPilot installation]]
+	  collapsed:: true
 		- Install logseq
 		- Download the innCoPilot graph
 		- Import the plugins graph\innCoPilot\config\plugins.edn
@@ -102,4 +104,14 @@ color:: grey
 		  )
 		  }
 		  #+END_QUERY
-		-
+- ## Dev
+	- Hugo website
+		- Created with Decap https://decapcms.org/docs/start-with-a-template/
+			- netlify: https://app.netlify.com/sites/vocal-capybara-ab2620/deploys/654ca7c257495a6528d6dabb
+		- Editing the website
+			- https://vocal-capybara-ab2620.netlify.app/admin
+				- https://vocal-capybara-ab2620.netlify.app/admin
+			-
+		- Adding content from logseq
+			- Export content using the Schoedinger plugin
+			- Importing that content into the hugo repository

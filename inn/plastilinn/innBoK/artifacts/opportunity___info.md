@@ -21,4 +21,29 @@ weight:: 40
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[opportunity/Momentum]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[opportunity/Innovative approach]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[opportunity/Evolution potential]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[opportunity/Business obviousness]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
+    - ### TODO #topic topic/What is a business?
+      plastilinn-type:: [[topic]] [[guide-item]]
+      innbok-artifact:: [[opportunity]]
+      - {{embed [[topic/What is a business?]]}}
+  
+    - ### TODO #resource: How to Identify a Business Opportunity  Sanjeev Bikhchandani  TEDxSRCC
+      plastilinn-type:: [[resource]] [[guide-item]]
+      innbok-artifact:: [[opportunity]]
+        - {{embed [[How to Identify a Business Opportunity  Sanjeev Bikhchandani  TEDxSRCC]]}}
+    
+    - ### TODO #topic topic/Idea/Business opportunity
+      plastilinn-type:: [[topic]] [[guide-item]]
+      innbok-artifact:: [[opportunity]]
+      - {{embed [[topic/Idea/Business opportunity]]}}
+  
 

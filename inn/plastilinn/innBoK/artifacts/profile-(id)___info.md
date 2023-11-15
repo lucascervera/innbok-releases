@@ -21,4 +21,11 @@ weight:: 70
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[profile-(id)/Customer Understanding]] [[****]] [[-+]]
+    key-weight:: 75
+  - #key [[profile-(id)/Customer retention]] [[***]] [[-+]]
+    key-weight:: 60
+- ## Topics
+  
 

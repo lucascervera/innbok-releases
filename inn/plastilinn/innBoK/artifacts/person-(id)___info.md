@@ -21,4 +21,11 @@ weight:: 70
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[person-(id)/Leadership]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[person-(id)/Coachability]] [[**]] [[-+]]
+    key-weight:: 30
+- ## Topics
+  
 

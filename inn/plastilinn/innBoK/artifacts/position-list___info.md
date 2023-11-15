@@ -5,7 +5,7 @@ relations:: [[]]
 weight:: 30
 
 - ## Definition
-  - 
+  - A position list refers to a strategic document outlining the roles, responsibilities, and hierarchy of positions within a business.
 - ## Content type (position)
   - Content is of type list.
   
@@ -25,5 +25,9 @@ weight:: 30
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  
+- ## Topics
   
 

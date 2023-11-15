@@ -1,6 +1,6 @@
 - phase
-  - #[[phase]]  [[Idea Stage]] #🔖
-  - #[[phase]]  [[Seed Stage]] #🔖
-  - #[[phase]]  [[Growth Stage]] #🔖
+  - #[[phase]]  [[Idea Stage]]
+  - #[[phase]]  [[Seed Stage]]
+  - #[[phase]]  [[Growth Stage]]
 
 

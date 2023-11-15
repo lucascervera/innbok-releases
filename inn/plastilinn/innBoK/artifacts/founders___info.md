@@ -5,7 +5,7 @@ relations:: [[]]
 weight:: 70
 
 - ## Definition
-  - 
+  - Founders refer to the individuals who establish and initiate a business venture, taking on the role of its originators.
 - ## Content type (person)
   - Content is of type list.
   
@@ -25,5 +25,18 @@ weight:: 70
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  - #key [[founders/Founder's capacity]] [[****]] [[-+]]
+    key-weight:: 65
+  - #key [[founders/Founder's commitment]] [[***]] [[-+]]
+    key-weight:: 55
+  - #key [[founders/Leadership Skills]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[founders/Attitude for improvement]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[founders/Founder's circumstances]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
   
 

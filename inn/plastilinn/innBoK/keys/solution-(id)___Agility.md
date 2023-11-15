@@ -11,6 +11,14 @@ innbok-key-rating:: 40
   - #question What is the product development strategy?
   - #question Is there a plan for quickly launching the product?
   - #question Is the product development process efficient?
+- #Risks
+
+  - ### Agility
+  - Lack of agility can result in missed opportunities and inability to adapt to market changes.
+  - #### mitigation strategy
+  - Develop plans for managing different stages of the product life cycle and monitor market trends for potential product adaptations.
+  - #### contingency strategy
+  - Evaluate the difficulty of launching a version 1.0 of the product and develop a strategy for product development and adaptation.
 - #TODOs
   - TODO Develop plans for managing different stages of the product life cycle, such as updates or enhancements
   - TODO  Monitor market trends and technology advancements for potential product adaptations

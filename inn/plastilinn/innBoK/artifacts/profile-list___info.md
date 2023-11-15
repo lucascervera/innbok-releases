@@ -4,7 +4,7 @@ relations:: [[]]
 weight:: 60
 
 - ## Definition
-  - 
+  - A profile list in the context of a business model refers to a comprehensive collection of customer or user profiles.
 - ## Content type ()
   - Content is of type text.
   
@@ -20,5 +20,9 @@ weight:: 60
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  
+- ## Topics
   
 

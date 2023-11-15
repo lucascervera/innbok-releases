@@ -21,4 +21,15 @@ weight:: 50
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[strategy/Expansion Capability]] [[***]] [[-+]]
+    key-weight:: 45
+  - #key [[strategy/Cultural Adaptability]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[strategy/Cultural Sensitivity]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[strategy/International Logistics]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
+  
 

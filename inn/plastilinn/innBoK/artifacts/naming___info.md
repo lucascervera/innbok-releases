@@ -21,4 +21,15 @@ weight:: 30
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[naming/Pronunciation Ease]] [[*]] [[-+]]
+    key-weight:: 20
+  - #key [[naming/Phonetic Consistency]] [[*]] [[-+]]
+    key-weight:: 10
+  - #key [[naming/Spelling from Pronunciation]] [[*]] [[-+]]
+    key-weight:: 10
+  - #key [[naming/Negative Connotations]] [[*]] [[-+]]
+    key-weight:: 10
+- ## Topics
+  
 

@@ -21,4 +21,13 @@ weight:: 90
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[my-business/Continuous innovation and adaptation]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[my-business/Robust fraud prevention measures]] [[*]] [[-+]]
+    key-weight:: 20
+  - #key [[my-business/Stable political environment]] [[*]] [[-+]]
+    key-weight:: 10
+- ## Topics
+  
 

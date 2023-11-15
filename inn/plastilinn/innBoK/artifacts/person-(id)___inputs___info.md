@@ -4,7 +4,7 @@ relations:: [[person (id)]] [[]]
 weight:: 50
 
 - ## Definition
-  - 
+  - Person (ID)/Inputs in a business model refers to the individuals or resources that contribute to the value creation process.
 - ## Content type ()
   - Content is of type list.
   
@@ -20,5 +20,9 @@ weight:: 50
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  
+- ## Topics
   
 

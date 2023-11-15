@@ -21,4 +21,11 @@ weight:: 20
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[segment-(id)/market-trends/Market growth potential]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[segment-(id)/market-trends/Market wideness]] [[**]] [[-+]]
+    key-weight:: 30
+- ## Topics
+  
 

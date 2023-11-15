@@ -4,7 +4,7 @@ relations:: [[]]
 weight:: 10
 
 - ## Definition
-  - 
+  - A contract list refers to a comprehensive inventory of all the agreements and legal obligations between a business and its stakeholders.
 - ## Content type ()
   - Content is of type text.
   
@@ -20,5 +20,10 @@ weight:: 10
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  - #key [[contract-list/Strong contractual agreements]] [[**]] [[-+]]
+    key-weight:: 30
+- ## Topics
   
 

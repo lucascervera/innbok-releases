@@ -21,4 +21,17 @@ weight:: 50
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[values-(organization)/Corporate Ethics]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[values-(organization)/Sustainable Practices]] [[**]] [[-+]]
+    key-weight:: 35
+  - #key [[values-(organization)/Environmental sustainability]] [[**]] [[-+]]
+    key-weight:: 25
+  - #key [[values-(organization)/Environmental Consciousness]] [[**]] [[-+]]
+    key-weight:: 25
+  - #key [[values-(organization)/Community Contribution]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
+  
 

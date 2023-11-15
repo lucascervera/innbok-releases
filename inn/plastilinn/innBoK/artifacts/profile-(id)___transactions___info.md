@@ -5,7 +5,7 @@ relations:: [[profile (id)]] [[solution id___offerings]] [[profile id___assets]]
 weight:: 20
 
 - ## Definition
-  - 
+  - A profile (ID)/transaction refers to the collection of data and activities associated with a specific customer or business transaction.
 - ## Content type (transaction)
   - Content is of type list.
   
@@ -25,5 +25,9 @@ weight:: 20
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  
+- ## Topics
   
 

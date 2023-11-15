@@ -4,7 +4,7 @@ relations:: [[]]
 weight:: 70
 
 - ## Definition
-  - 
+  - A segment list refers to a categorized compilation of target customer groups based on shared characteristics or needs.
 - ## Content type ()
   - Content is of type list.
   
@@ -20,5 +20,12 @@ weight:: 70
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  - #key [[segment-list/Market expansion opportunities]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[segment-list/Diversified customer base]] [[**]] [[-+]]
+    key-weight:: 30
+- ## Topics
   
 

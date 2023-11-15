@@ -4,7 +4,7 @@ relations:: [[]]
 weight:: 
 
 - ## Definition
-  - 
+  - Business appraisals refer to the process of evaluating and determining the value of a business entity or its assets.
 - ## Content type ()
   - Content is of type text.
   
@@ -20,5 +20,9 @@ weight::
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  
+- ## Topics
   
 

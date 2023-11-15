@@ -26,4 +26,11 @@ weight:: 50
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[profile-(id)/value-proposition/Solution to a Problem]] [[****]] [[-+]]
+    key-weight:: 70
+  - #key [[profile-(id)/value-proposition/Potential value]] [[**]] [[-+]]
+    key-weight:: 40
+- ## Topics
+  
 

@@ -1,100 +1,100 @@
 - function
-  - #[[function]]  [[Operations/Process Optimization]] #🔖
-  - #[[function]]  [[Operations/Inventory Management]] #🔖
-  - #[[function]]  [[Operations/Logistics]] #🔖
-  - #[[function]]  [[Operations/Procurement and Supplier Management]] #🔖
-  - #[[function]]  [[Operations/Facilities Management]] #🔖
-  - #[[function]]  [[Supply Chain/Supply Chain Planning]] #🔖
-  - #[[function]]  [[Supply Chain/Warehousing and Distribution]] #🔖
-  - #[[function]]  [[Supply Chain/Order Fulfillment]] #🔖
-  - #[[function]]  [[Legal/Contract Management]] #🔖
-  - #[[function]]  [[Legal/Intellectual Property Protection]] #🔖
-  - #[[function]]  [[Legal/Regulatory Compliance]] #🔖
-  - #[[function]]  [[Legal/Legal Counsel]] #🔖
-  - #[[function]]  [[Compliance/Risk Management]] #🔖
-  - #[[function]]  [[Compliance/Data Privacy and Protection]] #🔖
-  - #[[function]]  [[Compliance/Ethics and Governance]] #🔖
-  - #[[function]]  [[Data/Data Analysis]] #🔖
-  - #[[function]]  [[Data/Data Visualization]] #🔖
-  - #[[function]]  [[Data/Data Management]] #🔖
-  - #[[function]]  [[Analytics/Marketing Analytics]] #🔖
-  - #[[function]]  [[Analytics/Business Intelligence]] #🔖
-  - #[[function]]  [[Analytics/Forecasting and Predictive Modeling]] #🔖
-  - #[[function]]  [[Analytics/A/B Testing and Experimentation]] #🔖
-  - #[[function]]  [[Administration/Office Management]] #🔖
-  - #[[function]]  [[Administration/Executive Assistance]] #🔖
-  - #[[function]]  [[Administration/Document Management]] #🔖
-  - #[[function]]  [[Office Support/Reception and Front Desk]] #🔖
-  - #[[function]]  [[Office Support/Calendar Management]] #🔖
-  - #[[function]]  [[Office Support/Travel Coordination]] #🔖
-  - #[[function]]  [[Office Support/Record Keeping]] #🔖
-  - #[[function]]  [[Strategy/Strategic Planning]] #🔖
-  - #[[function]]  [[Strategy/Business Analysis]] #🔖
-  - #[[function]]  [[Strategy/Market Research]] #🔖
-  - #[[function]]  [[Strategy/Competitive Intelligence]] #🔖
-  - #[[function]]  [[Business Planning/Business Development]] #🔖
-  - #[[function]]  [[Business Planning/Financial Planning]] #🔖
-  - #[[function]]  [[Business Planning/Market Entry Strategy]] #🔖
-  - #[[function]]  [[Business Planning/Feasibility Analysis]] #🔖
-  - #[[function]]  [[Customer Insights/Market Research]] #🔖
-  - #[[function]]  [[Customer Insights/User Research]] #🔖
-  - #[[function]]  [[Customer Insights/Customer Surveys]] #🔖
-  - #[[function]]  [[Customer Experience/Customer Journey Mapping]] #🔖
-  - #[[function]]  [[Customer Experience/Usability Testing]] #🔖
-  - #[[function]]  [[Customer Experience/Service Design]] #🔖
-  - #[[function]]  [[Customer Experience/Feedback Analysis]] #🔖
-  - #[[function]]  [[Public Relations/Media Relations]] #🔖
-  - #[[function]]  [[Public Relations/Press Release Writing]] #🔖
-  - #[[function]]  [[Public Relations/Event Planning and Coordination]] #🔖
-  - #[[function]]  [[Communication/Internal Communication]] #🔖
-  - #[[function]]  [[Communication/External Communication]] #🔖
-  - #[[function]]  [[Communication/Crisis Management]] #🔖
-  - #[[function]]  [[Communication/Brand Messaging]] #🔖
-  - #[[function]]  [[Marketing/SEO]] #🔖
-  - #[[function]]  [[Marketing/SEM (Search Engine Marketing)]] #🔖
-  - #[[function]]  [[Marketing/Social Media Marketing]] #🔖
-  - #[[function]]  [[Marketing/Content Marketing]] #🔖
-  - #[[function]]  [[Marketing/Email Marketing]] #🔖
-  - #[[function]]  [[Marketing/Growth Hacking]] #🔖
-  - #[[function]]  [[Marketing/Lead Generation]] #🔖
-  - #[[function]]  [[Marketing/Marketing Analytics]] #🔖
-  - #[[function]]  [[Product Development/Product Management]] #🔖
-  - #[[function]]  [[Product Development/Product Design]] #🔖
-  - #[[function]]  [[Project Management/Agile Project Management]] #🔖
-  - #[[function]]  [[Project Management/Quality Control]] #🔖
-  - #[[function]]  [[Project Management/Continuous Improvement]] #🔖
-  - #[[function]]  [[Project Management/Research and Development]] #🔖
-  - #[[function]]  [[Software Development/Software Engineering]] #🔖
-  - #[[function]]  [[Software Development/Web Development]] #🔖
-  - #[[function]]  [[Software Development/Mobile App Development]] #🔖
-  - #[[function]]  [[Technology/System Architecture]] #🔖
-  - #[[function]]  [[Technology/Cybersecurity]] #🔖
-  - #[[function]]  [[Technology/Data Analysis]] #🔖
-  - #[[function]]  [[Technology/Artificial Intelligence]] #🔖
-  - #[[function]]  [[Technology/Big Data]] #🔖
-  - #[[function]]  [[Sales/Sales Development]] #🔖
-  - #[[function]]  [[Sales/Account Management]] #🔖
-  - #[[function]]  [[Sales/Customer Support]] #🔖
-  - #[[function]]  [[Sales/Customer Retention]] #🔖
-  - #[[function]]  [[Sales/Upselling and Cross-selling]] #🔖
-  - #[[function]]  [[Customer Support/Technical Support]] #🔖
-  - #[[function]]  [[Customer Relations/Customer Relationship Management]] #🔖
-  - #[[function]]  [[Customer Relations/Strategic Partnerships]] #🔖
-  - #[[function]]  [[Finance/Accounting]] #🔖
-  - #[[function]]  [[Finance/Cost Control]] #🔖
-  - #[[function]]  [[Finance/Cash Flow Management]] #🔖
-  - #[[function]]  [[Finance/Financial Forecasting]] #🔖
-  - #[[function]]  [[Finance/Financial Analysis]] #🔖
-  - #[[function]]  [[Finance/Invoicing and Collections]] #🔖
-  - #[[function]]  [[Finance/Tax Management]] #🔖
-  - #[[function]]  [[Finance/Internal Auditing]] #🔖
-  - #[[function]]  [[Human Resources/Talent Management]] #🔖
-  - #[[function]]  [[Human Resources/Recruitment]] #🔖
-  - #[[function]]  [[Human Resources/Personnel Administration]] #🔖
-  - #[[function]]  [[Human Resources/Leadership Development]] #🔖
-  - #[[function]]  [[Organizational Culture/Employee Engagement]] #🔖
-  - #[[function]]  [[Organizational Culture/Performance Management]] #🔖
-  - #[[function]]  [[Organizational Culture/Training and Development]] #🔖
-  - #[[function]]  [[Organizational Culture/Diversity and Inclusion]] #🔖
+  - #[[function]]  [[Operations/Process Optimization]]
+  - #[[function]]  [[Operations/Inventory Management]]
+  - #[[function]]  [[Operations/Logistics]]
+  - #[[function]]  [[Operations/Procurement and Supplier Management]]
+  - #[[function]]  [[Operations/Facilities Management]]
+  - #[[function]]  [[Supply Chain/Supply Chain Planning]]
+  - #[[function]]  [[Supply Chain/Warehousing and Distribution]]
+  - #[[function]]  [[Supply Chain/Order Fulfillment]]
+  - #[[function]]  [[Legal/Contract Management]]
+  - #[[function]]  [[Legal/Intellectual Property Protection]]
+  - #[[function]]  [[Legal/Regulatory Compliance]]
+  - #[[function]]  [[Legal/Legal Counsel]]
+  - #[[function]]  [[Compliance/Risk Management]]
+  - #[[function]]  [[Compliance/Data Privacy and Protection]]
+  - #[[function]]  [[Compliance/Ethics and Governance]]
+  - #[[function]]  [[Data/Data Analysis]]
+  - #[[function]]  [[Data/Data Visualization]]
+  - #[[function]]  [[Data/Data Management]]
+  - #[[function]]  [[Analytics/Marketing Analytics]]
+  - #[[function]]  [[Analytics/Business Intelligence]]
+  - #[[function]]  [[Analytics/Forecasting and Predictive Modeling]]
+  - #[[function]]  [[Analytics/A/B Testing and Experimentation]]
+  - #[[function]]  [[Administration/Office Management]]
+  - #[[function]]  [[Administration/Executive Assistance]]
+  - #[[function]]  [[Administration/Document Management]]
+  - #[[function]]  [[Office Support/Reception and Front Desk]]
+  - #[[function]]  [[Office Support/Calendar Management]]
+  - #[[function]]  [[Office Support/Travel Coordination]]
+  - #[[function]]  [[Office Support/Record Keeping]]
+  - #[[function]]  [[Strategy/Strategic Planning]]
+  - #[[function]]  [[Strategy/Business Analysis]]
+  - #[[function]]  [[Strategy/Market Research]]
+  - #[[function]]  [[Strategy/Competitive Intelligence]]
+  - #[[function]]  [[Business Planning/Business Development]]
+  - #[[function]]  [[Business Planning/Financial Planning]]
+  - #[[function]]  [[Business Planning/Market Entry Strategy]]
+  - #[[function]]  [[Business Planning/Feasibility Analysis]]
+  - #[[function]]  [[Customer Insights/Market Research]]
+  - #[[function]]  [[Customer Insights/User Research]]
+  - #[[function]]  [[Customer Insights/Customer Surveys]]
+  - #[[function]]  [[Customer Experience/Customer Journey Mapping]]
+  - #[[function]]  [[Customer Experience/Usability Testing]]
+  - #[[function]]  [[Customer Experience/Service Design]]
+  - #[[function]]  [[Customer Experience/Feedback Analysis]]
+  - #[[function]]  [[Public Relations/Media Relations]]
+  - #[[function]]  [[Public Relations/Press Release Writing]]
+  - #[[function]]  [[Public Relations/Event Planning and Coordination]]
+  - #[[function]]  [[Communication/Internal Communication]]
+  - #[[function]]  [[Communication/External Communication]]
+  - #[[function]]  [[Communication/Crisis Management]]
+  - #[[function]]  [[Communication/Brand Messaging]]
+  - #[[function]]  [[Marketing/SEO]]
+  - #[[function]]  [[Marketing/SEM (Search Engine Marketing)]]
+  - #[[function]]  [[Marketing/Social Media Marketing]]
+  - #[[function]]  [[Marketing/Content Marketing]]
+  - #[[function]]  [[Marketing/Email Marketing]]
+  - #[[function]]  [[Marketing/Growth Hacking]]
+  - #[[function]]  [[Marketing/Lead Generation]]
+  - #[[function]]  [[Marketing/Marketing Analytics]]
+  - #[[function]]  [[Product Development/Product Management]]
+  - #[[function]]  [[Product Development/Product Design]]
+  - #[[function]]  [[Project Management/Agile Project Management]]
+  - #[[function]]  [[Project Management/Quality Control]]
+  - #[[function]]  [[Project Management/Continuous Improvement]]
+  - #[[function]]  [[Project Management/Research and Development]]
+  - #[[function]]  [[Software Development/Software Engineering]]
+  - #[[function]]  [[Software Development/Web Development]]
+  - #[[function]]  [[Software Development/Mobile App Development]]
+  - #[[function]]  [[Technology/System Architecture]]
+  - #[[function]]  [[Technology/Cybersecurity]]
+  - #[[function]]  [[Technology/Data Analysis]]
+  - #[[function]]  [[Technology/Artificial Intelligence]]
+  - #[[function]]  [[Technology/Big Data]]
+  - #[[function]]  [[Sales/Sales Development]]
+  - #[[function]]  [[Sales/Account Management]]
+  - #[[function]]  [[Sales/Customer Support]]
+  - #[[function]]  [[Sales/Customer Retention]]
+  - #[[function]]  [[Sales/Upselling and Cross-selling]]
+  - #[[function]]  [[Customer Support/Technical Support]]
+  - #[[function]]  [[Customer Relations/Customer Relationship Management]]
+  - #[[function]]  [[Customer Relations/Strategic Partnerships]]
+  - #[[function]]  [[Finance/Accounting]]
+  - #[[function]]  [[Finance/Cost Control]]
+  - #[[function]]  [[Finance/Cash Flow Management]]
+  - #[[function]]  [[Finance/Financial Forecasting]]
+  - #[[function]]  [[Finance/Financial Analysis]]
+  - #[[function]]  [[Finance/Invoicing and Collections]]
+  - #[[function]]  [[Finance/Tax Management]]
+  - #[[function]]  [[Finance/Internal Auditing]]
+  - #[[function]]  [[Human Resources/Talent Management]]
+  - #[[function]]  [[Human Resources/Recruitment]]
+  - #[[function]]  [[Human Resources/Personnel Administration]]
+  - #[[function]]  [[Human Resources/Leadership Development]]
+  - #[[function]]  [[Organizational Culture/Employee Engagement]]
+  - #[[function]]  [[Organizational Culture/Performance Management]]
+  - #[[function]]  [[Organizational Culture/Training and Development]]
+  - #[[function]]  [[Organizational Culture/Diversity and Inclusion]]
 
 

@@ -26,4 +26,13 @@ weight:: 20
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[segment-(id)/partners/Strategic Alliances]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[segment-(id)/partners/Supplier Relationships]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[segment-(id)/partners/Networking]] [[**]] [[-+]]
+    key-weight:: 25
+- ## Topics
+  
 

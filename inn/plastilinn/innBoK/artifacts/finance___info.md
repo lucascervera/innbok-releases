@@ -21,4 +21,19 @@ weight:: 50
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[finance/Profitability]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[finance/Gross margins]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[finance/Financial Management]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[finance/Finantial needs]] [[***]] [[-+]]
+    key-weight:: 45
+  - #key [[finance/Proactive tax planning and compliance]] [[*]] [[-+]]
+    key-weight:: 15
+  - #key [[finance/Currency risk management]] [[*]] [[-+]]
+    key-weight:: 10
+- ## Topics
+  
 

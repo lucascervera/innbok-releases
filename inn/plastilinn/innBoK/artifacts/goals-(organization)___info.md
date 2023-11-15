@@ -26,4 +26,9 @@ weight:: 70
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[goals-(organization)/Precisely Defined Objectives]] [[**]] [[-+]]
+    key-weight:: 40
+- ## Topics
+  
 

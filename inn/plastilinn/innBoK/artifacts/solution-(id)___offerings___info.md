@@ -26,4 +26,9 @@ weight:: 40
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[solution-(id)/offerings/Solutions offerings structure]] [[**]] [[-+]]
+    key-weight:: 40
+- ## Topics
+  
 

@@ -1,9 +1,10 @@
 color:: red
 icon:: 🗣️
 
-- ### #comment
-- {{query (and "#comment"  (not (page-property :exclude-from-graph-view "true")))}}
-- #+BEGIN_TIP
-  [[shiftclick]] on the page title to open it in the right panel
-  #+END_TIP
+- #minimal-query
+  #+BEGIN_QUERY
+    {:query (and "#comment"  (not (page-property :exclude-from-graph-view "true")))
+      :breadcrumb-show? false
+     }
+  #+END_QUERY
 -

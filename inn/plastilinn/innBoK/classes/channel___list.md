@@ -1,142 +1,142 @@
 - channel
-  - #[[channel]]  [[Pay-per-click/PPC advertising]] #🔖
-  - #[[channel]]  [[Phone]] #🔖
-  - #[[channel]]  [[SMS/Text messaging]] #🔖
-  - #[[channel]]  [[Email]] #🔖
-  - #[[channel]]  [[Website/live chat]] #🔖
-  - #[[channel]]  [[Social media platforms/Facebook]] #🔖
-  - #[[channel]]  [[Facebook Messenger]] #🔖
-  - #[[channel]]  [[Social media platforms/Twitter]] #🔖
-  - #[[channel]]  [[Social media platforms/Instagram]] #🔖
-  - #[[channel]]  [[Social media platforms/LinkedIn]] #🔖
-  - #[[channel]]  [[LinkedIn profile]] #🔖
-  - #[[channel]]  [[LinkedIn Company Page]] #🔖
-  - #[[channel]]  [[LinkedIn Ads]] #🔖
-  - #[[channel]]  [[Social media platforms/Snapchat]] #🔖
-  - #[[channel]]  [[Social media platforms/TikTok]] #🔖
-  - #[[channel]]  [[Social media platforms/Pinterest]] #🔖
-  - #[[channel]]  [[Social media platforms/Reddit]] #🔖
-  - #[[channel]]  [[Social media platforms/Quora]] #🔖
-  - #[[channel]]  [[Social media platforms/Medium]] #🔖
-  - #[[channel]]  [[Social media platforms/YouTube]] #🔖
-  - #[[channel]]  [[YouTube Ads]] #🔖
-  - #[[channel]]  [[Twitter profile]] #🔖
-  - #[[channel]]  [[Twitter Ads]] #🔖
-  - #[[channel]]  [[WhatsApp]] #🔖
-  - #[[channel]]  [[Instagram profile]] #🔖
-  - #[[channel]]  [[Instagram Ads]] #🔖
-  - #[[channel]]  [[Snapchat]] #🔖
-  - #[[channel]]  [[Blog]] #🔖
-  - #[[channel]]  [[Influencer partnerships]] #🔖
-  - #[[channel]]  [[Podcasts]] #🔖
-  - #[[channel]]  [[Webinars]] #🔖
-  - #[[channel]]  [[Virtual events]] #🔖
-  - #[[channel]]  [[Online communities]] #🔖
-  - #[[channel]]  [[Customer forums]] #🔖
-  - #[[channel]]  [[Customer feedback surveys]] #🔖
-  - #[[channel]]  [[Online product demos]] #🔖
-  - #[[channel]]  [[Mobile app push notifications]] #🔖
-  - #[[channel]]  [[Mobile app in-app messaging]] #🔖
-  - #[[channel]]  [[Customer support ticketing system]] #🔖
-  - #[[channel]]  [[Help center or knowledge base]] #🔖
-  - #[[channel]]  [[FAQ section on website]] #🔖
-  - #[[channel]]  [[Product packaging and inserts]] #🔖
-  - #[[channel]]  [[Print advertising]] #🔖
-  - #[[channel]]  [[Radio ads]] #🔖
-  - #[[channel]]  [[Television ads]] #🔖
-  - #[[channel]]  [[Direct mail]] #🔖
-  - #[[channel]]  [[Sponsorship of events or conferences]] #🔖
-  - #[[channel]]  [[Public relations/Press releases]] #🔖
-  - #[[channel]]  [[Public relations/Media outreach]] #🔖
-  - #[[channel]]  [[Content marketing]] #🔖
-  - #[[channel]]  [[Search engine optimization/SEO]] #🔖
-  - #[[channel]]  [[Google Ads]] #🔖
-  - #[[channel]]  [[Display advertising]] #🔖
-  - #[[channel]]  [[Native advertising]] #🔖
-  - #[[channel]]  [[Affiliate marketing]] #🔖
-  - #[[channel]]  [[Referral programs]] #🔖
-  - #[[channel]]  [[Customer loyalty programs]] #🔖
-  - #[[channel]]  [[Product placement in TV shows or movies]] #🔖
-  - #[[channel]]  [[Influencer marketing campaigns]] #🔖
-  - #[[channel]]  [[Partnerships with complementary brands]] #🔖
-  - #[[channel]]  [[Customer testimonials and case studies]] #🔖
-  - #[[channel]]  [[Online review platforms/Yelp]] #🔖
-  - #[[channel]]  [[Online review platforms/Google Reviews]] #🔖
-  - #[[channel]]  [[Word-of-mouth referrals]] #🔖
-  - #[[channel]]  [[Sales team interactions]] #🔖
-  - #[[channel]]  [[Trade shows and exhibitions]] #🔖
-  - #[[channel]]  [[Industry conferences and events]] #🔖
-  - #[[channel]]  [[Networking events]] #🔖
-  - #[[channel]]  [[Cold outreach emails]] #🔖
-  - #[[channel]]  [[Sales presentations]] #🔖
-  - #[[channel]]  [[Sales follow-up calls]] #🔖
-  - #[[channel]]  [[Customer onboarding calls]] #🔖
-  - #[[channel]]  [[Sales demos]] #🔖
-  - #[[channel]]  [[Customer success manager check-ins]] #🔖
-  - #[[channel]]  [[Cross-promotion with other businesses]] #🔖
-  - #[[channel]]  [[Online marketplaces/Amazon]] #🔖
-  - #[[channel]]  [[Online marketplaces/eBay]] #🔖
-  - #[[channel]]  [[E-commerce platforms/Shopify]] #🔖
-  - #[[channel]]  [[E-commerce platforms/WooCommerce]] #🔖
-  - #[[channel]]  [[Payment gateways/PayPal]] #🔖
-  - #[[channel]]  [[Payment gateways/Stripe]] #🔖
-  - #[[channel]]  [[Mobile wallets/Apple Pay]] #🔖
-  - #[[channel]]  [[Mobile wallets/Google Pay]] #🔖
-  - #[[channel]]  [[Affiliate networks]] #🔖
-  - #[[channel]]  [[Content syndication platforms]] #🔖
-  - #[[channel]]  [[Online advertising networks]] #🔖
-  - #[[channel]]  [[Email newsletters]] #🔖
-  - #[[channel]]  [[Web push notifications]] #🔖
-  - #[[channel]]  [[Influencer takeovers on social media]] #🔖
-  - #[[channel]]  [[Chatbots]] #🔖
-  - #[[channel]]  [[Voice assistants/Alexa]] #🔖
-  - #[[channel]]  [[Voice assistants/Google Assistant]] #🔖
-  - #[[channel]]  [[Virtual reality/VR experiences]] #🔖
-  - #[[channel]]  [[Augmented reality/AR experiences]] #🔖
-  - #[[channel]]  [[Customer referral platforms]] #🔖
-  - #[[channel]]  [[Online booking systems]] #🔖
-  - #[[channel]]  [[Interactive quizzes or assessments]] #🔖
-  - #[[channel]]  [[Surveys and polls]] #🔖
-  - #[[channel]]  [[Live video streaming/Facebook Live]] #🔖
-  - #[[channel]]  [[Live video streaming/Instagram Live]] #🔖
-  - #[[channel]]  [[Product sampling campaigns]] #🔖
-  - #[[channel]]  [[Crowdfunding platforms]] #🔖
-  - #[[channel]]  [[Online auctions]] #🔖
-  - #[[channel]]  [[Online classifieds]] #🔖
-  - #[[channel]]  [[Mobile app stores/Apple App Store]] #🔖
-  - #[[channel]]  [[Mobile app stores/Google Play Store]] #🔖
-  - #[[channel]]  [[User-generated content campaigns]] #🔖
-  - #[[channel]]  [[Loyalty apps]] #🔖
-  - #[[channel]]  [[SMS marketing campaigns]] #🔖
-  - #[[channel]]  [[Mobile wallet loyalty cards]] #🔖
-  - #[[channel]]  [[Customer feedback platforms]] #🔖
-  - #[[channel]]  [[Live chat support software]] #🔖
-  - #[[channel]]  [[Influencer endorsements]] #🔖
-  - #[[channel]]  [[Branded merchandise]] #🔖
-  - #[[channel]]  [[Virtual reality/VR storefronts]] #🔖
-  - #[[channel]]  [[Augmented reality/AR try-on experiences]] #🔖
-  - #[[channel]]  [[Online contest or giveaway platforms]] #🔖
-  - #[[channel]]  [[Social media contests or giveaways]] #🔖
-  - #[[channel]]  [[Customer appreciation events]] #🔖
-  - #[[channel]]  [[User-generated content competitions]] #🔖
-  - #[[channel]]  [[Bullseye framework/Viral Marketing]] #🔖
-  - #[[channel]]  [[Bullseye framework/Public relations]] #🔖
-  - #[[channel]]  [[Bullseye framework/Unconventional PR]] #🔖
-  - #[[channel]]  [[Bullseye framework/Search Engine Marketing]] #🔖
-  - #[[channel]]  [[Bullseye framework/Social & Display Ads]] #🔖
-  - #[[channel]]  [[Bullseye framework/Offline Advertising]] #🔖
-  - #[[channel]]  [[Bullseye framework/SEO]] #🔖
-  - #[[channel]]  [[Bullseye framework/Content Marketing]] #🔖
-  - #[[channel]]  [[Bullseye framework/Email Marketing]] #🔖
-  - #[[channel]]  [[Bullseye framework/Engineering As Marketing]] #🔖
-  - #[[channel]]  [[Bullseye framework/Business Development]] #🔖
-  - #[[channel]]  [[Bullseye framework/Sales]] #🔖
-  - #[[channel]]  [[Bullseye framework/Affiliate Programs]] #🔖
-  - #[[channel]]  [[Bullseye framework/Existing Platforms]] #🔖
-  - #[[channel]]  [[Bullseye framework/Events]] #🔖
-  - #[[channel]]  [[Bullseye framework/Speaking Engagements]] #🔖
-  - #[[channel]]  [[Bullseye framework/Community Building]] #🔖
-  - #[[channel]]  [[Bullseye framework/Targeting Blogs]] #🔖
-  - #[[channel]]  [[Bullseye framework/Trade Shows (inc. Virtual)]] #🔖
+  - #[[channel]]  [[Pay-per-click/PPC advertising]]
+  - #[[channel]]  [[Phone]]
+  - #[[channel]]  [[SMS/Text messaging]]
+  - #[[channel]]  [[Email]]
+  - #[[channel]]  [[Website/live chat]]
+  - #[[channel]]  [[Social media platforms/Facebook]]
+  - #[[channel]]  [[Facebook Messenger]]
+  - #[[channel]]  [[Social media platforms/Twitter]]
+  - #[[channel]]  [[Social media platforms/Instagram]]
+  - #[[channel]]  [[Social media platforms/LinkedIn]]
+  - #[[channel]]  [[LinkedIn profile]]
+  - #[[channel]]  [[LinkedIn Company Page]]
+  - #[[channel]]  [[LinkedIn Ads]]
+  - #[[channel]]  [[Social media platforms/Snapchat]]
+  - #[[channel]]  [[Social media platforms/TikTok]]
+  - #[[channel]]  [[Social media platforms/Pinterest]]
+  - #[[channel]]  [[Social media platforms/Reddit]]
+  - #[[channel]]  [[Social media platforms/Quora]]
+  - #[[channel]]  [[Social media platforms/Medium]]
+  - #[[channel]]  [[Social media platforms/YouTube]]
+  - #[[channel]]  [[YouTube Ads]]
+  - #[[channel]]  [[Twitter profile]]
+  - #[[channel]]  [[Twitter Ads]]
+  - #[[channel]]  [[WhatsApp]]
+  - #[[channel]]  [[Instagram profile]]
+  - #[[channel]]  [[Instagram Ads]]
+  - #[[channel]]  [[Snapchat]]
+  - #[[channel]]  [[Blog]]
+  - #[[channel]]  [[Influencer partnerships]]
+  - #[[channel]]  [[Podcasts]]
+  - #[[channel]]  [[Webinars]]
+  - #[[channel]]  [[Virtual events]]
+  - #[[channel]]  [[Online communities]]
+  - #[[channel]]  [[Customer forums]]
+  - #[[channel]]  [[Customer feedback surveys]]
+  - #[[channel]]  [[Online product demos]]
+  - #[[channel]]  [[Mobile app push notifications]]
+  - #[[channel]]  [[Mobile app in-app messaging]]
+  - #[[channel]]  [[Customer support ticketing system]]
+  - #[[channel]]  [[Help center or knowledge base]]
+  - #[[channel]]  [[FAQ section on website]]
+  - #[[channel]]  [[Product packaging and inserts]]
+  - #[[channel]]  [[Print advertising]]
+  - #[[channel]]  [[Radio ads]]
+  - #[[channel]]  [[Television ads]]
+  - #[[channel]]  [[Direct mail]]
+  - #[[channel]]  [[Sponsorship of events or conferences]]
+  - #[[channel]]  [[Public relations/Press releases]]
+  - #[[channel]]  [[Public relations/Media outreach]]
+  - #[[channel]]  [[Content marketing]]
+  - #[[channel]]  [[Search engine optimization/SEO]]
+  - #[[channel]]  [[Google Ads]]
+  - #[[channel]]  [[Display advertising]]
+  - #[[channel]]  [[Native advertising]]
+  - #[[channel]]  [[Affiliate marketing]]
+  - #[[channel]]  [[Referral programs]]
+  - #[[channel]]  [[Customer loyalty programs]]
+  - #[[channel]]  [[Product placement in TV shows or movies]]
+  - #[[channel]]  [[Influencer marketing campaigns]]
+  - #[[channel]]  [[Partnerships with complementary brands]]
+  - #[[channel]]  [[Customer testimonials and case studies]]
+  - #[[channel]]  [[Online review platforms/Yelp]]
+  - #[[channel]]  [[Online review platforms/Google Reviews]]
+  - #[[channel]]  [[Word-of-mouth referrals]]
+  - #[[channel]]  [[Sales team interactions]]
+  - #[[channel]]  [[Trade shows and exhibitions]]
+  - #[[channel]]  [[Industry conferences and events]]
+  - #[[channel]]  [[Networking events]]
+  - #[[channel]]  [[Cold outreach emails]]
+  - #[[channel]]  [[Sales presentations]]
+  - #[[channel]]  [[Sales follow-up calls]]
+  - #[[channel]]  [[Customer onboarding calls]]
+  - #[[channel]]  [[Sales demos]]
+  - #[[channel]]  [[Customer success manager check-ins]]
+  - #[[channel]]  [[Cross-promotion with other businesses]]
+  - #[[channel]]  [[Online marketplaces/Amazon]]
+  - #[[channel]]  [[Online marketplaces/eBay]]
+  - #[[channel]]  [[E-commerce platforms/Shopify]]
+  - #[[channel]]  [[E-commerce platforms/WooCommerce]]
+  - #[[channel]]  [[Payment gateways/PayPal]]
+  - #[[channel]]  [[Payment gateways/Stripe]]
+  - #[[channel]]  [[Mobile wallets/Apple Pay]]
+  - #[[channel]]  [[Mobile wallets/Google Pay]]
+  - #[[channel]]  [[Affiliate networks]]
+  - #[[channel]]  [[Content syndication platforms]]
+  - #[[channel]]  [[Online advertising networks]]
+  - #[[channel]]  [[Email newsletters]]
+  - #[[channel]]  [[Web push notifications]]
+  - #[[channel]]  [[Influencer takeovers on social media]]
+  - #[[channel]]  [[Chatbots]]
+  - #[[channel]]  [[Voice assistants/Alexa]]
+  - #[[channel]]  [[Voice assistants/Google Assistant]]
+  - #[[channel]]  [[Virtual reality/VR experiences]]
+  - #[[channel]]  [[Augmented reality/AR experiences]]
+  - #[[channel]]  [[Customer referral platforms]]
+  - #[[channel]]  [[Online booking systems]]
+  - #[[channel]]  [[Interactive quizzes or assessments]]
+  - #[[channel]]  [[Surveys and polls]]
+  - #[[channel]]  [[Live video streaming/Facebook Live]]
+  - #[[channel]]  [[Live video streaming/Instagram Live]]
+  - #[[channel]]  [[Product sampling campaigns]]
+  - #[[channel]]  [[Crowdfunding platforms]]
+  - #[[channel]]  [[Online auctions]]
+  - #[[channel]]  [[Online classifieds]]
+  - #[[channel]]  [[Mobile app stores/Apple App Store]]
+  - #[[channel]]  [[Mobile app stores/Google Play Store]]
+  - #[[channel]]  [[User-generated content campaigns]]
+  - #[[channel]]  [[Loyalty apps]]
+  - #[[channel]]  [[SMS marketing campaigns]]
+  - #[[channel]]  [[Mobile wallet loyalty cards]]
+  - #[[channel]]  [[Customer feedback platforms]]
+  - #[[channel]]  [[Live chat support software]]
+  - #[[channel]]  [[Influencer endorsements]]
+  - #[[channel]]  [[Branded merchandise]]
+  - #[[channel]]  [[Virtual reality/VR storefronts]]
+  - #[[channel]]  [[Augmented reality/AR try-on experiences]]
+  - #[[channel]]  [[Online contest or giveaway platforms]]
+  - #[[channel]]  [[Social media contests or giveaways]]
+  - #[[channel]]  [[Customer appreciation events]]
+  - #[[channel]]  [[User-generated content competitions]]
+  - #[[channel]]  [[Bullseye framework/Viral Marketing]]
+  - #[[channel]]  [[Bullseye framework/Public relations]]
+  - #[[channel]]  [[Bullseye framework/Unconventional PR]]
+  - #[[channel]]  [[Bullseye framework/Search Engine Marketing]]
+  - #[[channel]]  [[Bullseye framework/Social & Display Ads]]
+  - #[[channel]]  [[Bullseye framework/Offline Advertising]]
+  - #[[channel]]  [[Bullseye framework/SEO]]
+  - #[[channel]]  [[Bullseye framework/Content Marketing]]
+  - #[[channel]]  [[Bullseye framework/Email Marketing]]
+  - #[[channel]]  [[Bullseye framework/Engineering As Marketing]]
+  - #[[channel]]  [[Bullseye framework/Business Development]]
+  - #[[channel]]  [[Bullseye framework/Sales]]
+  - #[[channel]]  [[Bullseye framework/Affiliate Programs]]
+  - #[[channel]]  [[Bullseye framework/Existing Platforms]]
+  - #[[channel]]  [[Bullseye framework/Events]]
+  - #[[channel]]  [[Bullseye framework/Speaking Engagements]]
+  - #[[channel]]  [[Bullseye framework/Community Building]]
+  - #[[channel]]  [[Bullseye framework/Targeting Blogs]]
+  - #[[channel]]  [[Bullseye framework/Trade Shows (inc. Virtual)]]
 
 

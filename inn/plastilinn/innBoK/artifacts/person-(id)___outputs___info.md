@@ -4,7 +4,7 @@ relations:: [[person (id)]] [[]]
 weight:: 50
 
 - ## Definition
-  - 
+  - In the context of a business model, a person (ID)/output refers to the individuals or entities that generate value for the business.
 - ## Content type ()
   - Content is of type list.
   
@@ -20,5 +20,9 @@ weight:: 50
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  
+- ## Topics
   
 

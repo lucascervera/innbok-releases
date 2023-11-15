@@ -21,4 +21,25 @@ weight:: 60
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[solution-(id)/Product-Market Fit]] [[****]] [[-+]]
+    key-weight:: 70
+  - #key [[solution-(id)/Solution efficiency]] [[***]] [[-+]]
+    key-weight:: 55
+  - #key [[solution-(id)/Effective solution]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[solution-(id)/Financial benefits]] [[***]] [[-+]]
+    key-weight:: 45
+  - #key [[solution-(id)/Ease of Use]] [[***]] [[-+]]
+    key-weight:: 45
+  - #key [[solution-(id)/Product Quality]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[solution-(id)/Agility]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[solution-(id)/Robust product quality control]] [[**]] [[-+]]
+    key-weight:: 35
+  - #key [[solution-(id)/Product focus]] [[**]] [[-+]]
+    key-weight:: 30
+- ## Topics
+  
 

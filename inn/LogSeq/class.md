@@ -1,3 +1,4 @@
+public:: true
 icon:: 🌐
 
 - {{query (page-property :innbok-type [[class]])}}

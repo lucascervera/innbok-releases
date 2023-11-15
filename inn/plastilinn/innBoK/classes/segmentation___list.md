@@ -1,127 +1,127 @@
 - segmentation
-  - #[[segmentation]]  [[Demographic]] #🔖
-  - #[[segmentation]]  [[Demographic/Age]] #🔖
-  - #[[segmentation]]  [[Demographic/Gender]] #🔖
-  - #[[segmentation]]  [[Demographic/Income]] #🔖
-  - #[[segmentation]]  [[Demographic/Occupation]] #🔖
-  - #[[segmentation]]  [[Demographic/Education Level]] #🔖
-  - #[[segmentation]]  [[Demographic/Marital Status]] #🔖
-  - #[[segmentation]]  [[Demographic/Family Size]] #🔖
-  - #[[segmentation]]  [[Demographic/Generation]] #🔖
-  - #[[segmentation]]  [[Geographic]] #🔖
-  - #[[segmentation]]  [[Geographic/Country]] #🔖
-  - #[[segmentation]]  [[Geographic/Region]] #🔖
-  - #[[segmentation]]  [[Geographic/City]] #🔖
-  - #[[segmentation]]  [[Geographic/Urban or Rural Area]] #🔖
-  - #[[segmentation]]  [[Geographic/Climate]] #🔖
-  - #[[segmentation]]  [[Geographic/Language]] #🔖
-  - #[[segmentation]]  [[Psychographic]] #🔖
-  - #[[segmentation]]  [[Psychographic/Lifestyle]] #🔖
-  - #[[segmentation]]  [[Psychographic/Personality Traits]] #🔖
-  - #[[segmentation]]  [[Psychographic/Values and Beliefs]] #🔖
-  - #[[segmentation]]  [[Psychographic/Interests and Hobbies]] #🔖
-  - #[[segmentation]]  [[Psychographic/Opinions and Attitudes]] #🔖
-  - #[[segmentation]]  [[Behavioral]] #🔖
-  - #[[segmentation]]  [[Behavioral/Purchase History]] #🔖
-  - #[[segmentation]]  [[Behavioral/Frequency of Purchases]] #🔖
-  - #[[segmentation]]  [[Behavioral/Loyalty Level]] #🔖
-  - #[[segmentation]]  [[Behavioral/Buying Stage]] #🔖
-  - #[[segmentation]]  [[Behavioral/Product Usage Rate]] #🔖
-  - #[[segmentation]]  [[Behavioral/Brand Interactions]] #🔖
-  - #[[segmentation]]  [[Behavioral/Online Behavior]] #🔖
-  - #[[segmentation]]  [[Behavioral/Social Media Usage]] #🔖
-  - #[[segmentation]]  [[Behavioral/Email Engagement]] #🔖
-  - #[[segmentation]]  [[Behavioral/App Usage]] #🔖
-  - #[[segmentation]]  [[Behavioral/Participation in Loyalty Programs]] #🔖
-  - #[[segmentation]]  [[Technographic]] #🔖
-  - #[[segmentation]]  [[Technographic/Devices Used]] #🔖
-  - #[[segmentation]]  [[Technographic/Operating Systems]] #🔖
-  - #[[segmentation]]  [[Technographic/Internet Connection Type]] #🔖
-  - #[[segmentation]]  [[Technographic/Software or Tool Preferences]] #🔖
-  - #[[segmentation]]  [[Firmographic]] #🔖
-  - #[[segmentation]]  [[Firmographic/Company Size]] #🔖
-  - #[[segmentation]]  [[Firmographic/Industry or Vertical]] #🔖
-  - #[[segmentation]]  [[Firmographic/Revenue]] #🔖
-  - #[[segmentation]]  [[Firmographic/Geographic Location]] #🔖
-  - #[[segmentation]]  [[Firmographic/Years in Business]] #🔖
-  - #[[segmentation]]  [[Firmographic/Customer Acquisition Method]] #🔖
-  - #[[segmentation]]  [[Firmographic/Technology Adoption]] #🔖
-  - #[[segmentation]]  [[Firmographic/Budget Availability]] #🔖
-  - #[[segmentation]]  [[Firmographic/Organizational Structure]] #🔖
-  - #[[segmentation]]  [[Firmographic/Pain Points or Challenges]] #🔖
-  - #[[segmentation]]  [[Purchase Behavior]] #🔖
-  - #[[segmentation]]  [[Purchase Behavior/Price Sensitivity]] #🔖
-  - #[[segmentation]]  [[Purchase Behavior/Purchase Frequency]] #🔖
-  - #[[segmentation]]  [[Purchase Behavior/Purchase Channel Preference]] #🔖
-  - #[[segmentation]]  [[Purchase Behavior/Brand Loyalty]] #🔖
-  - #[[segmentation]]  [[Purchase Behavior/Purchase Decision-Making Process]] #🔖
-  - #[[segmentation]]  [[Attitudinal]] #🔖
-  - #[[segmentation]]  [[Attitudinal/Brand Preferences]] #🔖
-  - #[[segmentation]]  [[Attitudinal/Perceived Value]] #🔖
-  - #[[segmentation]]  [[Attitudinal/Customer Satisfaction]] #🔖
-  - #[[segmentation]]  [[Attitudinal/Brand Advocacy]] #🔖
-  - #[[segmentation]]  [[Attitudinal/Perception of Competitors]] #🔖
-  - #[[segmentation]]  [[Lifecycle]] #🔖
-  - #[[segmentation]]  [[Lifecycle/New Customers]] #🔖
-  - #[[segmentation]]  [[Lifecycle/Repeat Customers]] #🔖
-  - #[[segmentation]]  [[Lifecycle/Lapsed Customers]] #🔖
-  - #[[segmentation]]  [[Lifecycle/Prospects]] #🔖
-  - #[[segmentation]]  [[Lifecycle/Advocates]] #🔖
-  - #[[segmentation]]  [[Usage Patterns]] #🔖
-  - #[[segmentation]]  [[Usage Patterns/Frequency of Use]] #🔖
-  - #[[segmentation]]  [[Usage Patterns/Usage Intensity]] #🔖
-  - #[[segmentation]]  [[Usage Patterns/Feature Adoption]] #🔖
-  - #[[segmentation]]  [[Segment-Specific]] #🔖
-  - #[[segmentation]]  [[Segment-Specific/Enterprise vs. Small Business]] #🔖
-  - #[[segmentation]]  [[Segment-Specific/B2B vs. B2C]] #🔖
-  - #[[segmentation]]  [[Segment-Specific/Influencers vs. End Users]] #🔖
-  - #[[segmentation]]  [[Motivational]] #🔖
-  - #[[segmentation]]  [[Motivational/Goals and Aspirations]] #🔖
-  - #[[segmentation]]  [[Motivational/Needs and Desires]] #🔖
-  - #[[segmentation]]  [[Motivational/Problem Awareness]] #🔖
-  - #[[segmentation]]  [[Social]] #🔖
-  - #[[segmentation]]  [[Social/Online Communities]] #🔖
-  - #[[segmentation]]  [[Social/Social Media Behavior]] #🔖
-  - #[[segmentation]]  [[Social/Influence and Opinion Leaders]] #🔖
-  - #[[segmentation]]  [[Channel Preference]] #🔖
-  - #[[segmentation]]  [[Channel Preference/Online vs. Offline]] #🔖
-  - #[[segmentation]]  [[Channel Preference/Mobile vs. Desktop]] #🔖
-  - #[[segmentation]]  [[Channel Preference/In-Person vs. Remote]] #🔖
-  - #[[segmentation]]  [[Lifecycle Stage]] #🔖
-  - #[[segmentation]]  [[Lifecycle Stage/Awareness Stage]] #🔖
-  - #[[segmentation]]  [[Lifecycle Stage/Consideration Stage]] #🔖
-  - #[[segmentation]]  [[Lifecycle Stage/Decision Stage]] #🔖
-  - #[[segmentation]]  [[**Price Sensitivity]] #🔖
-  - #[[segmentation]]  [[Price Sensitivity/High Price vs. Low Price]] #🔖
-  - #[[segmentation]]  [[Price Sensitivity/Luxury vs. Budget]] #🔖
-  - #[[segmentation]]  [[Price Sensitivity/Discount or Deal Seekers]] #🔖
-  - #[[segmentation]]  [[Purchase Influencers]] #🔖
-  - #[[segmentation]]  [[Purchase Influencers/Individual Decision-Maker]] #🔖
-  - #[[segmentation]]  [[Purchase Influencers/Group Decision-Makers]] #🔖
-  - #[[segmentation]]  [[Purchase Influencers/Influencers or Recommendations]] #🔖
-  - #[[segmentation]]  [[Risk Profile]] #🔖
-  - #[[segmentation]]  [[Risk Profile/Risk-Takers]] #🔖
-  - #[[segmentation]]  [[Risk Profile/Risk-Averse]] #🔖
-  - #[[segmentation]]  [[Purchase Triggers]] #🔖
-  - #[[segmentation]]  [[Purchase Triggers/Need-Based]] #🔖
-  - #[[segmentation]]  [[Purchase Triggers/Emotion-Based]] #🔖
-  - #[[segmentation]]  [[Purchase Triggers/Impulse Buyers]] #🔖
-  - #[[segmentation]]  [[Customer Journey]] #🔖
-  - #[[segmentation]]  [[Customer Journey/First-Time Buyers]] #🔖
-  - #[[segmentation]]  [[Customer Journey/Repeat Buyers]] #🔖
-  - #[[segmentation]]  [[Customer Journey/Abandoned Cart]] #🔖
-  - #[[segmentation]]  [[Customer Service Preferences]] #🔖
-  - #[[segmentation]]  [[Customer Service Preferences/Self-Service]] #🔖
-  - #[[segmentation]]  [[Customer Service Preferences/Phone Support]] #🔖
-  - #[[segmentation]]  [[Customer Service Preferences/Chat or Messaging Support]] #🔖
-  - #[[segmentation]]  [[Product Category Preferences]] #🔖
-  - #[[segmentation]]  [[Product Category Preferences/High-End vs. Affordable]] #🔖
-  - #[[segmentation]]  [[Product Category Preferences/Specific Industry or Niche]] #🔖
-  - #[[segmentation]]  [[Product Category Preferences/Complementary Products]] #🔖
-  - #[[segmentation]]  [[Innovation Adoption]] #🔖
-  - #[[segmentation]]  [[Innovation Adoption/Early Adopters]] #🔖
-  - #[[segmentation]]  [[Innovation Adoption/Late Majority]] #🔖
-  - #[[segmentation]]  [[Brand Engagement]] #🔖
-  - #[[segmentation]]  [[Brand Engagement/Socially Responsible Consumers]] #🔖
+  - #[[segmentation]]  [[Demographic]]
+  - #[[segmentation]]  [[Demographic/Age]]
+  - #[[segmentation]]  [[Demographic/Gender]]
+  - #[[segmentation]]  [[Demographic/Income]]
+  - #[[segmentation]]  [[Demographic/Occupation]]
+  - #[[segmentation]]  [[Demographic/Education Level]]
+  - #[[segmentation]]  [[Demographic/Marital Status]]
+  - #[[segmentation]]  [[Demographic/Family Size]]
+  - #[[segmentation]]  [[Demographic/Generation]]
+  - #[[segmentation]]  [[Geographic]]
+  - #[[segmentation]]  [[Geographic/Country]]
+  - #[[segmentation]]  [[Geographic/Region]]
+  - #[[segmentation]]  [[Geographic/City]]
+  - #[[segmentation]]  [[Geographic/Urban or Rural Area]]
+  - #[[segmentation]]  [[Geographic/Climate]]
+  - #[[segmentation]]  [[Geographic/Language]]
+  - #[[segmentation]]  [[Psychographic]]
+  - #[[segmentation]]  [[Psychographic/Lifestyle]]
+  - #[[segmentation]]  [[Psychographic/Personality Traits]]
+  - #[[segmentation]]  [[Psychographic/Values and Beliefs]]
+  - #[[segmentation]]  [[Psychographic/Interests and Hobbies]]
+  - #[[segmentation]]  [[Psychographic/Opinions and Attitudes]]
+  - #[[segmentation]]  [[Behavioral]]
+  - #[[segmentation]]  [[Behavioral/Purchase History]]
+  - #[[segmentation]]  [[Behavioral/Frequency of Purchases]]
+  - #[[segmentation]]  [[Behavioral/Loyalty Level]]
+  - #[[segmentation]]  [[Behavioral/Buying Stage]]
+  - #[[segmentation]]  [[Behavioral/Product Usage Rate]]
+  - #[[segmentation]]  [[Behavioral/Brand Interactions]]
+  - #[[segmentation]]  [[Behavioral/Online Behavior]]
+  - #[[segmentation]]  [[Behavioral/Social Media Usage]]
+  - #[[segmentation]]  [[Behavioral/Email Engagement]]
+  - #[[segmentation]]  [[Behavioral/App Usage]]
+  - #[[segmentation]]  [[Behavioral/Participation in Loyalty Programs]]
+  - #[[segmentation]]  [[Technographic]]
+  - #[[segmentation]]  [[Technographic/Devices Used]]
+  - #[[segmentation]]  [[Technographic/Operating Systems]]
+  - #[[segmentation]]  [[Technographic/Internet Connection Type]]
+  - #[[segmentation]]  [[Technographic/Software or Tool Preferences]]
+  - #[[segmentation]]  [[Firmographic]]
+  - #[[segmentation]]  [[Firmographic/Company Size]]
+  - #[[segmentation]]  [[Firmographic/Industry or Vertical]]
+  - #[[segmentation]]  [[Firmographic/Revenue]]
+  - #[[segmentation]]  [[Firmographic/Geographic Location]]
+  - #[[segmentation]]  [[Firmographic/Years in Business]]
+  - #[[segmentation]]  [[Firmographic/Customer Acquisition Method]]
+  - #[[segmentation]]  [[Firmographic/Technology Adoption]]
+  - #[[segmentation]]  [[Firmographic/Budget Availability]]
+  - #[[segmentation]]  [[Firmographic/Organizational Structure]]
+  - #[[segmentation]]  [[Firmographic/Pain Points or Challenges]]
+  - #[[segmentation]]  [[Purchase Behavior]]
+  - #[[segmentation]]  [[Purchase Behavior/Price Sensitivity]]
+  - #[[segmentation]]  [[Purchase Behavior/Purchase Frequency]]
+  - #[[segmentation]]  [[Purchase Behavior/Purchase Channel Preference]]
+  - #[[segmentation]]  [[Purchase Behavior/Brand Loyalty]]
+  - #[[segmentation]]  [[Purchase Behavior/Purchase Decision-Making Process]]
+  - #[[segmentation]]  [[Attitudinal]]
+  - #[[segmentation]]  [[Attitudinal/Brand Preferences]]
+  - #[[segmentation]]  [[Attitudinal/Perceived Value]]
+  - #[[segmentation]]  [[Attitudinal/Customer Satisfaction]]
+  - #[[segmentation]]  [[Attitudinal/Brand Advocacy]]
+  - #[[segmentation]]  [[Attitudinal/Perception of Competitors]]
+  - #[[segmentation]]  [[Lifecycle]]
+  - #[[segmentation]]  [[Lifecycle/New Customers]]
+  - #[[segmentation]]  [[Lifecycle/Repeat Customers]]
+  - #[[segmentation]]  [[Lifecycle/Lapsed Customers]]
+  - #[[segmentation]]  [[Lifecycle/Prospects]]
+  - #[[segmentation]]  [[Lifecycle/Advocates]]
+  - #[[segmentation]]  [[Usage Patterns]]
+  - #[[segmentation]]  [[Usage Patterns/Frequency of Use]]
+  - #[[segmentation]]  [[Usage Patterns/Usage Intensity]]
+  - #[[segmentation]]  [[Usage Patterns/Feature Adoption]]
+  - #[[segmentation]]  [[Segment-Specific]]
+  - #[[segmentation]]  [[Segment-Specific/Enterprise vs. Small Business]]
+  - #[[segmentation]]  [[Segment-Specific/B2B vs. B2C]]
+  - #[[segmentation]]  [[Segment-Specific/Influencers vs. End Users]]
+  - #[[segmentation]]  [[Motivational]]
+  - #[[segmentation]]  [[Motivational/Goals and Aspirations]]
+  - #[[segmentation]]  [[Motivational/Needs and Desires]]
+  - #[[segmentation]]  [[Motivational/Problem Awareness]]
+  - #[[segmentation]]  [[Social]]
+  - #[[segmentation]]  [[Social/Online Communities]]
+  - #[[segmentation]]  [[Social/Social Media Behavior]]
+  - #[[segmentation]]  [[Social/Influence and Opinion Leaders]]
+  - #[[segmentation]]  [[Channel Preference]]
+  - #[[segmentation]]  [[Channel Preference/Online vs. Offline]]
+  - #[[segmentation]]  [[Channel Preference/Mobile vs. Desktop]]
+  - #[[segmentation]]  [[Channel Preference/In-Person vs. Remote]]
+  - #[[segmentation]]  [[Lifecycle Stage]]
+  - #[[segmentation]]  [[Lifecycle Stage/Awareness Stage]]
+  - #[[segmentation]]  [[Lifecycle Stage/Consideration Stage]]
+  - #[[segmentation]]  [[Lifecycle Stage/Decision Stage]]
+  - #[[segmentation]]  [[**Price Sensitivity]]
+  - #[[segmentation]]  [[Price Sensitivity/High Price vs. Low Price]]
+  - #[[segmentation]]  [[Price Sensitivity/Luxury vs. Budget]]
+  - #[[segmentation]]  [[Price Sensitivity/Discount or Deal Seekers]]
+  - #[[segmentation]]  [[Purchase Influencers]]
+  - #[[segmentation]]  [[Purchase Influencers/Individual Decision-Maker]]
+  - #[[segmentation]]  [[Purchase Influencers/Group Decision-Makers]]
+  - #[[segmentation]]  [[Purchase Influencers/Influencers or Recommendations]]
+  - #[[segmentation]]  [[Risk Profile]]
+  - #[[segmentation]]  [[Risk Profile/Risk-Takers]]
+  - #[[segmentation]]  [[Risk Profile/Risk-Averse]]
+  - #[[segmentation]]  [[Purchase Triggers]]
+  - #[[segmentation]]  [[Purchase Triggers/Need-Based]]
+  - #[[segmentation]]  [[Purchase Triggers/Emotion-Based]]
+  - #[[segmentation]]  [[Purchase Triggers/Impulse Buyers]]
+  - #[[segmentation]]  [[Customer Journey]]
+  - #[[segmentation]]  [[Customer Journey/First-Time Buyers]]
+  - #[[segmentation]]  [[Customer Journey/Repeat Buyers]]
+  - #[[segmentation]]  [[Customer Journey/Abandoned Cart]]
+  - #[[segmentation]]  [[Customer Service Preferences]]
+  - #[[segmentation]]  [[Customer Service Preferences/Self-Service]]
+  - #[[segmentation]]  [[Customer Service Preferences/Phone Support]]
+  - #[[segmentation]]  [[Customer Service Preferences/Chat or Messaging Support]]
+  - #[[segmentation]]  [[Product Category Preferences]]
+  - #[[segmentation]]  [[Product Category Preferences/High-End vs. Affordable]]
+  - #[[segmentation]]  [[Product Category Preferences/Specific Industry or Niche]]
+  - #[[segmentation]]  [[Product Category Preferences/Complementary Products]]
+  - #[[segmentation]]  [[Innovation Adoption]]
+  - #[[segmentation]]  [[Innovation Adoption/Early Adopters]]
+  - #[[segmentation]]  [[Innovation Adoption/Late Majority]]
+  - #[[segmentation]]  [[Brand Engagement]]
+  - #[[segmentation]]  [[Brand Engagement/Socially Responsible Consumers]]
 
 

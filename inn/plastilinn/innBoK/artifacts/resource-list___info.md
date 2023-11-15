@@ -26,4 +26,11 @@ weight:: 40
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[resource-list/Resilient supply chain management]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[resource-list/Financial needs]] [[**]] [[-+]]
+    key-weight:: 40
+- ## Topics
+  
 

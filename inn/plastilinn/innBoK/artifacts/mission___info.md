@@ -21,4 +21,11 @@ weight:: 60
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[mission/Realism - Ambition]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[mission/Clarity of Conception]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
+  
 

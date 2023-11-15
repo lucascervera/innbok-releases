@@ -24,8 +24,12 @@
   weight:: 50
 - #key [[cashflow-projections/Positive Cash Flow]] [[***]] [[-+]]
   weight:: 55
+- #key [[contract-list/Strong contractual agreements]] [[**]] [[-+]]
+  weight:: 30
 - #key [[cost-lines/Cost Structure]] [[**]] [[-+]]
   weight:: 35
+- #key [[cost-lines/Cost optimization]] [[**]] [[-+]]
+  weight:: 30
 - #key [[finance/Profitability]] [[***]] [[-+]]
   weight:: 60
 - #key [[finance/Gross margins]] [[***]] [[-+]]
@@ -34,6 +38,10 @@
   weight:: 50
 - #key [[finance/Finantial needs]] [[***]] [[-+]]
   weight:: 45
+- #key [[finance/Proactive tax planning and compliance]] [[*]] [[-+]]
+  weight:: 15
+- #key [[finance/Currency risk management]] [[*]] [[-+]]
+  weight:: 10
 - #key [[finantial-projections/Projections]] [[**]] [[-+]]
   weight:: 40
 - #key [[founders/Founder's capacity]] [[****]] [[-+]]
@@ -46,10 +54,14 @@
   weight:: 30
 - #key [[founders/Founder's circumstances]] [[*]] [[-+]]
   weight:: 20
+- #key [[funding-strategy/Sufficient funding]] [[*****]] [[-+]]
+  weight:: 90
 - #key [[funding-strategy/Access to Capital]] [[***]] [[-+]]
   weight:: 45
 - #key [[goals-(organization)/Precisely Defined Objectives]] [[**]] [[-+]]
   weight:: 40
+- #key [[legal/Strong intellectual property protection]] [[****]] [[-+]]
+  weight:: 70
 - #key [[legal/Risk Management]] [[***]] [[-+]]
   weight:: 60
 - #key [[legal/Legal Compliance]] [[***]] [[-+]]
@@ -62,14 +74,22 @@
   weight:: 35
 - #key [[legal/Legal complexity]] [[**]] [[-+]]
   weight:: 25
+- #key [[legal/Regulatory compliance]] [[*]] [[-+]]
+  weight:: 20
 - #key [[legal/Intellectual Property]] [[*]] [[-+]]
   weight:: 20
+- #key [[marketing/Effective distribution and marketing channels]] [[****]] [[-+]]
+  weight:: 70
 - #key [[marketing/Market Demand]] [[****]] [[-+]]
   weight:: 65
+- #key [[marketing/Strong reputation management]] [[***]] [[-+]]
+  weight:: 60
 - #key [[marketing/Marketing Strategy]] [[***]] [[-+]]
   weight:: 60
 - #key [[marketing/Barriers to Entry]] [[***]] [[-+]]
   weight:: 45
+- #key [[marketing/Comprehensive market research and analysis]] [[**]] [[-+]]
+  weight:: 30
 - #key [[metric-list/Monitoring Key Metrics]] [[***]] [[-+]]
   weight:: 50
 - #key [[metric-list/Data Analysis Tools]] [[*]] [[-+]]
@@ -78,6 +98,12 @@
   weight:: 30
 - #key [[mission/Clarity of Conception]] [[*]] [[-+]]
   weight:: 20
+- #key [[my-business/Continuous innovation and adaptation]] [[***]] [[-+]]
+  weight:: 50
+- #key [[my-business/Robust fraud prevention measures]] [[*]] [[-+]]
+  weight:: 20
+- #key [[my-business/Stable political environment]] [[*]] [[-+]]
+  weight:: 10
 - #key [[naming/Pronunciation Ease]] [[*]] [[-+]]
   weight:: 20
 - #key [[naming/Phonetic Consistency]] [[*]] [[-+]]
@@ -86,6 +112,8 @@
   weight:: 10
 - #key [[naming/Negative Connotations]] [[*]] [[-+]]
   weight:: 10
+- #key [[operations/Robust cybersecurity measures]] [[**]] [[-+]]
+  weight:: 30
 - #key [[operations/Problem Resolution]] [[**]] [[-+]]
   weight:: 30
 - #key [[operations/Efficiency and Continuous Improvement]] [[**]] [[-+]]
@@ -122,14 +150,20 @@
   weight:: 30
 - #key [[profile-(id)/Customer Understanding]] [[****]] [[-+]]
   weight:: 75
+- #key [[profile-(id)/Customer retention]] [[***]] [[-+]]
+  weight:: 60
 - #key [[profile-(id)/channels/Distribution Channels]] [[****]] [[-+]]
   weight:: 65
+- #key [[profile-(id)/goals/Addressing a critical problem]] [[****]] [[-+]]
+  weight:: 80
 - #key [[profile-(id)/goals/Pain perception]] [[****]] [[-+]]
   weight:: 70
 - #key [[profile-(id)/goals/Urgency perception]] [[***]] [[-+]]
   weight:: 45
 - #key [[profile-(id)/goals/Finantial damage]] [[**]] [[-+]]
   weight:: 35
+- #key [[profile-(id)/relationship/Customer satisfaction]] [[****]] [[-+]]
+  weight:: 70
 - #key [[profile-(id)/sales-strategy/Sales cycle duration]] [[**]] [[-+]]
   weight:: 35
 - #key [[profile-(id)/sales-strategy/Decision makers accessibility]] [[**]] [[-+]]
@@ -140,10 +174,14 @@
   weight:: 40
 - #key [[project-plan/Business plan]] [[**]] [[-+]]
   weight:: 35
+- #key [[resource-list/Resilient supply chain management]] [[***]] [[-+]]
+  weight:: 50
 - #key [[resource-list/Financial needs]] [[**]] [[-+]]
   weight:: 40
 - #key [[revenue-lines/Revenue Sources]] [[****]] [[-+]]
   weight:: 65
+- #key [[revenue-lines/Diversified revenue streams]] [[**]] [[-+]]
+  weight:: 40
 - #key [[risk-list/Risk Identification]] [[***]] [[-+]]
   weight:: 50
 - #key [[risk-list/Crisis Management]] [[**]] [[-+]]
@@ -186,10 +224,16 @@
   weight:: 30
 - #key [[segment-(id)/partners/Networking]] [[**]] [[-+]]
   weight:: 25
+- #key [[segment-list/Market expansion opportunities]] [[***]] [[-+]]
+  weight:: 60
+- #key [[segment-list/Diversified customer base]] [[**]] [[-+]]
+  weight:: 30
 - #key [[solution-(id)/Product-Market Fit]] [[****]] [[-+]]
   weight:: 70
 - #key [[solution-(id)/Solution efficiency]] [[***]] [[-+]]
   weight:: 55
+- #key [[solution-(id)/Effective solution]] [[***]] [[-+]]
+  weight:: 50
 - #key [[solution-(id)/Financial benefits]] [[***]] [[-+]]
   weight:: 45
 - #key [[solution-(id)/Ease of Use]] [[***]] [[-+]]
@@ -198,6 +242,8 @@
   weight:: 40
 - #key [[solution-(id)/Agility]] [[**]] [[-+]]
   weight:: 40
+- #key [[solution-(id)/Robust product quality control]] [[**]] [[-+]]
+  weight:: 35
 - #key [[solution-(id)/Product focus]] [[**]] [[-+]]
   weight:: 30
 - #key [[solution-(id)/brochure/Business Brochure Quality]] [[*]] [[-+]]
@@ -210,8 +256,12 @@
   weight:: 40
 - #key [[solution-(id)/pricing/Adecuate pricing ]] [[***]] [[-+]]
   weight:: 55
+- #key [[solution-(id)/pricing/Competitive pricing]] [[**]] [[-+]]
+  weight:: 40
 - #key [[solution-(id)/roadmap/Solution roadmap quality]] [[*]] [[-+]]
   weight:: 10
+- #key [[solution-list/Efficient product development process]] [[**]] [[-+]]
+  weight:: 40
 - #key [[solution-list/Use of Technology]] [[**]] [[-+]]
   weight:: 40
 - #key [[solution-list/Information Security]] [[**]] [[-+]]
@@ -232,6 +282,10 @@
   weight:: 60
 - #key [[team/Adaptability to Change]] [[***]] [[-+]]
   weight:: 55
+- #key [[team/Team alignment]] [[***]] [[-+]]
+  weight:: 50
+- #key [[team/Effective talent acquisition and retention]] [[***]] [[-+]]
+  weight:: 50
 - #key [[team/Culture of Experimentation]] [[***]] [[-+]]
   weight:: 50
 - #key [[team/Human Resource Management]] [[***]] [[-+]]
@@ -246,12 +300,18 @@
   weight:: 20
 - #key [[team/Employee Development]] [[*]] [[-+]]
   weight:: 20
+- #key [[unfair-advantage/Differentiation and competitive advantage]] [[***]] [[-+]]
+  weight:: 60
 - #key [[unfair-advantage/Relevance of the Advantage]] [[***]] [[-+]]
   weight:: 55
+- #key [[unit-economics/Cost management and pricing strategies]] [[**]] [[-+]]
+  weight:: 40
 - #key [[values-(organization)/Corporate Ethics]] [[**]] [[-+]]
   weight:: 40
 - #key [[values-(organization)/Sustainable Practices]] [[**]] [[-+]]
   weight:: 35
+- #key [[values-(organization)/Environmental sustainability]] [[**]] [[-+]]
+  weight:: 25
 - #key [[values-(organization)/Environmental Consciousness]] [[**]] [[-+]]
   weight:: 25
 - #key [[values-(organization)/Community Contribution]] [[*]] [[-+]]

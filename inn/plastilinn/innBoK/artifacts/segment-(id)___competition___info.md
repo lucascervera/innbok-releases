@@ -26,4 +26,13 @@ weight:: 40
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[segment-(id)/competition/Competitive Advantage]] [[****]] [[-+]]
+    key-weight:: 65
+  - #key [[segment-(id)/competition/Competitive landscape]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[segment-(id)/competition/Competitor Analysis]] [[**]] [[-+]]
+    key-weight:: 40
+- ## Topics
+  
 

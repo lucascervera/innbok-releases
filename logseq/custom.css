@@ -1,3 +1,90 @@
+/* innBoK classes css */
+a[data-ref="key"] { position: relative; padding-left: 25px; } a[data-ref="key"]::before { content: "🔑"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="organization"] { position: relative; padding-left: 25px; } a[data-ref="organization"]::before { content: "🏢"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="journey"] { position: relative; padding-left: 25px; } a[data-ref="journey"]::before { content: "✈️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="assumption"] { position: relative; padding-left: 25px; } a[data-ref="assumption"]::before { content: "🔮"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="solution"] { position: relative; padding-left: 25px; } a[data-ref="solution"]::before { content: "💊"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="offering"] { position: relative; padding-left: 25px; } a[data-ref="offering"]::before { content: "🛍️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="work"] { position: relative; padding-left: 25px; } a[data-ref="work"]::before { content: "⚙️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="metric"] { position: relative; padding-left: 25px; } a[data-ref="metric"]::before { content: "📐"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="asset"] { position: relative; padding-left: 25px; } a[data-ref="asset"]::before { content: "⭐"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="revenue"] { position: relative; padding-left: 25px; } a[data-ref="revenue"]::before { content: "💰"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="segmentation"] { position: relative; padding-left: 25px; } a[data-ref="segmentation"]::before { content: "✂️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="segment"] { position: relative; padding-left: 25px; } a[data-ref="segment"]::before { content: "🙋"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="segment"] { position: relative; padding-left: 25px; } a[data-ref="segment"]::before { content: "🙋"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="value"] { position: relative; padding-left: 25px; } a[data-ref="value"]::before { content: "💎"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="channel"] { position: relative; padding-left: 25px; } a[data-ref="channel"]::before { content: "🎙️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="cost"] { position: relative; padding-left: 25px; } a[data-ref="cost"]::before { content: "💸"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="emotion"] { position: relative; padding-left: 25px; } a[data-ref="emotion"]::before { content: "😐"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="message"] { position: relative; padding-left: 25px; } a[data-ref="message"]::before { content: "📣"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="feature"] { position: relative; padding-left: 25px; } a[data-ref="feature"]::before { content: "🌟"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="function"] { position: relative; padding-left: 25px; } a[data-ref="function"]::before { content: "👔"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="goal"] { position: relative; padding-left: 25px; } a[data-ref="goal"]::before { content: "🎯"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="hypothesis"] { position: relative; padding-left: 25px; } a[data-ref="hypothesis"]::before { content: "🔎"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="person"] { position: relative; padding-left: 25px; } a[data-ref="person"]::before { content: "👤"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="transaction"] { position: relative; padding-left: 25px; } a[data-ref="transaction"]::before { content: "🛒"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="risk"] { position: relative; padding-left: 25px; } a[data-ref="risk"]::before { content: "🚨"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="experiment"] { position: relative; padding-left: 25px; } a[data-ref="experiment"]::before { content: "🧪"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="question"] { position: relative; padding-left: 25px; } a[data-ref="question"]::before { content: "💭"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="insight"] { position: relative; padding-left: 25px; } a[data-ref="insight"]::before { content: "💡"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="position"] { position: relative; padding-left: 25px; } a[data-ref="position"]::before { content: "🪪"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="skill"] { position: relative; padding-left: 25px; } a[data-ref="skill"]::before { content: "🔧"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="phase"] { position: relative; padding-left: 25px; } a[data-ref="phase"]::before { content: "🗓️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="milestone"] { position: relative; padding-left: 25px; } a[data-ref="milestone"]::before { content: "🏁"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="role"] { position: relative; padding-left: 25px; } a[data-ref="role"]::before { content: "🎩"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="stakeholder"] { position: relative; padding-left: 25px; } a[data-ref="stakeholder"]::before { content: "👀"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="persona"] { position: relative; padding-left: 25px; } a[data-ref="persona"]::before { content: "👩‍💼"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="topic"] { position: relative; padding-left: 25px; } a[data-ref="topic"]::before { content: "🗄️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="resource"] { position: relative; padding-left: 25px; } a[data-ref="resource"]::before { content: "🖥️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="artifact"] { position: relative; padding-left: 25px; } a[data-ref="artifact"]::before { content: "🧿"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="unit"] { position: relative; padding-left: 25px; } a[data-ref="unit"]::before { content: "📓"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="content"] { position: relative; padding-left: 25px; } a[data-ref="content"]::before { content: "📘"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="AI"] { position: relative; padding-left: 25px; } a[data-ref="AI"]::before { content: "🤖"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+a[data-ref="help"] { position: relative; padding-left: 25px; } a[data-ref="help"]::before { content: "🛎️"; position: absolute; left: 0; top: 0; margin-right: 5px; }
+
+/* innBoK markers css */
+a[data-ref="*"] { position: relative; padding-left: 25px; } a[data-ref="*"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="**"] { position: relative; padding-left: 25px; } a[data-ref="**"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="***"] { position: relative; padding-left: 25px; } a[data-ref="***"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="****"] { position: relative; padding-left: 25px; } a[data-ref="****"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="*****"] { position: relative; padding-left: 25px; } a[data-ref="*****"]::before { content: "⭐"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="?"] { position: relative; padding-left: 25px; } a[data-ref="?"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="??"] { position: relative; padding-left: 25px; } a[data-ref="??"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="???"] { position: relative; padding-left: 25px; } a[data-ref="???"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="????"] { position: relative; padding-left: 25px; } a[data-ref="????"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="?????"] { position: relative; padding-left: 25px; } a[data-ref="?????"]::before { content: "☁️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="="] { position: relative; padding-left: 25px; } a[data-ref="="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="=="] { position: relative; padding-left: 25px; } a[data-ref="=="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="==="] { position: relative; padding-left: 25px; } a[data-ref="==="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="===="] { position: relative; padding-left: 25px; } a[data-ref="===="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="====="] { position: relative; padding-left: 25px; } a[data-ref="====="]::before { content: "✅"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="+"] { position: relative; padding-left: 25px; } a[data-ref="+"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="++"] { position: relative; padding-left: 25px; } a[data-ref="++"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="+++"] { position: relative; padding-left: 25px; } a[data-ref="+++"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="++++"] { position: relative; padding-left: 25px; } a[data-ref="++++"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="+++++"] { position: relative; padding-left: 25px; } a[data-ref="+++++"]::before { content: "🔋"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="-"] { position: relative; padding-left: 25px; } a[data-ref="-"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="--"] { position: relative; padding-left: 25px; } a[data-ref="--"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="---"] { position: relative; padding-left: 25px; } a[data-ref="---"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="----"] { position: relative; padding-left: 25px; } a[data-ref="----"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="-----"] { position: relative; padding-left: 25px; } a[data-ref="-----"]::before { content: "🪫"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@"] { position: relative; padding-left: 25px; } a[data-ref="@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@@"] { position: relative; padding-left: 25px; } a[data-ref="@@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@@@"] { position: relative; padding-left: 25px; } a[data-ref="@@@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@@@@"] { position: relative; padding-left: 25px; } a[data-ref="@@@@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="@@@@@"] { position: relative; padding-left: 25px; } a[data-ref="@@@@@"]::before { content: "🚩"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="p"] { position: relative; padding-left: 25px; } a[data-ref="p"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="pp"] { position: relative; padding-left: 25px; } a[data-ref="pp"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="ppp"] { position: relative; padding-left: 25px; } a[data-ref="ppp"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="pppp"] { position: relative; padding-left: 25px; } a[data-ref="pppp"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="ppppp"] { position: relative; padding-left: 25px; } a[data-ref="ppppp"]::before { content: "🗓️"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!"] { position: relative; padding-left: 25px; } a[data-ref="!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!!"] { position: relative; padding-left: 25px; } a[data-ref="!!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!!!"] { position: relative; padding-left: 25px; } a[data-ref="!!!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!!!!"] { position: relative; padding-left: 25px; } a[data-ref="!!!!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+a[data-ref="!!!!!"] { position: relative; padding-left: 25px; } a[data-ref="!!!!!"]::before { content: "🔥"; position: absolute; left: 0; top: 50%; transform: translateY(-50%); font-size: 15px; }
+
+
 .ls-block[data-refs-self*='"item"'] {
     padding: 8px 0;
     margin: 4px 0 0 0;
@@ -181,32 +268,34 @@
 /* https://discuss.logseq.com/t/better-visual-signposting-of-collapsed-blocks/21232/3 */
 
 .bullet-container:not(.typed-list).bullet-closed {
-    background: navy;
+    background: rgba(0, 0, 128, 0.4);
 }
+
 
 /* https://discuss.logseq.com/t/block-properties-ui-auto-hiding-revealing-on-hover/20631/3 */
 
-/* Styles for displaying block properties */
-.block-properties {
-  display: none;
-  position: absolute;
-  transform: translateX(0%); /* Move the properties horizontally aligned with the ".block-content-inner" DIV Left Margin */
-  border-radius: 5px;
-  padding: 10px;
-  border: 1px solid var(--ls-secondary-border-color); /* Add custom border color from pre-defied variables */
+/* https://discuss.logseq.com/t/minimal-style-for-some-queries/15050 */
+
+[data-refs-self*="minimal-query"] .custom-query > .flex > .content {
+    display: none;
 }
-/* Show block properties on hovering .block-content-inner */
-.block-content-inner:hover ~ .block-properties {
-  display: block;
-  opacity: 1;
-  z-index: 999;
+
+[data-refs-self*="minimal-query"] .custom-query .fade-link {
+    display: none;
 }
-/* Hide .timestamp div on hovering .block-content-inner */
-.block-content-inner:hover ~ .timestamp {
-  display: none; /* Hide the .timestamp div when hovering on .block-content-inner */
+
+[data-refs-self*="minimal-query"] .custom-query .initial > div > .flex.flex-row .ui__toggle {
+    display: none;
 }
-/* Override styles for block properties in right sidebar */
-#right-sidebar .block-properties {
-  display: block;
-  position: relative;
+
+[data-refs-self*="minimal-query"] .custom-query {
+    margin-top: 0;
+}
+
+[data-refs-self*="minimal-query"] .custom-query .initial>div>.flex.flex-row {
+    margin-top: 0;
+}
+
+a.tag[data-ref*="minimal-query"] {
+    display: none;
 }

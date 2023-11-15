@@ -5,6 +5,14 @@ innbok-key-rating:: 20
   - #question Are there contingency plans in place for various scenarios?
   - #question Are these plans regularly reviewed and updated?
   - #question Is there a crisis management team?
+- #Risks
+
+  - ### Contingency Plans
+  - Lack of contingency plans can leave the business vulnerable to unexpected events or crises.
+  - #### mitigation strategy
+  - Develop contingency plans for various scenarios, such as natural disasters or economic downturns.
+  - #### contingency strategy
+  - Regularly review and update contingency plans and establish a crisis management team to handle unexpected events.
 - #TODOs
   - TODO Develop contingency plans for various scenarios, such as natural disasters or economic downturns
   - TODO  Regularly review and update contingency plans

@@ -21,4 +21,11 @@ weight:: 20
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[profile-(id)/sales-strategy/Sales cycle duration]] [[**]] [[-+]]
+    key-weight:: 35
+  - #key [[profile-(id)/sales-strategy/Decision makers accessibility]] [[**]] [[-+]]
+    key-weight:: 30
+- ## Topics
+  
 

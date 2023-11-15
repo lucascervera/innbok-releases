@@ -4,7 +4,7 @@ relations:: [[]]
 weight:: 60
 
 - ## Definition
-  - 
+  - A business idea refers to a unique concept or proposition that forms the foundation of a business model.
 - ## Content type ()
   - Content is of type text.
   
@@ -20,5 +20,26 @@ weight:: 60
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  - #key [[business-idea/Business Model Viability]] [[*****]] [[-+]]
+    key-weight:: 95
+  - #key [[business-idea/Maturity stage]] [[*****]] [[-+]]
+    key-weight:: 85
+  - #key [[business-idea/Monetizability]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[business-idea/Space]] [[***]] [[-+]]
+    key-weight:: 55
+  - #key [[business-idea/Scalability]] [[***]] [[-+]]
+    key-weight:: 55
+  - #key [[business-idea/Discoverability]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[business-idea/Business Model Innovation ]] [[**]] [[-+]]
+    key-weight:: 35
+  - #key [[business-idea/Clarity of the Idea]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[business-idea/Environment]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
   
 

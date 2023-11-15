@@ -10,6 +10,7 @@ icon:: 🗓️
       [?p :block/name "ppppp"]
       [?b :block/refs ?p]]
     :breadcrumb-show? false
+    :table-view? false
     }
     #+END_QUERY
 
@@ -20,6 +21,7 @@ icon:: 🗓️
       [?p :block/name "pppp"]
       [?b :block/refs ?p]]
     :breadcrumb-show? false
+    :table-view? false
     }
     #+END_QUERY
 
@@ -30,6 +32,7 @@ icon:: 🗓️
       [?p :block/name "ppp"]
       [?b :block/refs ?p]]
     :breadcrumb-show? false
+    :table-view? false
     }
     #+END_QUERY
 
@@ -40,6 +43,7 @@ icon:: 🗓️
       [?p :block/name "pp"]
       [?b :block/refs ?p]]
     :breadcrumb-show? false
+    :table-view? false
     }
     #+END_QUERY
 
@@ -50,6 +54,7 @@ icon:: 🗓️
       [?p :block/name "p"]
       [?b :block/refs ?p]]
     :breadcrumb-show? false
+    :table-view? false
     }
     #+END_QUERY
 

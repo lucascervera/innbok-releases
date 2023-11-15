@@ -26,4 +26,15 @@ weight:: 70
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[solution-list/Efficient product development process]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[solution-list/Use of Technology]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[solution-list/Information Security]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[solution-list/Technological Adaptability]] [[**]] [[-+]]
+    key-weight:: 30
+- ## Topics
+  
 

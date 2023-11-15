@@ -13,7 +13,8 @@
 	
  ;; The app will ignore those directories or files.
  ;; E.g. :hidden ["/archived" "/test.md" "../assets/archived"]
-
+:hidden ["/archived" "../archived" "./archived"]
+ 
  ;; When creating the new journal page, the app will use your template if there is one.
  ;; You only need to input your template name here.
  :default-templates
@@ -255,7 +256,7 @@
  :ref/hierarchy-collapsed-threshold 1
 
  ;; Favorites to list on the left sidebar
- :favorites ["plastilinn console" "business model content" "business model viewer" "innbok/innbok guide" "inncopilot map of contents" "business model editor" "tasks" "business model status" "markers" "dashboard" "comments" "risk console" "experiments" "inncopilot/docs" "inncopilot/community"]
+ :favorites ["todos" "keys (priority)" "risks (priority)" "inncopilot map of contents" "business model" "pending artifacts" "business model - pending" "business model - completed" "business model - keys (by rating)" "business model - keys (by weight)" "completed artifacts" "keys (weight)" "keys (rating)" "keys (risk)" "business model - risk" "tasks" "business model content" "business model viewer" "business model editor" "markers" "dashboard" "comments" "experiments" "inncopilot/docs" "inncopilot/community"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -266,7 +267,7 @@
  ;; hide specific properties for blocks
  ;; E.g. :block-hidden-properties #{:created-at :updated-at}
  ;; :block-hidden-properties #{}
- :block-hidden-properties #{:page-type :color :innbok-type :innbok-bm-id :priority :inncopilot-type :innbok-key-rating :bm-id :innbok-artifact :artifact-class :innbok-id :parent :inn-block-type :inn-block-title :inn-block-parent :artifact-page-type :inn-block-bm-id :content-type :status :tree-parent :inn-is-child-of :inn-block-card :tags :innbok-item-type}
+ :block-hidden-properties #{:page-type :color :innbok-type :innbok-bm-id :priority :inncopilot-type :innbok-key-rating :bm-id :innbok-artifact :artifact-class :innbok-id :parent :inn-block-type :inn-block-title :inn-block-parent :artifact-page-type :inn-block-bm-id :content-type :status :tree-parent :inn-is-child-of :inn-block-card :tags :innbok-item-type :key-weight :plastilinn-type}
 
 
  ;; Enable all your properties to have corresponding pages

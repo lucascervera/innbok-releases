@@ -21,4 +21,11 @@ weight:: 40
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[solution-(id)/pricing/Adecuate pricing ]] [[***]] [[-+]]
+    key-weight:: 55
+  - #key [[solution-(id)/pricing/Competitive pricing]] [[**]] [[-+]]
+    key-weight:: 40
+- ## Topics
+  
 

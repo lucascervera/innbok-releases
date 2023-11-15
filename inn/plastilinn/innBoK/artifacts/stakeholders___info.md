@@ -26,4 +26,17 @@ weight:: 80
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  
+- ## Topics
+    - ### TODO #topic topic/Stakeholder definition
+      plastilinn-type:: [[topic]] [[guide-item]]
+      innbok-artifact:: [[stakeholders]]
+      - {{embed [[topic/Stakeholder definition]]}}
+  
+    - ### TODO #resource: MIT Entrepreneurship Lesson What Do You Need to Start a Business
+      plastilinn-type:: [[resource]] [[guide-item]]
+      innbok-artifact:: [[stakeholders]]
+        - {{embed [[MIT Entrepreneurship Lesson What Do You Need to Start a Business]]}}
+    
 

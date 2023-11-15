@@ -21,4 +21,31 @@ weight:: 70
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[team/Team Skills]] [[****]] [[-+]]
+    key-weight:: 70
+  - #key [[team/Team Commitment]] [[***]] [[-+]]
+    key-weight:: 60
+  - #key [[team/Adaptability to Change]] [[***]] [[-+]]
+    key-weight:: 55
+  - #key [[team/Team alignment]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[team/Effective talent acquisition and retention]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[team/Culture of Experimentation]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[team/Human Resource Management]] [[***]] [[-+]]
+    key-weight:: 45
+  - #key [[team/Talent Retention]] [[**]] [[-+]]
+    key-weight:: 35
+  - #key [[team/Work Environment]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[team/Team composition]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[team/Benefits and Compensation]] [[*]] [[-+]]
+    key-weight:: 20
+  - #key [[team/Employee Development]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
+  
 

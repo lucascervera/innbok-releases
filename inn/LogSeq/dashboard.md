@@ -25,7 +25,7 @@
 	- [[important and uncertain chart]]
 	- [[key console]]
 		- [[keys analytics]]
-	- [[TODOs]]
+	- [[Tasks]]
 	- [[comments]]
 	- [[keys]]
 	- [[key console]]

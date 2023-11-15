@@ -26,4 +26,13 @@ weight:: 90
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[risk-list/Risk Identification]] [[***]] [[-+]]
+    key-weight:: 50
+  - #key [[risk-list/Crisis Management]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[risk-list/Contingency Plans]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
+  
 

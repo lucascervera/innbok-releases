@@ -4,7 +4,7 @@ relations:: [[]]
 weight:: 80
 
 - ## Definition
-  - 
+  - A key list in the context of a business model refers to a prioritized set of essential elements or components.
 - ## Content type ()
   - Content is of type text.
   
@@ -20,5 +20,9 @@ weight:: 80
     {{embed [[]]}}
   - ### 
     {{embed [[]]}}
+  
+- ## Keys
+  
+- ## Topics
   
 

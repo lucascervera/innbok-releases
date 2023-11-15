@@ -21,4 +21,23 @@ weight:: 70
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[segment-(id)/Accessibility to decision makers]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[segment-(id)/Market Adaptability]] [[**]] [[-+]]
+    key-weight:: 40
+  - #key [[segment-(id)/Paying Capacity]] [[**]] [[-+]]
+    key-weight:: 35
+  - #key [[segment-(id)/Market maturity]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[segment-(id)/Entry barriers]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[segment-(id)/Segment Homogeneity]] [[**]] [[-+]]
+    key-weight:: 25
+  - #key [[segment-(id)/Exit Barriers]] [[*]] [[-+]]
+    key-weight:: 15
+  - #key [[segment-(id)/Market Seasonality]] [[*]] [[-+]]
+    key-weight:: 10
+- ## Topics
+  
 

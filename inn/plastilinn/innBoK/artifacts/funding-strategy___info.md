@@ -21,4 +21,11 @@ weight:: 30
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[funding-strategy/Sufficient funding]] [[*****]] [[-+]]
+    key-weight:: 90
+  - #key [[funding-strategy/Access to Capital]] [[***]] [[-+]]
+    key-weight:: 45
+- ## Topics
+  
 

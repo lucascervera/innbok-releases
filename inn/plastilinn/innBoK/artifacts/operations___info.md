@@ -21,4 +21,17 @@ weight:: 50
   - ### 
     {{embed [[]]}}
   
+- ## Keys
+  - #key [[operations/Robust cybersecurity measures]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[operations/Problem Resolution]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[operations/Efficiency and Continuous Improvement]] [[**]] [[-+]]
+    key-weight:: 30
+  - #key [[operations/Process Automation]] [[**]] [[-+]]
+    key-weight:: 25
+  - #key [[operations/Production Capability]] [[*]] [[-+]]
+    key-weight:: 20
+- ## Topics
+  
 

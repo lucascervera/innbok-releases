@@ -15,8 +15,8 @@
   - {{embed [[attention]]}}
 - ### [[phase]]
   - {{embed [[phase]]}}
-- ### [[priority]]
-  - {{embed [[priority]]}}
+- ### [[risk]]
+  - {{embed [[risk]]}}
 
 
 
