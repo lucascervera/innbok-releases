@@ -1,5 +1,0 @@
-- {{renderer :tocgen2, [[business info - plastilinn]], calc(100vh - 135px)}}
-- {{embed [[innCoPilot Map of Contents]]}}
-- {{embed [[innCoPilot/docs]]}}
--
-- {{renderer :tocgen2, [[business info - plastilinn]], calc(100vh - 135px)}}
