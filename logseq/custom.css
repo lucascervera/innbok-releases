@@ -265,6 +265,21 @@ a[data-ref="!!!!!"] { position: relative; padding-left: 25px; } a[data-ref="!!!!
     transform: translateX(-4px);
 }
 
+/* task management */
+.todo {
+    opacity: 0.3;
+}
+.doing {
+    color: navy;
+}
+h1.done, h2.done, h3.done, h4.done, h5.done, h6.done {
+    text-decoration: none; 
+}
+.done {
+    color: navy;
+    opacity: 1;
+}
+
 /* https://discuss.logseq.com/t/better-visual-signposting-of-collapsed-blocks/21232/3 */
 
 .bullet-container:not(.typed-list).bullet-closed {

@@ -1,0 +1,103 @@
+{:blocks (
+{:block/collapsed? false
+:block/content "### [[*****]] [[?????]]\nquery-table:: true\n{{query (and [[*****]] [[?????]] )}}"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "652f85f7-ced6-45a0-9292-688c101b74fd"}
+:block/parent 
+{:block/uuid #uuid "652f85f7-ced6-45a0-9292-688c101b74fd"}
+:block/properties 
+{:query-table true
+:heading 3}
+:block/uuid #uuid "64f1a4aa-1408-4201-9be1-7c754810ace1"} 
+{:block/created-at 1693558925645
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke "red"
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64f1a4aa-1408-4201-9be1-7c754810ace1"
+:scaleLevel "md"
+:fill "red"
+:compact true
+:isAutoResizing false
+:type "logseq-portal"
+:size [480 344]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e419f6c0-48a3-11ee-a5a9-6ba761a4a995"
+:noFill false
+:point [280 256]
+:parentId "64f1a477-ab27-4579-bcdb-798ebbb599d9"
+:collapsedHeight 0
+:nonce 1693557924092}}
+:block/updated-at 1693558925645} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64f1a4aa-1408-4201-9be1-7c754810ace1"}
+:block/parent 
+{:block/uuid #uuid "64f1a4aa-1408-4201-9be1-7c754810ace1"}
+:block/properties 
+{}
+:block/uuid #uuid "64f1a626-a0e4-4446-b788-a4de5804bea5"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64f1a4aa-1408-4201-9be1-7c754810ace1"}
+:block/parent 
+{:block/uuid #uuid "652f85f7-ced6-45a0-9292-688c101b74fd"}
+:block/properties 
+{}
+:block/uuid #uuid "64f1a65b-271c-4eb6-aced-b9ef711e0a06"} 
+{:block/created-at 1693558917864
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "red"
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "innbok/marker/weight"
+:scaleLevel "md"
+:fill "red"
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 1651.78107451346]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "045224c0-48a5-11ee-a5a9-6ba761a4a995"
+:noFill false
+:point [-656 248]
+:parentId "64f1a477-ab27-4579-bcdb-798ebbb599d9"
+:collapsedHeight 0
+:nonce 1693558407499}}
+:block/updated-at 1693558917864})
+:pages (
+{:block/uuid #uuid "652f85f7-ced6-45a0-9292-688c101b74fd"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64f1a477-ab27-4579-bcdb-798ebbb599d9"
+:name "important and uncertain chart"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("e419f6c0-48a3-11ee-a5a9-6ba761a4a995" "045224c0-48a5-11ee-a5a9-6ba761a4a995")}}
+:block/journal? false
+:block/updated-at 1693558925645
+:block/created-at 1693557879388
+:block/type "whiteboard"
+:block/name "important and uncertain chart"
+:block/original-name "important and uncertain chart"})}
