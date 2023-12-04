@@ -21,10 +21,10 @@ weight:: 70
     {{embed [[people/examples/vein visualizer]]}}
   - ### people/examples/extinguished animals meat
     {{embed [[people/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### people/examples/Exotic Pet Rental
+    {{embed [[people/examples/Exotic Pet Rental]]}}
+  - ### people/examples/Underwater restaurant
+    {{embed [[people/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[people/Receptiveness to Feedback]] [[**]] [[-+]]

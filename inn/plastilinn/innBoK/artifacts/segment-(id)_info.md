@@ -16,10 +16,10 @@ weight:: 70
     {{embed [[segment-(id)/examples/vein visualizer]]}}
   - ### segment-(id)/examples/extinguished animals meat
     {{embed [[segment-(id)/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### segment-(id)/examples/Exotic Pet Rental
+    {{embed [[segment-(id)/examples/Exotic Pet Rental]]}}
+  - ### segment-(id)/examples/Underwater restaurant
+    {{embed [[segment-(id)/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[segment-(id)/Accessibility to decision makers]] [[**]] [[-+]]

@@ -16,10 +16,10 @@ weight:: 90
     {{embed [[validation/examples/vein visualizer]]}}
   - ### validation/examples/extinguished animals meat
     {{embed [[validation/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### validation/examples/Exotic Pet Rental
+    {{embed [[validation/examples/Exotic Pet Rental]]}}
+  - ### validation/examples/Underwater restaurant
+    {{embed [[validation/examples/Underwater restaurant]]}}
   
 - ## Keys
   

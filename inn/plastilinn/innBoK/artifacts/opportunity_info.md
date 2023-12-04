@@ -16,10 +16,10 @@ weight:: 40
     {{embed [[opportunity/examples/vein visualizer]]}}
   - ### opportunity/examples/extinguished animals meat
     {{embed [[opportunity/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### opportunity/examples/Exotic Pet Rental
+    {{embed [[opportunity/examples/Exotic Pet Rental]]}}
+  - ### opportunity/examples/Underwater restaurant
+    {{embed [[opportunity/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[opportunity/Momentum]] [[***]] [[-+]]

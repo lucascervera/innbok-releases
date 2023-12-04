@@ -16,10 +16,10 @@ weight:: 70
     {{embed [[team/examples/vein visualizer]]}}
   - ### team/examples/extinguished animals meat
     {{embed [[team/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### team/examples/Exotic Pet Rental
+    {{embed [[team/examples/Exotic Pet Rental]]}}
+  - ### team/examples/Underwater restaurant
+    {{embed [[team/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[team/Team Skills]] [[****]] [[-+]]

@@ -21,10 +21,10 @@ weight:: 70
     {{embed [[profile-(id)/goals/examples/vein visualizer]]}}
   - ### profile-(id)/goals/examples/extinguished animals meat
     {{embed [[profile-(id)/goals/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### profile-(id)/goals/examples/Exotic Pet Rental
+    {{embed [[profile-(id)/goals/examples/Exotic Pet Rental]]}}
+  - ### profile-(id)/goals/examples/Underwater restaurant
+    {{embed [[profile-(id)/goals/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[profile-(id)/goals/Addressing a critical problem]] [[****]] [[-+]]

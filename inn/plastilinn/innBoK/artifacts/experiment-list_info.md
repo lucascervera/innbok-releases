@@ -21,10 +21,10 @@ weight:: 60
     {{embed [[experiment-list/examples/vein visualizer]]}}
   - ### experiment-list/examples/extinguished animals meat
     {{embed [[experiment-list/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### experiment-list/examples/Exotic Pet Rental
+    {{embed [[experiment-list/examples/Exotic Pet Rental]]}}
+  - ### experiment-list/examples/Underwater restaurant
+    {{embed [[experiment-list/examples/Underwater restaurant]]}}
   
 - ## Keys
   

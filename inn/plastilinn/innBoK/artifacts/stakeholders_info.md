@@ -21,10 +21,10 @@ weight:: 80
     {{embed [[stakeholders/examples/vein visualizer]]}}
   - ### stakeholders/examples/extinguished animals meat
     {{embed [[stakeholders/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### stakeholders/examples/Exotic Pet Rental
+    {{embed [[stakeholders/examples/Exotic Pet Rental]]}}
+  - ### stakeholders/examples/Underwater restaurant
+    {{embed [[stakeholders/examples/Underwater restaurant]]}}
   
 - ## Keys
   

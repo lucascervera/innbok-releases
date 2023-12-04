@@ -16,10 +16,10 @@ weight::
     {{embed [[business-appraisals/examples/vein visualizer]]}}
   - ### business-appraisals/examples/extinguished animals meat
     {{embed [[business-appraisals/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### business-appraisals/examples/Exotic Pet Rental
+    {{embed [[business-appraisals/examples/Exotic Pet Rental]]}}
+  - ### business-appraisals/examples/Underwater restaurant
+    {{embed [[business-appraisals/examples/Underwater restaurant]]}}
   
 - ## Keys
   

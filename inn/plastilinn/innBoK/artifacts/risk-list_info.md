@@ -21,10 +21,10 @@ weight:: 90
     {{embed [[risk-list/examples/vein visualizer]]}}
   - ### risk-list/examples/extinguished animals meat
     {{embed [[risk-list/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### risk-list/examples/Exotic Pet Rental
+    {{embed [[risk-list/examples/Exotic Pet Rental]]}}
+  - ### risk-list/examples/Underwater restaurant
+    {{embed [[risk-list/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[risk-list/Risk Identification]] [[***]] [[-+]]

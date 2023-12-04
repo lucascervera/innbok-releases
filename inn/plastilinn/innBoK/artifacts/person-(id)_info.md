@@ -16,10 +16,10 @@ weight:: 70
     {{embed [[person-(id)/examples/vein visualizer]]}}
   - ### person-(id)/examples/extinguished animals meat
     {{embed [[person-(id)/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### person-(id)/examples/Exotic Pet Rental
+    {{embed [[person-(id)/examples/Exotic Pet Rental]]}}
+  - ### person-(id)/examples/Underwater restaurant
+    {{embed [[person-(id)/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[person-(id)/Leadership]] [[**]] [[-+]]

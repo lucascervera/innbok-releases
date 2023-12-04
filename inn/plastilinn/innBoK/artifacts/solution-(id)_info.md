@@ -16,10 +16,10 @@ weight:: 60
     {{embed [[solution-(id)/examples/vein visualizer]]}}
   - ### solution-(id)/examples/extinguished animals meat
     {{embed [[solution-(id)/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### solution-(id)/examples/Exotic Pet Rental
+    {{embed [[solution-(id)/examples/Exotic Pet Rental]]}}
+  - ### solution-(id)/examples/Underwater restaurant
+    {{embed [[solution-(id)/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[solution-(id)/Product-Market Fit]] [[****]] [[-+]]

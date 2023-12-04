@@ -16,10 +16,10 @@ weight:: 90
     {{embed [[my-business/examples/vein visualizer]]}}
   - ### my-business/examples/extinguished animals meat
     {{embed [[my-business/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### my-business/examples/Exotic Pet Rental
+    {{embed [[my-business/examples/Exotic Pet Rental]]}}
+  - ### my-business/examples/Underwater restaurant
+    {{embed [[my-business/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[my-business/Continuous innovation and adaptation]] [[***]] [[-+]]

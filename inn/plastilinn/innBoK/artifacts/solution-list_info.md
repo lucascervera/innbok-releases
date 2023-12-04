@@ -21,10 +21,10 @@ weight:: 70
     {{embed [[solution-list/examples/vein visualizer]]}}
   - ### solution-list/examples/extinguished animals meat
     {{embed [[solution-list/examples/extinguished animals meat]]}}
-  - ### 
-    {{embed [[]]}}
-  - ### 
-    {{embed [[]]}}
+  - ### solution-list/examples/Exotic Pet Rental
+    {{embed [[solution-list/examples/Exotic Pet Rental]]}}
+  - ### solution-list/examples/Underwater restaurant
+    {{embed [[solution-list/examples/Underwater restaurant]]}}
   
 - ## Keys
   - #key [[solution-list/Efficient product development process]] [[**]] [[-+]]
